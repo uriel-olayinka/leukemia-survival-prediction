@@ -1,0 +1,22 @@
+column,role,meaning,type,allowed_values,n_missing
+patient_id,bookkeeping (not a predictor),Child's unique TARGET ID. One row per child.,character,"unique text, one per child",0
+cohorts,bookkeeping (not a predictor),"TARGET study group(s) the child's samples came from. Reference only, tangled up with cell type, do not use as a predictor.",character,DISCOVERY; DISCOVERY + VALIDATION; DISCOVERY + VALIDATION;DISCOVERY; DISCOVERY + XENOGRAFT; VALIDATION; VALIDATION;DISCOVERY; XENOGRAFT,0
+deceased,outcome,"Outcome as a number: 1 = died, 0 = alive at last follow-up.",numeric,0 to 1,0
+outcome,outcome,"Same outcome as a labelled factor. Living is the first level and Deceased the second, so models predict death.",factor,Living; Deceased,0
+os_days,survival time (not a predictor),Days from diagnosis to death or last follow-up. Use with deceased for survival models. Missing for 6 children.,numeric,28 to 4750,6
+time_to_event_days,survival time (not a predictor),"Days from diagnosis to the first setback (relapse, second cancer, death, etc.) or last follow-up. NOT the survival time, do not pair with deceased.",numeric,20 to 4752,6
+age,baseline feature,"Age at diagnosis, in years.",numeric,2 to 30,0
+sex,baseline feature,Sex as recorded.,factor,Male; Female,0
+race,baseline feature,Race category as recorded. Unknown is kept as its own group.,factor,White; Unknown; Black or African American; Asian; Native Hawaiian or other Pacific Islander; American Indian or Alaska Native,0
+ethnicity,baseline feature,Ethnicity category as recorded. Unknown is kept as its own group.,factor,Not Hispanic or Latino; Hispanic or Latino; Unknown,0
+wbc,baseline feature,White blood cell count at diagnosis. Units are not stated in the file.,numeric,0.4 to 1306,0
+cell_origin,baseline feature,"Type of leukemia cell: B (B-cell, includes the B-Precursor label) or T (T-cell).",factor,B; T,1
+cns_status,baseline feature,"Leukemia involvement of the central nervous system at diagnosis. CNS 1 = none found, CNS 2 and 3 = increasing involvement, letters are sub-types.",factor,CNS 1; CNS 2; CNS 2a; CNS 2b; CNS 3; CNS 2c; CNS 3a; CNS 3b; CNS 3c,2
+bcr_abl1,baseline feature,Whether the leukemia cells carry the BCR-ABL1 gene fusion. Unknown is kept as its own group.,factor,Negative; Positive; Unknown,1
+blasts_day8,early-response feature,Percent of leukemia cells (blasts) left in the bone marrow on day 8 of treatment.,numeric,0 to 100,30
+blasts_day29,early-response feature,Percent of leukemia cells (blasts) left in the bone marrow on day 29 of treatment.,numeric,0 to 89,14
+mrd_day29,early-response feature,Minimal residual disease: percent of leukemia cells still detectable on day 29 of treatment.,numeric,0 to 87.8,11
+complete_case,bookkeeping (not a predictor),TRUE if all 11 features are filled in. Use filter(complete_case) for complete-case models.,logical,TRUE; FALSE,0
+fold,bookkeeping (not a predictor),Cross-validation fold. In cv_folds.csv and patients_imputed.rds. Stratified by outcome.,numeric,1 to 5,0
+heldout_fold,bookkeeping (not a predictor),In patients_imputed.rds only. Which fold was held out when this block's blanks were filled in.,numeric,1 to 5,0
+imputation,bookkeeping (not a predictor),In patients_imputed.rds only. Which of the 5 filled-in copies this row is from.,numeric,1 to 5,0
