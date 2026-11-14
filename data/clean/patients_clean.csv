@@ -1,0 +1,1542 @@
+patient_id,cohorts,deceased,outcome,os_days,time_to_event_days,age,sex,race,ethnicity,wbc,cell_origin,cns_status,bcr_abl1,blasts_day8,blasts_day29,mrd_day29
+TARGET-10-PAKHZT,DISCOVERY + XENOGRAFT,1,Deceased,605,355,14,Male,White,Hispanic or Latino,307,B,CNS 1,Negative,0,1,1.123899797
+TARGET-10-PAKKCA,DISCOVERY + XENOGRAFT,1,Deceased,1110,733,12,Male,White,Hispanic or Latino,236.4,B,CNS 1,Negative,73,17,17.98857868
+TARGET-10-PAKKXB,DISCOVERY + XENOGRAFT,0,Living,2097,2097,15,Female,White,Hispanic or Latino,92.7,B,CNS 2,Negative,2,0,0
+TARGET-10-PAKMVD,DISCOVERY + XENOGRAFT,0,Living,3328,3328,2,Male,Black or African American,Not Hispanic or Latino,82.9,B,CNS 3,Negative,0,4,0
+TARGET-10-PAKMZM,DISCOVERY + XENOGRAFT,1,Deceased,1914,1229,19,Male,White,Hispanic or Latino,114.6,B,CNS 1,Negative,26,0,0.559292035
+TARGET-10-PAKRSL,DISCOVERY + XENOGRAFT,1,Deceased,705,670,14,Female,White,Hispanic or Latino,321.2,B,CNS 1,Negative,NA,2,NA
+TARGET-10-PAKSWW,DISCOVERY + XENOGRAFT,1,Deceased,1592,532,16,Male,White,Hispanic or Latino,202.4,B,CNS 2,Negative,3,0,0
+TARGET-10-PAKTAL,DISCOVERY + XENOGRAFT,1,Deceased,1061,1043,13,Female,White,Hispanic or Latino,478,B,CNS 2,Negative,80,14,4.021384356
+TARGET-10-PAKVKK,DISCOVERY + XENOGRAFT,0,Living,4193,512,15,Male,White,Hispanic or Latino,220.7,B,CNS 1,Negative,27,0,46.0032591
+TARGET-10-PAKYEP,DISCOVERY + XENOGRAFT,0,Living,2463,464,3,Male,White,Hispanic or Latino,958.8,B,CNS 1,Negative,90,0,0
+TARGET-10-PALJCF,DISCOVERY + XENOGRAFT,0,Living,4671,4672,4,Female,White,Hispanic or Latino,214,B,CNS 3,Negative,27,0,0
+TARGET-10-PALJDL,DISCOVERY + XENOGRAFT,0,Living,4750,4752,4,Male,White,Not Hispanic or Latino,156,B,CNS 1,Negative,0,NA,0
+TARGET-10-PALKTY,DISCOVERY + XENOGRAFT,1,Deceased,1507,1310,7,Female,Unknown,Hispanic or Latino,202,B,CNS 1,Negative,4,2,0.059293044
+TARGET-10-PALLSD,DISCOVERY + XENOGRAFT,1,Deceased,3060,687,15,Male,White,Not Hispanic or Latino,166.5,B,CNS 2,Negative,20,0,0
+TARGET-10-PALNTB,DISCOVERY + XENOGRAFT,1,Deceased,1415,1023,9,Female,White,Not Hispanic or Latino,314.8,B,CNS 2,Negative,NA,2,0
+TARGET-10-PALTWS,DISCOVERY + XENOGRAFT,0,Living,2700,2703,15,Male,Unknown,Hispanic or Latino,96.5,B,CNS 3,Negative,0,1,0
+TARGET-10-PAMDKS,DISCOVERY + XENOGRAFT,1,Deceased,69,69,14,Female,White,Hispanic or Latino,592.6,B,CNS 1,Negative,22,0,0.180550459
+TARGET-10-PAMDRM,DISCOVERY + XENOGRAFT,1,Deceased,1213,994,8,Male,Asian,Not Hispanic or Latino,351.3,B,CNS 2,Negative,80,0,0.02233902799999999
+TARGET-10-PAMKZB,XENOGRAFT,1,Deceased,327,236,15,Male,White,Not Hispanic or Latino,107,NA,NA,NA,NA,NA,NA
+TARGET-10-PAMVYK,DISCOVERY,0,Living,2636,2636,12,Female,Black or African American,Not Hispanic or Latino,2.3,B,CNS 1,Negative,83,16,0
+TARGET-10-PAMXGS,DISCOVERY,0,Living,4425,4425,4,Male,Unknown,Hispanic or Latino,91.6,B,CNS 1,Negative,30,0,0
+TARGET-10-PAMXHJ,DISCOVERY,0,Living,4089,4089,7,Male,White,Hispanic or Latino,200,B,CNS 2,Negative,55,0,0
+TARGET-10-PAMXSP,DISCOVERY,0,Living,4383,4383,4,Male,White,Hispanic or Latino,74,B,CNS 3,Negative,90,0,0
+TARGET-10-PAMXXP,DISCOVERY,0,Living,3114,3114,5,Male,White,Not Hispanic or Latino,283,B,CNS 1,Negative,17,1,0.05799999999999999
+TARGET-10-PAMYCC,DISCOVERY,0,Living,3556,3556,12,Female,White,Not Hispanic or Latino,50.4,B,CNS 1,Negative,7,0,0
+TARGET-10-PAMYDV,DISCOVERY,0,Living,4123,4123,2,Female,White,Hispanic or Latino,182,B,CNS 1,Negative,10,1,0
+TARGET-10-PAMYEJ,DISCOVERY,0,Living,2402,2402,14,Male,Unknown,Hispanic or Latino,65.23,B,CNS 1,Negative,40,0,0.38
+TARGET-10-PAMYLL,DISCOVERY,0,Living,4129,4129,2,Male,Unknown,Hispanic or Latino,138,B,CNS 1,Negative,35,0,0.009
+TARGET-10-PAMYNW,DISCOVERY,0,Living,4260,4260,16,Male,White,Not Hispanic or Latino,18.7,B,CNS 1,Negative,60,0,0
+TARGET-10-PAMYSA,DISCOVERY,0,Living,4465,4465,7,Female,White,Not Hispanic or Latino,64.4,B,CNS 1,Negative,5,0,0
+TARGET-10-PAMYTW,DISCOVERY,0,Living,2703,2703,13,Male,White,Hispanic or Latino,41.1,B,CNS 1,Negative,0,1,0
+TARGET-10-PAMYVH,DISCOVERY,0,Living,2962,2962,16,Female,White,Not Hispanic or Latino,12.7,B,CNS 1,Positive,72,0,0
+TARGET-10-PAMYWB,DISCOVERY,0,Living,2325,2325,18,Female,White,Not Hispanic or Latino,452.1,B,CNS 2,Negative,1,3,0.066
+TARGET-10-PAMYWC,DISCOVERY,0,Living,1826,1826,2,Male,White,Not Hispanic or Latino,145,B,CNS 1,Negative,9,0,0.0047
+TARGET-10-PAMYWX,DISCOVERY,0,Living,2603,2603,14,Female,White,Hispanic or Latino,321,B,CNS 2,Negative,3,2,0
+TARGET-10-PAMYYP,DISCOVERY,0,Living,4139,4139,3,Female,White,Not Hispanic or Latino,58.7,B,CNS 1,Negative,0,1,0.12
+TARGET-10-PAMZDX,DISCOVERY,1,Deceased,3677,2910,13,Male,White,Not Hispanic or Latino,8.1,B,CNS 1,Positive,11,0,0.084
+TARGET-10-PAMZHB,DISCOVERY,0,Living,1201,1201,3,Male,White,Not Hispanic or Latino,61.7,B,CNS 1,Negative,2,2,0.01
+TARGET-10-PAMZKV,DISCOVERY,0,Living,4327,4327,12,Male,White,Not Hispanic or Latino,800,B,CNS 1,Negative,2,2,0
+TARGET-10-PAMZLK,DISCOVERY,0,Living,3373,3373,3,Male,White,Not Hispanic or Latino,59.1,B,CNS 1,Negative,2,4,0
+TARGET-10-PAMZLS,DISCOVERY,0,Living,2662,2662,5,Male,White,Not Hispanic or Latino,57,B,CNS 1,Negative,10,0,0
+TARGET-10-PAMZTU,DISCOVERY,0,Living,3154,3154,11,Male,Asian,Not Hispanic or Latino,4.5,B,CNS 1,Negative,70,2,0
+TARGET-10-PANAEN,DISCOVERY,0,Living,4355,4355,3,Male,White,Not Hispanic or Latino,334.3,B,CNS 1,Negative,6,2,0
+TARGET-10-PANAKF,DISCOVERY,0,Living,3725,3725,12,Male,Unknown,Hispanic or Latino,11.9,B,CNS 1,Negative,6,0,0
+TARGET-10-PANAKL,DISCOVERY,0,Living,2821,2821,18,Male,White,Not Hispanic or Latino,200,B,CNS 1,Positive,58,0,0.93645
+TARGET-10-PANALD,DISCOVERY,0,Living,3609,3609,3,Male,White,Not Hispanic or Latino,193,B,CNS 1,Negative,23,0,0
+TARGET-10-PANANL,DISCOVERY,0,Living,1630,1630,11,Female,Black or African American,Not Hispanic or Latino,44.4,B,CNS 3,Negative,1,2,0
+TARGET-10-PANATY,DISCOVERY,0,Living,4077,4077,5,Female,White,Not Hispanic or Latino,197,B,CNS 1,Negative,23,2,0
+TARGET-10-PANAVL,DISCOVERY,0,Living,3938,3938,2,Female,White,Not Hispanic or Latino,60.5,B,CNS 1,Negative,1,1,0
+TARGET-10-PANAWL,DISCOVERY,0,Living,4313,4313,20,Female,White,Not Hispanic or Latino,9.8,B,CNS 1,Negative,43,0,0
+TARGET-10-PANAWU,DISCOVERY,0,Living,4045,4045,9,Male,White,Not Hispanic or Latino,83.6,B,CNS 1,Negative,0,0,0
+TARGET-10-PANAYM,DISCOVERY,0,Living,2177,2177,6,Male,Unknown,Unknown,249,B,CNS 1,Negative,42,4,0
+TARGET-10-PANAYT,DISCOVERY,0,Living,2546,2546,12,Female,White,Not Hispanic or Latino,3.7,B,CNS 1,Negative,4,0,0
+TARGET-10-PANBDJ,DISCOVERY,0,Living,4104,4104,16,Male,White,Not Hispanic or Latino,37,B,CNS 1,Negative,0,0,0
+TARGET-10-PANBGW,DISCOVERY,0,Living,4339,4339,6,Female,Black or African American,Not Hispanic or Latino,52.3,B,CNS 1,Negative,6,1,0
+TARGET-10-PANBHA,DISCOVERY,0,Living,4149,4149,3,Male,White,Not Hispanic or Latino,111,B,CNS 1,Negative,3,1,0
+TARGET-10-PANBIK,DISCOVERY,0,Living,683,683,17,Male,White,Hispanic or Latino,16.8,B,CNS 1,Negative,0,0,0.0118
+TARGET-10-PANBIU,DISCOVERY,0,Living,958,958,2,Female,Unknown,Hispanic or Latino,108,B,CNS 1,Negative,2,1,0
+TARGET-10-PANBMP,DISCOVERY,0,Living,2975,2975,17,Male,White,Not Hispanic or Latino,19.43,B,CNS 1,Negative,6,0,0
+TARGET-10-PANBPG,DISCOVERY,0,Living,2720,2720,15,Male,White,Hispanic or Latino,47.5,B,CNS 2,Negative,7,1,0.04
+TARGET-10-PANBVU,DISCOVERY,0,Living,4244,4244,3,Female,Unknown,Hispanic or Latino,53.8,B,CNS 1,Negative,3,3,0
+TARGET-10-PANBWB,DISCOVERY,0,Living,1904,1904,13,Female,White,Hispanic or Latino,1.1,B,CNS 1,Negative,0,0,0.002
+TARGET-10-PANBXW,DISCOVERY,1,Deceased,3464,1764,8,Female,White,Not Hispanic or Latino,117,B,CNS 1,Negative,1,1,0.03
+TARGET-10-PANCVR,DISCOVERY,1,Deceased,473,285,7,Male,White,Hispanic or Latino,209.2,B,CNS 2,Negative,96,0,0.03
+TARGET-10-PANCZY,DISCOVERY,0,Living,3554,3554,16,Male,White,Not Hispanic or Latino,3.2,B,CNS 3,Negative,0,1,0
+TARGET-10-PANDBV,DISCOVERY,1,Deceased,1626,1371,18,Male,White,Hispanic or Latino,13.4,B,CNS 1,Negative,4,0,0.0311
+TARGET-10-PANDBX,DISCOVERY,1,Deceased,1719,801,4,Female,White,Not Hispanic or Latino,75.9,B,CNS 1,Negative,70,NA,0.35
+TARGET-10-PANDCF,DISCOVERY,1,Deceased,1069,908,8,Male,White,Hispanic or Latino,250.7,B,CNS 1,Negative,78,0,0
+TARGET-10-PANDJJ,DISCOVERY,0,Living,4087,4087,2,Male,White,Not Hispanic or Latino,243,B,CNS 1,Negative,78,0,0
+TARGET-10-PANDPX,DISCOVERY,0,Living,3982,1961,4,Male,White,Not Hispanic or Latino,65.3,B,CNS 1,Negative,0,0,0
+TARGET-10-PANDRS,DISCOVERY,1,Deceased,1063,978,19,Female,White,Hispanic or Latino,400,B,CNS 2,Negative,81,0,0.0019
+TARGET-10-PANDSH,DISCOVERY,1,Deceased,758,758,4,Female,White,Not Hispanic or Latino,89.3,B,CNS 1,Positive,91,3,3.976
+TARGET-10-PANDUK,DISCOVERY,0,Living,4158,4158,4,Male,White,Not Hispanic or Latino,84,B,CNS 1,Negative,12,0,0
+TARGET-10-PANDVD,DISCOVERY,0,Living,3741,1372,4,Male,White,Hispanic or Latino,108.08,B,CNS 1,Negative,17,0,0
+TARGET-10-PANDWE,DISCOVERY,1,Deceased,1571,1137,15,Female,White,Not Hispanic or Latino,64.9,B,CNS 1,Negative,86,0,0.382
+TARGET-10-PANDYD,DISCOVERY,1,Deceased,345,209,17,Male,American Indian or Alaska Native,Not Hispanic or Latino,37.3,B,CNS 1,Negative,1,0,0.002
+TARGET-10-PANEBL,DISCOVERY,0,Living,4052,30,2,Female,Unknown,Hispanic or Latino,79.8,B,CNS 1,Negative,90,50,41.2
+TARGET-10-PANEJT,DISCOVERY,0,Living,4239,4239,12,Male,White,Not Hispanic or Latino,22.5,B,CNS 1,Negative,0,1,0
+TARGET-10-PANELP,DISCOVERY,0,Living,1966,1966,13,Female,White,Hispanic or Latino,41.3,B,CNS 1,Negative,50,0,0
+TARGET-10-PANEPB,DISCOVERY,0,Living,3982,3982,2,Male,White,Not Hispanic or Latino,142.4,B,CNS 1,Negative,9,0,0
+TARGET-10-PANEPX,DISCOVERY,1,Deceased,546,350,19,Male,White,Not Hispanic or Latino,87.5,B,CNS 1,Negative,83,23,46.6
+TARGET-10-PANERJ,DISCOVERY,0,Living,2609,2609,3,Female,White,Not Hispanic or Latino,250,B,CNS 1,Negative,0,4,0
+TARGET-10-PANEUH,DISCOVERY,0,Living,4132,4132,2,Male,White,Not Hispanic or Latino,137,B,CNS 1,Negative,22,4,0
+TARGET-10-PANEVA,DISCOVERY,0,Living,3067,3067,5,Male,White,Not Hispanic or Latino,158.2,B,CNS 2,Negative,NA,2,0
+TARGET-10-PANEYX,DISCOVERY,0,Living,3960,3960,6,Male,White,Not Hispanic or Latino,58.3,B,CNS 1,Negative,0,0,0
+TARGET-10-PANEZJ,DISCOVERY,0,Living,3971,3971,13,Female,White,Hispanic or Latino,39.6,B,CNS 1,Negative,0,1,0
+TARGET-10-PANEZV,DISCOVERY,0,Living,4237,4237,3,Male,White,Hispanic or Latino,65.1,B,CNS 1,Negative,3,0,0
+TARGET-10-PANEZY,DISCOVERY,0,Living,3948,3948,12,Male,Black or African American,Not Hispanic or Latino,1.6,B,CNS 1,Negative,3,1,NA
+TARGET-10-PANFAE,DISCOVERY,0,Living,2677,2677,4,Male,White,Not Hispanic or Latino,121.3,B,CNS 1,Negative,12,0,0
+TARGET-10-PANFCE,DISCOVERY,0,Living,4142,4142,13,Male,White,Not Hispanic or Latino,9.8,B,CNS 2,Negative,NA,0,0
+TARGET-10-PANFGV,DISCOVERY,1,Deceased,1851,1309,14,Female,White,Not Hispanic or Latino,7.9,B,CNS 1,Negative,22,4,0
+TARGET-10-PANFNZ,DISCOVERY,1,Deceased,2778,2357,5,Female,White,Not Hispanic or Latino,143.7,B,CNS 1,Negative,88,1,1.02
+TARGET-10-PANFPD,DISCOVERY,0,Living,1307,1307,5,Female,White,Not Hispanic or Latino,92.7,B,CNS 2,Negative,2,0,5.02
+TARGET-10-PANFRW,DISCOVERY,0,Living,849,849,7,Female,White,Hispanic or Latino,79.1,B,CNS 2,Negative,1,0,0
+TARGET-10-PANFSE,DISCOVERY,0,Living,3936,3936,3,Male,White,Not Hispanic or Latino,83.5,B,CNS 1,Negative,31,1,0
+TARGET-10-PANFUM,DISCOVERY,0,Living,3034,3034,4,Male,White,Not Hispanic or Latino,132,B,CNS 1,Negative,90,2,0.002
+TARGET-10-PANGAW,DISCOVERY,0,Living,134,134,13,Female,Unknown,Hispanic or Latino,13.5,B,CNS 1,Negative,3,3,0
+TARGET-10-PANGBH,DISCOVERY,0,Living,4228,4228,6,Female,White,Not Hispanic or Latino,67.9,B,CNS 1,Negative,4,3,0
+TARGET-10-PANGFS,DISCOVERY,0,Living,3950,3950,16,Male,White,Not Hispanic or Latino,29.3,B,CNS 1,Negative,8,0,0.022
+TARGET-10-PANGIF,DISCOVERY,1,Deceased,428,368,12,Female,Unknown,Hispanic or Latino,24.6,B,CNS 1,Negative,2,0,0.26
+TARGET-10-PANGJC,DISCOVERY,0,Living,3652,3652,14,Male,Black or African American,Not Hispanic or Latino,7.9,B,CNS 1,Negative,0,1,0
+TARGET-10-PANGKN,DISCOVERY,0,Living,3487,3487,14,Male,Unknown,Hispanic or Latino,13,B,CNS 1,Negative,3,3,0
+TARGET-10-PANGRZ,DISCOVERY,0,Living,4182,4182,14,Male,White,Not Hispanic or Latino,2.8,B,CNS 2,Negative,77,0,0
+TARGET-10-PANGVW,DISCOVERY,0,Living,684,684,15,Female,Black or African American,Not Hispanic or Latino,68,B,CNS 1,Negative,2,0,0
+TARGET-10-PANGZM,DISCOVERY,0,Living,3918,3918,25,Female,White,Not Hispanic or Latino,9.6,B,CNS 1,Negative,1,1,0.018
+TARGET-10-PANHLV,DISCOVERY,0,Living,3874,3874,5,Male,White,Not Hispanic or Latino,232.7,B,CNS 2,Negative,48,0,0.005
+TARGET-10-PANHPA,DISCOVERY,0,Living,4152,4152,3,Female,White,Not Hispanic or Latino,147.7,B,CNS 1,Negative,4,1,0
+TARGET-10-PANHRW,DISCOVERY,0,Living,336,336,20,Male,Asian,Not Hispanic or Latino,24,B,CNS 1,Positive,0,0,2.3
+TARGET-10-PANHTV,DISCOVERY,0,Living,2712,2712,16,Male,White,Not Hispanic or Latino,20.3,B,CNS 1,Negative,40,0,0
+TARGET-10-PANICK,DISCOVERY,0,Living,3719,3719,15,Male,White,Not Hispanic or Latino,22,B,CNS 1,Negative,2,0,0
+TARGET-10-PANIDC,DISCOVERY,0,Living,3973,3973,13,Male,White,Not Hispanic or Latino,241,B,CNS 1,Negative,70,2,1.1
+TARGET-10-PANIEB,DISCOVERY,0,Living,3930,3930,13,Male,White,Not Hispanic or Latino,29.8,B,CNS 1,Negative,0,0,0
+TARGET-10-PANIEU,DISCOVERY,1,Deceased,526,526,8,Male,White,Not Hispanic or Latino,144,B,CNS 1,Positive,72,1,2.1
+TARGET-10-PANIIY,DISCOVERY,0,Living,3105,3105,2,Male,Unknown,Hispanic or Latino,110.5,B,CNS 1,Negative,1,2,0
+TARGET-10-PANIKK,DISCOVERY,0,Living,2329,2329,7,Female,White,Not Hispanic or Latino,175.2,B,CNS 1,Negative,15,0,0
+TARGET-10-PANIPE,DISCOVERY,0,Living,2849,2849,3,Male,Unknown,Hispanic or Latino,154,B,CNS 2,Negative,16,0,0
+TARGET-10-PANITD,DISCOVERY,0,Living,3281,3281,7,Male,White,Hispanic or Latino,102.3,B,CNS 1,Negative,25,1,0.004
+TARGET-10-PANIUJ,DISCOVERY,1,Deceased,677,636,16,Male,Unknown,Unknown,114.3,B,CNS 1,Negative,55,2,1.2
+TARGET-10-PANIXZ,DISCOVERY,0,Living,2092,2092,11,Male,White,Not Hispanic or Latino,78,B,CNS 2,Negative,1,3,0
+TARGET-10-PANJDT,DISCOVERY,0,Living,3476,3476,2,Male,Native Hawaiian or other Pacific Islander,Not Hispanic or Latino,119.6,B,CNS 1,Negative,30,1,0.19
+TARGET-10-PANJJE,DISCOVERY,1,Deceased,1001,839,16,Male,Asian,Not Hispanic or Latino,272,B,CNS 1,Negative,87,0,6.2
+TARGET-10-PANJKW,DISCOVERY,0,Living,3850,3850,3,Female,Unknown,Unknown,61.8,B,CNS 1,Negative,2,1,0
+TARGET-10-PANJLJ,DISCOVERY,0,Living,3552,3552,16,Male,White,Not Hispanic or Latino,19.2,B,CNS 3,Negative,0,0,0
+TARGET-10-PANJPG,DISCOVERY,0,Living,4072,4072,14,Female,White,Not Hispanic or Latino,4.7,B,CNS 1,Negative,10,0,0.011
+TARGET-10-PANJRD,DISCOVERY,0,Living,2140,2140,17,Female,White,Not Hispanic or Latino,2,B,CNS 1,Negative,26,0,0.96
+TARGET-10-PANJVN,DISCOVERY,0,Living,1385,1385,18,Male,White,Hispanic or Latino,5.14,B,CNS 1,Negative,3,0,0
+TARGET-10-PANJWJ,DISCOVERY,0,Living,3684,689,12,Male,White,Not Hispanic or Latino,401.4,B,CNS 3,Positive,75,7,19.02
+TARGET-10-PANJXI,DISCOVERY,0,Living,4017,4017,14,Female,White,Not Hispanic or Latino,15.7,B,CNS 1,Negative,12,2,0.004
+TARGET-10-PANJZA,DISCOVERY,1,Deceased,2803,2151,16,Male,White,Hispanic or Latino,1.5,B,CNS 1,Negative,22,0,0.54
+TARGET-10-PANKAK,DISCOVERY,1,Deceased,1095,950,7,Male,White,Not Hispanic or Latino,74.9,B,CNS 2,Negative,7,1,0
+TARGET-10-PANKBV,DISCOVERY,0,Living,2920,2920,17,Male,White,Not Hispanic or Latino,2.6,B,CNS 1,Negative,2,0,0.021
+TARGET-10-PANKCZ,DISCOVERY,0,Living,2371,2371,16,Female,White,Not Hispanic or Latino,4.1,B,CNS 1,Negative,1,1,0
+TARGET-10-PANKDT,DISCOVERY,0,Living,3859,3859,11,Female,Unknown,Unknown,24.1,B,CNS 1,Negative,52,0,0.102
+TARGET-10-PANKFU,DISCOVERY,0,Living,2285,2285,8,Male,White,Not Hispanic or Latino,97.9,B,CNS 1,Negative,20,0,0.059
+TARGET-10-PANKGB,DISCOVERY,0,Living,3967,3967,16,Female,White,Not Hispanic or Latino,6.87,B,CNS 1,Negative,9,1,0
+TARGET-10-PANKGK,DISCOVERY,0,Living,2034,2034,13,Male,White,Not Hispanic or Latino,15.9,B,CNS 1,Negative,23,0,0
+TARGET-10-PANKKU,DISCOVERY,1,Deceased,563,546,2,Female,White,Not Hispanic or Latino,168,B,CNS 2,Negative,1,0,0
+TARGET-10-PANKMB,DISCOVERY,0,Living,4175,4175,9,Female,White,Not Hispanic or Latino,110,B,CNS 2,Negative,64,0,0.024
+TARGET-10-PANKNK,DISCOVERY,0,Living,3501,3501,16,Female,Asian,Not Hispanic or Latino,46.47,B,CNS 2,Negative,27,0,0.93
+TARGET-10-PANKRG,DISCOVERY,0,Living,3932,3932,2,Male,Unknown,Not Hispanic or Latino,119.3,B,CNS 1,Negative,4,2,0
+TARGET-10-PANKTJ,DISCOVERY,0,Living,3850,328,18,Female,White,Not Hispanic or Latino,41.3,B,CNS 2,Negative,50,0,0
+TARGET-10-PANKVL,DISCOVERY,0,Living,4067,4067,14,Female,Unknown,Not Hispanic or Latino,90.51,B,CNS 1,Negative,1,0,0
+TARGET-10-PANKYV,DISCOVERY,0,Living,4197,4197,3,Male,White,Not Hispanic or Latino,217,B,CNS 1,Negative,4,3,0.13
+TARGET-10-PANKZE,DISCOVERY,0,Living,3220,3220,11,Female,Unknown,Hispanic or Latino,47.9,B,CNS 1,Negative,9,0,0
+TARGET-10-PANLGM,DISCOVERY,0,Living,3833,2214,5,Male,White,Not Hispanic or Latino,51,B,CNS 1,Negative,22,0,0
+TARGET-10-PANLGV,DISCOVERY,0,Living,4078,4078,8,Male,White,Hispanic or Latino,80.7,B,CNS 2,Negative,12,0,0
+TARGET-10-PANLIC,DISCOVERY,0,Living,4015,4015,15,Female,White,Not Hispanic or Latino,2.3,B,CNS 2,Negative,81,0,0.07
+TARGET-10-PANLKU,DISCOVERY,0,Living,3681,3681,12,Female,White,Not Hispanic or Latino,27.7,B,CNS 1,Negative,9,0,0.0011
+TARGET-10-PANLLB,DISCOVERY,0,Living,4153,4153,12,Female,White,Hispanic or Latino,13,B,CNS 1,Negative,32,2,0
+TARGET-10-PANLRD,DISCOVERY,0,Living,3949,3949,3,Female,White,Not Hispanic or Latino,105,B,CNS 1,Negative,5,0,0
+TARGET-10-PANLTI,DISCOVERY,0,Living,3853,3853,3,Male,White,Not Hispanic or Latino,83.5,B,CNS 1,Negative,15,3,0.0025
+TARGET-10-PANLWD,DISCOVERY,0,Living,1299,1299,17,Female,White,Not Hispanic or Latino,27.7,B,CNS 1,Negative,15,1,0
+TARGET-10-PANLWU,DISCOVERY,0,Living,3521,1466,4,Male,White,Not Hispanic or Latino,106.3,B,CNS 1,Negative,7,0,6.3e-4
+TARGET-10-PANLYC,DISCOVERY,0,Living,3843,3843,2,Female,White,Not Hispanic or Latino,123,B,CNS 1,Negative,3,1,4.3e-4
+TARGET-10-PANMCB,DISCOVERY,0,Living,3987,3987,4,Female,White,Not Hispanic or Latino,110.3,B,CNS 1,Negative,97,0,0
+TARGET-10-PANMEN,DISCOVERY,0,Living,1226,1226,3,Female,White,Not Hispanic or Latino,52.5,B,CNS 1,Negative,46,0,0.0037
+TARGET-10-PANMGD,DISCOVERY,0,Living,4160,4160,16,Male,Unknown,Not Hispanic or Latino,12.3,B,CNS 2,Negative,1,1,0
+TARGET-10-PANMHB,DISCOVERY,0,Living,3844,3844,7,Female,White,Not Hispanic or Latino,64.9,B,CNS 2,Negative,2,1,0
+TARGET-10-PANMMK,DISCOVERY,0,Living,3922,3922,4,Female,White,Not Hispanic or Latino,512,B,CNS 3,Negative,1,0,0
+TARGET-10-PANMSM,DISCOVERY,0,Living,2751,2751,14,Male,White,Not Hispanic or Latino,60.8,B,CNS 1,Negative,11,0,0
+TARGET-10-PANMVV,DISCOVERY,0,Living,1244,1244,12,Male,White,Not Hispanic or Latino,14,B,CNS 1,Negative,2,0,0
+TARGET-10-PANMVY,DISCOVERY,0,Living,3884,3884,9,Male,White,Not Hispanic or Latino,93.2,B,CNS 1,Negative,51,0,0
+TARGET-10-PANMWD,DISCOVERY,0,Living,2143,2143,15,Male,Asian,Not Hispanic or Latino,2.3,B,CNS 1,Negative,80,0,0
+TARGET-10-PANMZB,DISCOVERY,0,Living,3849,3849,2,Male,White,Not Hispanic or Latino,74.6,B,CNS 1,Negative,2,4,0
+TARGET-10-PANNGL,DISCOVERY,0,Living,2514,2514,13,Female,White,Not Hispanic or Latino,15.8,B,CNS 1,Negative,2,0,0
+TARGET-10-PANNKX,DISCOVERY,1,Deceased,1578,29,13,Male,Black or African American,Not Hispanic or Latino,247,B,CNS 1,Negative,82,38,21.8
+TARGET-10-PANNMG,DISCOVERY,1,Deceased,252,189,14,Female,White,Hispanic or Latino,43.1,B,CNS 1,Negative,2,0,NA
+TARGET-10-PANNPI,DISCOVERY,0,Living,3768,3768,9,Female,White,Not Hispanic or Latino,67.3,B,CNS 1,Negative,8,0,0
+TARGET-10-PANNSV,DISCOVERY,0,Living,1831,1831,4,Female,White,Not Hispanic or Latino,78,B,CNS 1,Negative,1,2,0.002
+TARGET-10-PANNUY,DISCOVERY,0,Living,2475,2475,16,Male,White,Hispanic or Latino,16.1,B,CNS 1,Negative,0,0,0
+TARGET-10-PANNWH,DISCOVERY,0,Living,4011,4011,13,Female,White,Not Hispanic or Latino,6.91,B,CNS 1,Positive,4,0,0
+TARGET-10-PANNYE,DISCOVERY,0,Living,3916,909,7,Male,White,Not Hispanic or Latino,208.1,B,CNS 1,Negative,3,0,0
+TARGET-10-PANPAC,DISCOVERY,0,Living,3216,3216,16,Female,Unknown,Not Hispanic or Latino,11.7,B,CNS 1,Negative,4,4,0
+TARGET-10-PANPDG,DISCOVERY,0,Living,3720,3720,6,Male,American Indian or Alaska Native,Not Hispanic or Latino,266.4,B,CNS 1,Negative,12,0,0
+TARGET-10-PANPDM,DISCOVERY,0,Living,1946,1946,15,Female,White,Not Hispanic or Latino,94.7,B,CNS 1,Negative,2,0,0
+TARGET-10-PANPEW,DISCOVERY,0,Living,1613,1613,2,Male,White,Not Hispanic or Latino,110.3,B,CNS 1,Negative,1,1,0
+TARGET-10-PANPJI,DISCOVERY,0,Living,4081,4081,18,Female,Asian,Not Hispanic or Latino,3.6,B,CNS 1,Negative,0,1,0.0031
+TARGET-10-PANPJW,DISCOVERY,0,Living,882,424,13,Male,White,Not Hispanic or Latino,16.7,B,CNS 1,Negative,4,0,0.15
+TARGET-10-PANPNJ,DISCOVERY,0,Living,1239,1239,18,Male,White,Not Hispanic or Latino,1.7,B,CNS 1,Negative,38,1,0.54
+TARGET-10-PANPNM,DISCOVERY,0,Living,1234,1234,8,Female,White,Hispanic or Latino,59.95,B,CNS 1,Negative,10,0,0
+TARGET-10-PANPRP,DISCOVERY,0,Living,2625,1147,18,Female,Asian,Not Hispanic or Latino,19,B,CNS 1,Negative,3,1,0.77
+TARGET-10-PANPSS,DISCOVERY,0,Living,3774,3774,18,Male,White,Not Hispanic or Latino,36,B,CNS 1,Negative,52,0,0
+TARGET-10-PANPUY,DISCOVERY,1,Deceased,2438,1601,19,Male,Asian,Not Hispanic or Latino,1.3,B,CNS 1,Negative,61,4,2.1
+TARGET-10-PANPVG,DISCOVERY,0,Living,3143,3143,15,Male,White,Not Hispanic or Latino,3,B,CNS 1,Negative,14,3,0
+TARGET-10-PANPVL,DISCOVERY,0,Living,3865,3865,17,Female,Unknown,Hispanic or Latino,28.1,B,CNS 1,Negative,1,1,0
+TARGET-10-PANPYK,DISCOVERY,0,Living,3507,3507,9,Female,White,Not Hispanic or Latino,52.8,B,CNS 1,Negative,0,0,0
+TARGET-10-PANRAL,DISCOVERY,0,Living,2979,2979,3,Male,Unknown,Hispanic or Latino,54.17,B,CNS 1,Negative,12,1,0.11
+TARGET-10-PANRBJ,DISCOVERY,0,Living,4028,4028,4,Male,Unknown,Hispanic or Latino,92,B,CNS 1,Negative,11,0,0.0028
+TARGET-10-PANRDC,DISCOVERY,0,Living,3832,3832,2,Male,Unknown,Not Hispanic or Latino,76.5,B,CNS 1,Negative,60,2,0.01
+TARGET-10-PANRER,DISCOVERY,0,Living,2782,2782,13,Male,White,Hispanic or Latino,16,B,CNS 1,Negative,30,0,0.03
+TARGET-10-PANRET,DISCOVERY,0,Living,3046,3046,12,Male,White,Not Hispanic or Latino,17.45,B,CNS 1,Negative,2,0,0
+TARGET-10-PANRFG,DISCOVERY,0,Living,4086,4086,14,Female,White,Not Hispanic or Latino,164,B,CNS 1,Negative,1,1,0
+TARGET-10-PANRGS,DISCOVERY,0,Living,3754,3754,3,Female,White,Not Hispanic or Latino,74.6,B,CNS 1,Negative,2,2,0
+TARGET-10-PANRHE,DISCOVERY,0,Living,3062,3062,12,Female,White,Not Hispanic or Latino,3.8,B,CNS 1,Negative,1,0,0.0015
+TARGET-10-PANRIM,DISCOVERY,0,Living,3776,3776,2,Female,White,Not Hispanic or Latino,356.4,B,CNS 1,Negative,22,0,0
+TARGET-10-PANRJL,DISCOVERY,0,Living,3772,3772,3,Female,White,Not Hispanic or Latino,106,B,CNS 2,Negative,13,0,0.0017
+TARGET-10-PANRNE,DISCOVERY,0,Living,3769,3769,3,Female,White,Not Hispanic or Latino,365,B,CNS 1,Negative,4,0,0
+TARGET-10-PANRNL,DISCOVERY,0,Living,3425,1126,9,Female,White,Not Hispanic or Latino,51,B,CNS 1,Negative,78,1,0.2
+TARGET-10-PANRPL,DISCOVERY,0,Living,2385,2385,13,Female,Unknown,Unknown,2.8,B,CNS 1,Negative,14,1,0
+TARGET-10-PANRPM,DISCOVERY,0,Living,3885,3885,19,Male,White,Not Hispanic or Latino,8.6,B,CNS 2,Negative,1,0,0
+TARGET-10-PANRSI,DISCOVERY,0,Living,3924,3924,3,Female,White,Not Hispanic or Latino,65.9,B,CNS 1,Negative,40,4,0.002
+TARGET-10-PANRSM,DISCOVERY,0,Living,1664,1664,14,Male,Unknown,Hispanic or Latino,2.63,B,CNS 1,Negative,0,0,0
+TARGET-10-PANRSR,DISCOVERY,0,Living,3974,2164,17,Male,Unknown,Not Hispanic or Latino,10.2,B,CNS 1,Negative,63,0,1.5
+TARGET-10-PANRSU,DISCOVERY,0,Living,1512,1512,11,Male,White,Not Hispanic or Latino,2.6,B,CNS 1,Negative,4,1,0.037
+TARGET-10-PANRUP,DISCOVERY,0,Living,3982,1984,9,Male,White,Not Hispanic or Latino,90.1,B,CNS 1,Negative,35,0,0.024
+TARGET-10-PANRVB,DISCOVERY,1,Deceased,2188,1442,13,Female,White,Unknown,71.13,B,CNS 2,Negative,5,1,1.3
+TARGET-10-PANRWG,DISCOVERY,0,Living,3769,3769,3,Male,White,Not Hispanic or Latino,97.4,B,CNS 1,Negative,8,0,0
+TARGET-10-PANRWW,DISCOVERY,0,Living,3830,3830,2,Male,Asian,Not Hispanic or Latino,103.8,B,CNS 1,Negative,4,0,0
+TARGET-10-PANRWZ,DISCOVERY,0,Living,2327,2327,6,Female,White,Not Hispanic or Latino,63.2,B,CNS 1,Negative,3,4,0
+TARGET-10-PANRXJ,DISCOVERY,0,Living,4019,4019,4,Female,White,Not Hispanic or Latino,147.4,B,CNS 1,Positive,15,0,0.063
+TARGET-10-PANRXM,DISCOVERY,0,Living,3927,3927,4,Male,White,Hispanic or Latino,75.4,B,CNS 1,Negative,1,0,0
+TARGET-10-PANRYM,DISCOVERY,0,Living,1675,1675,3,Female,White,Not Hispanic or Latino,91.7,B,CNS 1,Negative,52,0,0
+TARGET-10-PANRYX,DISCOVERY,1,Deceased,603,404,27,Male,White,Not Hispanic or Latino,33.9,B,CNS 2,Negative,3,1,0
+TARGET-10-PANSBC,DISCOVERY,0,Living,885,885,13,Female,White,Not Hispanic or Latino,5,B,CNS 1,Negative,6,0,0
+TARGET-10-PANSBK,DISCOVERY,0,Living,1179,1179,6,Female,Unknown,Hispanic or Latino,86.36,B,CNS 2,Negative,3,0,0
+TARGET-10-PANSBR,DISCOVERY,1,Deceased,1688,728,21,Male,White,Not Hispanic or Latino,10.9,B,CNS 1,Negative,10,2,0.56
+TARGET-10-PANSCX,DISCOVERY,0,Living,3890,3890,18,Male,White,Not Hispanic or Latino,1.1,B,CNS 2,Negative,9,0,0
+TARGET-10-PANSDA,DISCOVERY,1,Deceased,1141,863,13,Female,White,Not Hispanic or Latino,40.6,B,CNS 1,Negative,9,0,0.16
+TARGET-10-PANSDV,DISCOVERY,0,Living,2157,2157,16,Male,White,Not Hispanic or Latino,2.06,B,CNS 1,Negative,0,0,0
+TARGET-10-PANSFD,DISCOVERY + XENOGRAFT,1,Deceased,561,341,6,Male,White,Not Hispanic or Latino,83,B,CNS 2a,Negative,23,0,0.001
+TARGET-10-PANSGY,DISCOVERY,0,Living,4000,4000,13,Female,Black or African American,Not Hispanic or Latino,12.3,B,CNS 1,Negative,0,1,0.02
+TARGET-10-PANSHK,VALIDATION;DISCOVERY,1,Deceased,2447,1354,3,Male,White,Not Hispanic or Latino,18.5,B,CNS 1,Negative,5,0,0
+TARGET-10-PANSIA,DISCOVERY,0,Living,3931,3931,6,Female,White,Not Hispanic or Latino,73.6,B,CNS 1,Negative,42,1,0
+TARGET-10-PANSIL,DISCOVERY,0,Living,3801,3801,22,Male,White,Not Hispanic or Latino,7.1,B,CNS 1,Positive,0,2,0
+TARGET-10-PANSIR,DISCOVERY,1,Deceased,2012,620,2,Male,Unknown,Hispanic or Latino,118.5,B,CNS 1,Negative,3,4,0.28
+TARGET-10-PANSIZ,VALIDATION,0,Living,3612,3612,5,Male,White,Not Hispanic or Latino,20.9,B,CNS 1,Negative,19,0,0
+TARGET-10-PANSKH,DISCOVERY,0,Living,3110,3110,17,Female,White,Not Hispanic or Latino,6,B,CNS 1,Negative,19,0,1.4
+TARGET-10-PANSKJ,DISCOVERY,0,Living,3780,800,12,Male,White,Hispanic or Latino,29.7,B,CNS 1,Negative,1,3,0
+TARGET-10-PANSKK,DISCOVERY,0,Living,3868,3868,4,Female,Unknown,Hispanic or Latino,55.55,B,CNS 1,Negative,4,0,0
+TARGET-10-PANSNA,DISCOVERY,0,Living,1624,1624,18,Male,Black or African American,Not Hispanic or Latino,0.57,B,CNS 1,Negative,16,2,0.94
+TARGET-10-PANSNR,DISCOVERY,0,Living,3440,3440,18,Male,White,Not Hispanic or Latino,13.4,B,CNS 1,Negative,0,3,0
+TARGET-10-PANSPW,DISCOVERY,1,Deceased,870,113,14,Male,Asian,Not Hispanic or Latino,58.9,B,CNS 1,Positive,14,7,24.4
+TARGET-10-PANSSH,DISCOVERY,0,Living,3797,3797,18,Male,Asian,Not Hispanic or Latino,27.3,B,CNS 1,Negative,4,0,0
+TARGET-10-PANSTA,VALIDATION,0,Living,3821,3821,3,Female,White,Not Hispanic or Latino,28.6,B,CNS 1,Negative,1,0,0
+TARGET-10-PANSTB,DISCOVERY,1,Deceased,1063,848,4,Female,White,Not Hispanic or Latino,50.91,B,CNS 1,Negative,0,0,0
+TARGET-10-PANSTC,DISCOVERY,0,Living,2094,2094,6,Male,Unknown,Unknown,65.5,B,CNS 1,Negative,44,1,0.95
+TARGET-10-PANSUF,DISCOVERY,0,Living,1715,1715,5,Female,White,Not Hispanic or Latino,213.6,B,CNS 1,Negative,95,NA,0.65
+TARGET-10-PANSUL,DISCOVERY,1,Deceased,1068,929,3,Male,White,Not Hispanic or Latino,51.6,B,CNS 1,Negative,0,1,0.13
+TARGET-10-PANSUN,DISCOVERY,1,Deceased,1471,876,17,Male,White,Not Hispanic or Latino,248,B,CNS 2,Negative,84,3,0.42
+TARGET-10-PANSWH,DISCOVERY,0,Living,2685,2685,11,Male,White,Hispanic or Latino,7.9,B,CNS 1,Negative,5,0,0.001
+TARGET-10-PANSXG,DISCOVERY,0,Living,3830,3830,8,Female,White,Not Hispanic or Latino,74.2,B,CNS 2,Negative,72,1,0
+TARGET-10-PANSYA,VALIDATION,0,Living,3680,3680,4,Female,Black or African American,Not Hispanic or Latino,38.5,B,CNS 1,Negative,27,1,0.005
+TARGET-10-PANSZD,DISCOVERY,0,Living,4060,4060,18,Male,White,Not Hispanic or Latino,4.2,B,CNS 1,Negative,40,1,0.043
+TARGET-10-PANTBB,VALIDATION,0,Living,3668,3668,4,Male,Unknown,Unknown,21.58,B,CNS 1,Negative,7,0,0
+TARGET-10-PANTCR,VALIDATION,0,Living,2403,2403,6,Male,White,Unknown,2.5,B,CNS 1,Negative,0,0,0
+TARGET-10-PANTEN,DISCOVERY,0,Living,3841,3841,5,Male,White,Not Hispanic or Latino,77.3,B,CNS 1,Negative,3,0,0
+TARGET-10-PANTHL,DISCOVERY,0,Living,1873,1873,3,Male,White,Not Hispanic or Latino,131.9,B,CNS 1,Negative,1,0,0
+TARGET-10-PANTHU,DISCOVERY,0,Living,2678,2678,14,Male,White,Not Hispanic or Latino,38.7,B,CNS 1,Negative,0,0,0
+TARGET-10-PANTKG,DISCOVERY,1,Deceased,1457,1248,12,Male,White,Not Hispanic or Latino,0.7,B,CNS 1,Negative,7,0,0
+TARGET-10-PANTLF,VALIDATION,0,Living,3781,3781,2,Female,White,Hispanic or Latino,7.6,B,CNS 1,Negative,60,0,0.54
+TARGET-10-PANTRY,VALIDATION,0,Living,3593,3593,5,Male,White,Hispanic or Latino,14.3,B,CNS 1,Negative,0,0,0
+TARGET-10-PANTSM,DISCOVERY,1,Deceased,1214,1087,8,Male,White,Unknown,22.16,B,CNS 1,Negative,15,1,0
+TARGET-10-PANTSN,DISCOVERY,0,Living,3917,3917,3,Male,White,Not Hispanic or Latino,63.2,B,CNS 1,Negative,0,4,0
+TARGET-10-PANTTB,VALIDATION,0,Living,3914,3914,8,Male,White,Not Hispanic or Latino,4.5,B,CNS 1,Negative,97,0,1.3
+TARGET-10-PANTTR,DISCOVERY,0,Living,4020,4020,15,Male,White,Not Hispanic or Latino,44.53,B,CNS 2,Negative,0,0,0.025
+TARGET-10-PANTUM,DISCOVERY,0,Living,2134,2134,15,Male,Unknown,Hispanic or Latino,36,B,CNS 1,Negative,5,0,0
+TARGET-10-PANTUZ,VALIDATION,0,Living,3972,966,3,Male,White,Not Hispanic or Latino,7.8,B,CNS 2a,Negative,37,0,0
+TARGET-10-PANTVC,VALIDATION,0,Living,3403,3403,2,Male,White,Hispanic or Latino,21.74,B,CNS 1,Negative,0,2,0
+TARGET-10-PANTVY,DISCOVERY,0,Living,2486,2486,13,Male,White,Not Hispanic or Latino,44.8,B,CNS 1,Negative,1,3,0
+TARGET-10-PANTWC,VALIDATION,0,Living,4024,4024,5,Male,White,Hispanic or Latino,22.1,B,CNS 1,Negative,65,0,0
+TARGET-10-PANTXA,VALIDATION,0,Living,3786,3786,4,Female,Unknown,Hispanic or Latino,1.1,B,CNS 1,Negative,3,4,0.031
+TARGET-10-PANTXE,DISCOVERY,0,Living,3673,3673,13,Female,Unknown,Hispanic or Latino,74.3,B,CNS 1,Negative,0,4,0
+TARGET-10-PANTXK,DISCOVERY,0,Living,2072,2072,16,Male,White,Not Hispanic or Latino,113.3,B,CNS 2,Negative,4,0,0
+TARGET-10-PANTYM,DISCOVERY,1,Deceased,1514,1514,16,Male,White,Hispanic or Latino,79.66,B,CNS 1,Negative,85,2,1.5
+TARGET-10-PANTYP,VALIDATION,0,Living,3948,3948,4,Female,White,Not Hispanic or Latino,9.3,B,CNS 1,Negative,0,1,0.037
+TARGET-10-PANTZD,DISCOVERY,0,Living,2985,2985,15,Male,White,Not Hispanic or Latino,1306,B,CNS 1,Negative,20,1,0
+TARGET-10-PANTZE,VALIDATION,0,Living,3833,3833,4,Female,White,Not Hispanic or Latino,34.2,B,CNS 1,Negative,11,1,0
+TARGET-10-PANUBA,DISCOVERY,0,Living,1143,1143,19,Female,White,Hispanic or Latino,2.1,B,CNS 1,Negative,2,0,0
+TARGET-10-PANUEC,DISCOVERY,0,Living,1491,1491,12,Female,Asian,Not Hispanic or Latino,3.6,B,CNS 1,Negative,36,1,0
+TARGET-10-PANUHA,DISCOVERY,0,Living,4017,1294,4,Male,White,Hispanic or Latino,12.9,B,CNS 1,Negative,7,0,0.0074
+TARGET-10-PANUIC,DISCOVERY,0,Living,3783,3783,18,Male,Unknown,Hispanic or Latino,211.7,B,CNS 2,Negative,92,0,0.56
+TARGET-10-PANUIN,DISCOVERY,0,Living,3921,3921,10,Male,White,Not Hispanic or Latino,131.67,B,CNS 3,Negative,4,1,0
+TARGET-10-PANUIW,DISCOVERY,0,Living,1229,1229,15,Male,White,Not Hispanic or Latino,2.3,B,CNS 1,Negative,0,0,0
+TARGET-10-PANUJX,DISCOVERY,0,Living,1345,1345,18,Female,White,Unknown,1,B,CNS 1,Negative,0,0,0
+TARGET-10-PANUKF,VALIDATION,0,Living,2755,851,4,Male,White,Not Hispanic or Latino,41,B,CNS 1,Negative,56,0,0
+TARGET-10-PANUKM,DISCOVERY,0,Living,3659,3659,12,Female,White,Unknown,110.3,B,CNS 1,Negative,4,0,0
+TARGET-10-PANUKN,DISCOVERY,1,Deceased,2693,1028,17,Male,Unknown,Not Hispanic or Latino,2,B,CNS 1,Negative,27,0,0.53
+TARGET-10-PANUMV,DISCOVERY,0,Living,3888,3888,12,Female,White,Hispanic or Latino,58,B,CNS 1,Negative,66,0,0.068
+TARGET-10-PANUNC,DISCOVERY,0,Living,2682,2682,6,Female,Unknown,Hispanic or Latino,58.5,B,CNS 1,Negative,3,0,0
+TARGET-10-PANUND,DISCOVERY,0,Living,2384,2384,17,Male,White,Not Hispanic or Latino,11.5,B,CNS 1,Negative,7,0,0
+TARGET-10-PANUNW,DISCOVERY,0,Living,1879,1879,15,Male,White,Hispanic or Latino,42.5,B,CNS 1,Positive,30,0,0
+TARGET-10-PANURR,VALIDATION,0,Living,4011,4011,3,Female,Unknown,Hispanic or Latino,2.4,B,CNS 2b,Negative,1,0,0
+TARGET-10-PANURW,DISCOVERY,1,Deceased,355,28,16,Male,Unknown,Hispanic or Latino,4.8,B,CNS 1,Positive,32,70,26.4
+TARGET-10-PANUSL,VALIDATION,0,Living,3784,3784,3,Male,White,Not Hispanic or Latino,8.7,B,CNS 1,Negative,63,0,0.0064
+TARGET-10-PANUSN,DISCOVERY,1,Deceased,1715,1517,3,Male,Unknown,Hispanic or Latino,9.9,B,CNS 1,Negative,4,0,0.002
+TARGET-10-PANUSR,DISCOVERY,0,Living,1812,118,14,Male,White,Not Hispanic or Latino,22.8,B,CNS 1,Negative,4,1,0
+TARGET-10-PANUTA,DISCOVERY,0,Living,3922,3922,18,Female,White,Not Hispanic or Latino,115,B,CNS 2,Negative,2,0,0
+TARGET-10-PANUUE,DISCOVERY,0,Living,3620,3620,11,Female,White,Hispanic or Latino,305.8,B,CNS 1,Negative,17,0,0
+TARGET-10-PANUUF,DISCOVERY,0,Living,3911,3911,12,Female,Black or African American,Not Hispanic or Latino,19.8,B,CNS 1,Negative,31,1,0.05799999999999999
+TARGET-10-PANUUW,DISCOVERY,0,Living,3832,3832,16,Male,White,Not Hispanic or Latino,56.8,B,CNS 1,Negative,38,0,0.0022
+TARGET-10-PANUVT,DISCOVERY,0,Living,2587,2587,16,Female,White,Not Hispanic or Latino,15,B,CNS 2,Negative,1,0,0
+TARGET-10-PANUWL,DISCOVERY,0,Living,3741,2089,24,Male,White,Not Hispanic or Latino,3.1,B,CNS 1,Negative,58,10,3
+TARGET-10-PANUWV,DISCOVERY,0,Living,3748,3748,6,Female,White,Hispanic or Latino,54.1,B,CNS 1,Negative,33,3,0.017
+TARGET-10-PANUXA,DISCOVERY,0,Living,3678,3678,2,Male,Asian,Not Hispanic or Latino,106.4,B,CNS 1,Negative,36,2,0.28
+TARGET-10-PANUXS,VALIDATION,0,Living,3024,3024,3,Female,White,Hispanic or Latino,3.5,B,CNS 1,Negative,84,0,0
+TARGET-10-PANUXU,VALIDATION,0,Living,3766,3766,8,Female,White,Not Hispanic or Latino,2.06,B,CNS 1,Negative,4,0,0
+TARGET-10-PANUXV,DISCOVERY,0,Living,3717,3717,6,Female,Unknown,Hispanic or Latino,174.1,B,CNS 2,Negative,33,3,0
+TARGET-10-PANUXX,DISCOVERY,0,Living,3907,3907,16,Male,White,Not Hispanic or Latino,3.3,B,CNS 1,Negative,3,0,0
+TARGET-10-PANUYZ,VALIDATION,0,Living,3767,3767,2,Male,White,Hispanic or Latino,16.1,B,CNS 1,Negative,14,0,0
+TARGET-10-PANVAW,VALIDATION,0,Living,777,777,4,Male,White,Not Hispanic or Latino,8,B,CNS 1,Negative,1,2,0
+TARGET-10-PANVCM,VALIDATION,0,Living,3679,3679,2,Male,White,Not Hispanic or Latino,33.8,B,CNS 1,Negative,20,0,0
+TARGET-10-PANVCN,DISCOVERY,1,Deceased,131,131,14,Female,White,Not Hispanic or Latino,34,B,CNS 1,Negative,0,0,0
+TARGET-10-PANVCR,DISCOVERY,0,Living,3735,1196,2,Male,Asian,Not Hispanic or Latino,117.9,B,CNS 1,Negative,34,1,0.015
+TARGET-10-PANVCS,DISCOVERY,1,Deceased,533,28,16,Male,White,Hispanic or Latino,34.5,B,CNS 1,Negative,55,30,38.6
+TARGET-10-PANVDE,DISCOVERY,0,Living,3562,3562,5,Male,White,Not Hispanic or Latino,95.8,B,CNS 1,Negative,70,1,0
+TARGET-10-PANVDH,VALIDATION,0,Living,1909,1909,6,Female,White,Not Hispanic or Latino,0.9,B,CNS 1,Negative,8,0,0
+TARGET-10-PANVDV,VALIDATION,0,Living,2687,2687,8,Male,Asian,Not Hispanic or Latino,15.7,B,CNS 1,Negative,2,1,0
+TARGET-10-PANVEL,DISCOVERY,0,Living,907,907,13,Female,Black or African American,Not Hispanic or Latino,12.8,B,CNS 1,Negative,15,0,0
+TARGET-10-PANVFF,VALIDATION,0,Living,3897,3897,5,Male,White,Not Hispanic or Latino,12.1,B,CNS 1,Negative,57,0,0
+TARGET-10-PANVGZ,VALIDATION,0,Living,3878,3878,2,Male,White,Hispanic or Latino,1.5,B,CNS 2a,Negative,0,0,0
+TARGET-10-PANVIB,VALIDATION,0,Living,2954,2954,3,Male,White,Not Hispanic or Latino,33.1,B,CNS 1,Negative,34,0,0.26
+TARGET-10-PANVIC,DISCOVERY + VALIDATION,1,Deceased,1752,969,8,Female,White,Hispanic or Latino,23.9,B,CNS 1,Negative,8,1,0.14
+TARGET-10-PANVIG,DISCOVERY,1,Deceased,1588,521,7,Male,Black or African American,Not Hispanic or Latino,62,B,CNS 1,Negative,0,0,0
+TARGET-10-PANVIX,VALIDATION,0,Living,3632,1589,2,Female,White,Not Hispanic or Latino,9.8,B,CNS 1,Negative,51,0,0
+TARGET-10-PANVJB,DISCOVERY,0,Living,3736,2822,3,Male,White,Not Hispanic or Latino,106.5,B,CNS 1,Negative,1,3,0.88
+TARGET-10-PANVJI,VALIDATION,0,Living,3734,3734,7,Female,White,Hispanic or Latino,3.11,B,CNS 1,Negative,2,1,0
+TARGET-10-PANVJN,DISCOVERY,0,Living,3533,1713,3,Male,Black or African American,Not Hispanic or Latino,11.96,B,CNS 1,Negative,49,4,0
+TARGET-10-PANVKF,VALIDATION,0,Living,3442,3442,7,Female,White,Not Hispanic or Latino,3.6,B,CNS 1,Negative,81,0,0.011
+TARGET-10-PANVKH,VALIDATION,0,Living,3749,3749,5,Female,White,Hispanic or Latino,1.1,B,CNS 1,Negative,1,0,0
+TARGET-10-PANVKY,DISCOVERY,0,Living,3928,3928,2,Female,White,Not Hispanic or Latino,307.6,B,CNS 1,Negative,64,1,0
+TARGET-10-PANVMT,VALIDATION,0,Living,3821,3821,10,Female,White,Not Hispanic or Latino,7.2,B,CNS 1,Negative,3,0,0
+TARGET-10-PANVSI,DISCOVERY,0,Living,3938,3938,24,Male,White,Not Hispanic or Latino,2.8,B,CNS 1,Negative,NA,5,0.02899999999999999
+TARGET-10-PANVTB,VALIDATION,0,Living,65,65,3,Male,Unknown,Hispanic or Latino,4,B,CNS 1,Negative,0,0,0
+TARGET-10-PANVUD,VALIDATION,0,Living,1904,1904,10,Female,White,Not Hispanic or Latino,19.2,B,CNS 1,Negative,4,0,0
+TARGET-10-PANVUU,VALIDATION,0,Living,NA,NA,5,Male,White,Not Hispanic or Latino,39.5,B,CNS 1,Negative,10,0,0
+TARGET-10-PANVUV,DISCOVERY,0,Living,3725,1592,11,Female,White,Not Hispanic or Latino,5.6,B,CNS 1,Negative,22,0,0
+TARGET-10-PANVVA,DISCOVERY,0,Living,3836,3836,14,Male,White,Not Hispanic or Latino,2.9,B,CNS 1,Negative,32,0,0
+TARGET-10-PANVVB,DISCOVERY,0,Living,1919,1919,16,Female,White,Not Hispanic or Latino,6.07,B,CNS 1,Negative,NA,0,0.2
+TARGET-10-PANVXF,VALIDATION,0,Living,3506,3506,5,Female,Black or African American,Not Hispanic or Latino,30.4,B,CNS 1,Negative,29,1,0
+TARGET-10-PANVYB,DISCOVERY,0,Living,3151,3151,17,Male,Black or African American,Not Hispanic or Latino,15.2,B,CNS 1,Negative,0,0,0.0013
+TARGET-10-PANVYR,DISCOVERY,1,Deceased,517,288,17,Male,White,Hispanic or Latino,37.4,B,CNS 1,Negative,35,0,0
+TARGET-10-PANVZG,DISCOVERY,0,Living,3996,963,16,Male,White,Not Hispanic or Latino,21.72,B,CNS 1,Negative,4,0,0
+TARGET-10-PANWBR,DISCOVERY,0,Living,3840,3840,7,Male,White,Hispanic or Latino,59.5,B,CNS 2,Negative,3,3,0
+TARGET-10-PANWCH,DISCOVERY,0,Living,2684,2684,12,Female,White,Not Hispanic or Latino,2.3,B,CNS 1,Negative,69,1,0
+TARGET-10-PANWDL,VALIDATION,0,Living,2887,2887,4,Male,White,Hispanic or Latino,35.9,B,CNS 1,Negative,0,0,0
+TARGET-10-PANWDN,VALIDATION,0,Living,3743,3743,10,Male,Unknown,Hispanic or Latino,6.2,B,CNS 1,Negative,1,2,0
+TARGET-10-PANWDS,VALIDATION,0,Living,3622,3622,6,Male,Unknown,Hispanic or Latino,4.9,B,CNS 1,Negative,4,3,0
+TARGET-10-PANWDU,DISCOVERY,1,Deceased,200,200,7,Female,White,Hispanic or Latino,100.2,B,CNS 2,Positive,17,0,0.17
+TARGET-10-PANWEC,DISCOVERY,0,Living,3781,3781,14,Male,White,Not Hispanic or Latino,3.2,B,CNS 1,Negative,6,0,0
+TARGET-10-PANWEI,VALIDATION,0,Living,3789,3789,5,Female,White,Not Hispanic or Latino,10.8,B,CNS 1,Negative,0,0,0
+TARGET-10-PANWES,VALIDATION,0,Living,2865,2865,4,Female,White,Hispanic or Latino,30,B,CNS 1,Negative,50,0,0
+TARGET-10-PANWEX,DISCOVERY,0,Living,2538,2538,7,Female,White,Not Hispanic or Latino,79.7,B,CNS 3,Negative,3,2,0.08800000000000001
+TARGET-10-PANWEZ,DISCOVERY,0,Living,3145,3145,15,Female,White,Not Hispanic or Latino,9.7,B,CNS 1,Negative,47,0,0
+TARGET-10-PANWFA,DISCOVERY,0,Living,1625,1625,15,Male,Unknown,Hispanic or Latino,0.88,B,CNS 1,Negative,2,0,0
+TARGET-10-PANWFB,DISCOVERY,0,Living,2939,2939,18,Female,Asian,Not Hispanic or Latino,21.6,B,CNS 1,Negative,40,0,0
+TARGET-10-PANWFL,DISCOVERY,0,Living,3816,3816,5,Female,White,Not Hispanic or Latino,108.9,B,CNS 2,Negative,42,0,0
+TARGET-10-PANWGG,VALIDATION,0,Living,3733,1903,4,Female,White,Not Hispanic or Latino,10.3,B,CNS 1,Negative,6,0,0.064
+TARGET-10-PANWGI,DISCOVERY,0,Living,3762,3762,15,Male,White,Not Hispanic or Latino,15.9,B,CNS 1,Positive,19,3,0.012
+TARGET-10-PANWGY,DISCOVERY,0,Living,2711,2711,17,Male,Unknown,Hispanic or Latino,13,B,CNS 1,Negative,0,0,0
+TARGET-10-PANWHJ,DISCOVERY,0,Living,3770,1446,4,Male,White,Not Hispanic or Latino,2.4,B,CNS 1,Negative,26,0,0
+TARGET-10-PANWHM,DISCOVERY,0,Living,3726,3726,14,Female,White,Not Hispanic or Latino,3.4,B,CNS 1,Unknown,23,2,0
+TARGET-10-PANWHW,DISCOVERY,0,Living,1916,1916,5,Female,White,Not Hispanic or Latino,96.7,B,CNS 2,Negative,0,0,NA
+TARGET-10-PANWIM,VALIDATION,0,Living,2952,2952,3,Female,Asian,Not Hispanic or Latino,30.3,B,CNS 1,Negative,34,3,0
+TARGET-10-PANWJB,DISCOVERY + XENOGRAFT,1,Deceased,382,382,15,Male,White,Not Hispanic or Latino,10.2,B,CNS 1,Negative,80,25,9
+TARGET-10-PANWJH,VALIDATION,0,Living,3834,3834,8,Female,White,Unknown,28.4,B,CNS 1,Negative,40,0,0
+TARGET-10-PANWJM,VALIDATION,0,Living,3849,3849,6,Female,White,Hispanic or Latino,3.2,B,CNS 1,Negative,70,0,0
+TARGET-10-PANWJR,VALIDATION,0,Living,3742,3742,6,Female,White,Hispanic or Latino,7.16,B,CNS 1,Negative,70,0,0
+TARGET-10-PANWJS,VALIDATION,0,Living,35,35,6,Female,White,Not Hispanic or Latino,3.04,B,CNS 1,Negative,17,0,0
+TARGET-10-PANWKM,VALIDATION,0,Living,3669,3669,2,Male,White,Not Hispanic or Latino,42.9,B,CNS 1,Negative,3,0,0
+TARGET-10-PANWKP,VALIDATION,0,Living,3611,3611,4,Male,White,Unknown,22.6,B,CNS 1,Negative,3,0,0
+TARGET-10-PANWLH,VALIDATION,0,Living,3870,3870,3,Male,White,Not Hispanic or Latino,9.9,B,CNS 1,Negative,9,0,0
+TARGET-10-PANWNG,DISCOVERY,0,Living,3741,3741,10,Female,White,Not Hispanic or Latino,63.2,B,CNS 1,Negative,10,0,0.004
+TARGET-10-PANWPI,DISCOVERY,0,Living,1271,1271,16,Male,White,Not Hispanic or Latino,2.2,B,CNS 1,Negative,0,0,0
+TARGET-10-PANWRS,DISCOVERY,0,Living,2617,2617,14,Female,Black or African American,Not Hispanic or Latino,15.9,B,CNS 1,Negative,0,0,0
+TARGET-10-PANWSB,DISCOVERY,0,Living,3901,3901,4,Female,White,Not Hispanic or Latino,78.4,B,CNS 1,Negative,0,0,0
+TARGET-10-PANWSI,DISCOVERY,0,Living,2498,2498,9,Male,White,Hispanic or Latino,57.9,B,CNS 1,Negative,30,0,0
+TARGET-10-PANWSP,VALIDATION,0,Living,3668,2037,4,Male,White,Not Hispanic or Latino,6.8,B,CNS 1,Negative,0,2,0
+TARGET-10-PANWUJ,DISCOVERY,0,Living,3731,3731,19,Male,White,Not Hispanic or Latino,237,B,CNS 1,Negative,13,0,0
+TARGET-10-PANWUK,DISCOVERY,0,Living,2566,2566,15,Male,Black or African American,Not Hispanic or Latino,10.88,B,CNS 1,Negative,62,2,5.5
+TARGET-10-PANWVI,DISCOVERY,1,Deceased,1614,645,6,Female,White,Hispanic or Latino,94.6,B,CNS 3,Negative,8,3,0
+TARGET-10-PANWVW,DISCOVERY,0,Living,3567,3567,3,Male,White,Not Hispanic or Latino,194.2,B,CNS 1,Positive,37,0,0.037
+TARGET-10-PANWWG,VALIDATION,0,Living,3903,3903,4,Female,White,Not Hispanic or Latino,7.3,B,CNS 1,Negative,66,1,0.82
+TARGET-10-PANWXT,DISCOVERY,0,Living,3119,3119,17,Male,White,Hispanic or Latino,108.8,B,CNS 1,Negative,6,0,0
+TARGET-10-PANWYB,DISCOVERY,1,Deceased,1720,1698,6,Male,White,Not Hispanic or Latino,356.4,B,CNS 2,Negative,80,1,0
+TARGET-10-PANWYH,VALIDATION;DISCOVERY,1,Deceased,1418,1361,5,Male,White,Hispanic or Latino,12.1,B,CNS 1,Negative,10,1,0
+TARGET-10-PANWYK,DISCOVERY,0,Living,3581,3581,16,Female,Black or African American,Not Hispanic or Latino,81.4,B,CNS 1,Negative,75,3,0
+TARGET-10-PANWYL,DISCOVERY,0,Living,3845,3845,2,Male,White,Not Hispanic or Latino,89.7,B,CNS 2,Negative,41,4,0
+TARGET-10-PANWYM,VALIDATION,0,Living,3866,3866,3,Male,Unknown,Not Hispanic or Latino,22.4,B,CNS 1,Negative,4,0,0
+TARGET-10-PANWZG,VALIDATION,0,Living,3789,3789,5,Male,White,Not Hispanic or Latino,10.5,B,CNS 1,Negative,2,2,0
+TARGET-10-PANWZU,DISCOVERY,0,Living,1211,1211,2,Male,White,Not Hispanic or Latino,104.4,B,CNS 1,Negative,0,0,0
+TARGET-10-PANXAA,DISCOVERY,0,Living,3700,3700,7,Male,White,Unknown,55.2,B,CNS 1,Negative,0,0,0
+TARGET-10-PANXAC,DISCOVERY,0,Living,3112,3112,13,Female,Unknown,Unknown,4.8,B,CNS 2,Negative,0,1,0
+TARGET-10-PANXAH,DISCOVERY,0,Living,3802,3802,14,Male,White,Unknown,32,B,CNS 2,Negative,1,0,0
+TARGET-10-PANXAM,VALIDATION,0,Living,3744,3744,5,Female,White,Not Hispanic or Latino,27.6,B,CNS 1,Negative,2,0,0
+TARGET-10-PANXCX,VALIDATION,0,Living,3768,3768,3,Male,White,Not Hispanic or Latino,5.4,B,CNS 1,Negative,24,1,0
+TARGET-10-PANXDB,DISCOVERY,0,Living,3737,3737,8,Male,White,Not Hispanic or Latino,97.87,B,CNS 1,Negative,80,4,1.8
+TARGET-10-PANXDP,DISCOVERY,0,Living,3735,3735,14,Female,White,Not Hispanic or Latino,11,B,CNS 1,Negative,0,1,0
+TARGET-10-PANXDR,DISCOVERY,0,Living,3801,3801,4,Male,Unknown,Not Hispanic or Latino,122.5,B,CNS 1,Negative,0,0,0
+TARGET-10-PANXDS,DISCOVERY,0,Living,3739,3739,17,Male,White,Hispanic or Latino,125,B,CNS 1,Negative,50,0,0
+TARGET-10-PANXDT,DISCOVERY,0,Living,855,855,14,Female,White,Not Hispanic or Latino,3.9,B,CNS 1,Negative,0,0,0
+TARGET-10-PANXDY,DISCOVERY,0,Living,966,966,7,Female,White,Not Hispanic or Latino,98.4,B,CNS 1,Negative,3,0,0
+TARGET-10-PANXEE,VALIDATION,0,Living,3808,3808,3,Male,Unknown,Not Hispanic or Latino,11.5,B,CNS 1,Negative,8,0,0.00699999999999999
+TARGET-10-PANXEH,DISCOVERY,1,Deceased,235,28,2,Female,White,Not Hispanic or Latino,421,B,CNS 2,Negative,60,73,NA
+TARGET-10-PANXFF,DISCOVERY,0,Living,2413,2413,16,Female,White,Not Hispanic or Latino,4.3,B,CNS 1,Negative,4,3,0
+TARGET-10-PANXGB,DISCOVERY,0,Living,3867,3867,13,Male,White,Not Hispanic or Latino,1.37,B,CNS 1,Negative,0,0,0
+TARGET-10-PANXGD,DISCOVERY + VALIDATION;DISCOVERY,1,Deceased,775,775,9,Male,White,Not Hispanic or Latino,23,B,CNS 1,Negative,41,0,2.8
+TARGET-10-PANXGE,DISCOVERY,0,Living,3835,3835,12,Female,White,Not Hispanic or Latino,14.9,B,CNS 1,Negative,8,2,0.001
+TARGET-10-PANXGG,DISCOVERY,0,Living,3787,3787,14,Male,Black or African American,Not Hispanic or Latino,13.9,B,CNS 2,Negative,0,0,0
+TARGET-10-PANXGM,VALIDATION,0,Living,3055,3055,10,Male,White,Unknown,30.9,B,CNS 1,Negative,3,0,0.0033
+TARGET-10-PANXGT,DISCOVERY,0,Living,1557,1557,3,Female,White,Not Hispanic or Latino,82.2,B,CNS 2,Negative,3,1,0
+TARGET-10-PANXIV,DISCOVERY,0,Living,3820,3820,17,Male,Black or African American,Not Hispanic or Latino,52.6,B,CNS 1,Negative,0,4,0.024
+TARGET-10-PANXLC,VALIDATION,0,Living,3752,3752,3,Female,Unknown,Not Hispanic or Latino,27.8,B,CNS 1,Negative,47,0,0.005
+TARGET-10-PANXLP,VALIDATION,0,Living,3823,3823,7,Male,White,Not Hispanic or Latino,2.8,B,CNS 1,Negative,14,0,0.001
+TARGET-10-PANXLR,VALIDATION,0,Living,3362,3362,2,Female,White,Not Hispanic or Latino,9.9,B,CNS 1,Negative,19,0,0
+TARGET-10-PANXMP,DISCOVERY,0,Living,3792,3792,11,Male,Asian,Not Hispanic or Latino,14.9,B,CNS 1,Negative,19,0,0.06
+TARGET-10-PANXNA,DISCOVERY,0,Living,3619,3619,11,Male,White,Not Hispanic or Latino,12,B,CNS 1,Negative,4,0,0
+TARGET-10-PANXNG,DISCOVERY,0,Living,858,858,5,Female,White,Not Hispanic or Latino,287.87,B,CNS 1,Negative,5,NA,0.0032
+TARGET-10-PANXPE,DISCOVERY,0,Living,3365,1217,4,Female,White,Not Hispanic or Latino,24.1,B,CNS 1,Negative,95,1,0
+TARGET-10-PANXPP,DISCOVERY,0,Living,3617,3617,8,Male,White,Not Hispanic or Latino,172.5,B,CNS 1,Negative,46,0,0.011
+TARGET-10-PANXPV,DISCOVERY,0,Living,3964,3964,19,Female,White,Not Hispanic or Latino,8.5,B,CNS 1,Negative,7,4,0.022
+TARGET-10-PANXPX,DISCOVERY,0,Living,1230,1230,4,Male,Unknown,Hispanic or Latino,69.32,B,CNS 2,Negative,32,2,0
+TARGET-10-PANXSF,VALIDATION,0,Living,3870,3870,3,Male,White,Hispanic or Latino,5.2,B,CNS 2b,Negative,0,0,1.6
+TARGET-10-PANXTP,VALIDATION,0,Living,3656,3656,3,Male,White,Hispanic or Latino,11,B,CNS 1,Negative,10,4,0
+TARGET-10-PANXTR,DISCOVERY,1,Deceased,354,354,12,Female,White,Hispanic or Latino,6.1,B,CNS 1,Negative,3,3,0.01
+TARGET-10-PANXUZ,DISCOVERY,0,Living,3751,3751,22,Male,White,Not Hispanic or Latino,62.8,B,CNS 1,Negative,1,0,0
+TARGET-10-PANXVD,DISCOVERY,0,Living,1382,1382,15,Male,White,Not Hispanic or Latino,13.5,B,CNS 1,Negative,6,0,0
+TARGET-10-PANXWA,DISCOVERY,0,Living,3833,3833,14,Female,White,Not Hispanic or Latino,2.21,B,CNS 1,Negative,70,3,1.3
+TARGET-10-PANXWI,DISCOVERY,0,Living,3658,3658,14,Male,White,Not Hispanic or Latino,49.3,B,CNS 1,Negative,3,2,0
+TARGET-10-PANXXD,VALIDATION,0,Living,3680,3680,4,Female,White,Not Hispanic or Latino,13.8,B,CNS 1,Negative,3,0,0
+TARGET-10-PANXXR,DISCOVERY,0,Living,100,100,17,Female,White,Not Hispanic or Latino,243,B,CNS 2,Negative,0,3,0
+TARGET-10-PANXXY,DISCOVERY,1,Deceased,1450,788,8,Male,Black or African American,Not Hispanic or Latino,8.3,B,CNS 1,Negative,61,0,0.08800000000000001
+TARGET-10-PANXYD,DISCOVERY,0,Living,3219,3219,16,Male,White,Not Hispanic or Latino,7.96,B,CNS 1,Negative,0,1,0
+TARGET-10-PANXZK,VALIDATION,0,Living,3886,3886,5,Female,White,Not Hispanic or Latino,2.66,B,CNS 1,Negative,0,0,0
+TARGET-10-PANXZX,VALIDATION,1,Deceased,308,308,9,Female,White,Not Hispanic or Latino,2.97,B,CNS 2a,Negative,26,0,0.8
+TARGET-10-PANYAH,DISCOVERY,0,Living,3077,3077,7,Male,White,Hispanic or Latino,53.5,B,CNS 1,Negative,1,0,0
+TARGET-10-PANYAL,DISCOVERY,0,Living,3578,3578,5,Male,White,Not Hispanic or Latino,102.6,B,CNS 2,Negative,9,0,0.003
+TARGET-10-PANYDL,VALIDATION,1,Deceased,149,149,3,Female,White,Unknown,7.86,B,CNS 1,Negative,14,0,0
+TARGET-10-PANYEJ,DISCOVERY,0,Living,3875,3875,2,Male,White,Not Hispanic or Latino,73.6,B,CNS 1,Negative,3,0,0.0023
+TARGET-10-PANYFV,DISCOVERY,0,Living,2175,2175,17,Male,White,Hispanic or Latino,11.5,B,CNS 1,Negative,16,0,0.003
+TARGET-10-PANYFY,DISCOVERY,0,Living,3630,3630,5,Female,Unknown,Hispanic or Latino,99.3,B,CNS 1,Negative,87,0,0.022
+TARGET-10-PANYGB,VALIDATION;DISCOVERY,1,Deceased,2110,1321,8,Female,Unknown,Unknown,21.8,B,CNS 1,Negative,75,0,0
+TARGET-10-PANYGV,DISCOVERY,0,Living,1565,1563,18,Male,White,Hispanic or Latino,6.1,B,CNS 2,Negative,0,0,0
+TARGET-10-PANYHB,VALIDATION,0,Living,3582,3582,3,Male,White,Not Hispanic or Latino,28.4,B,CNS 2b,Negative,78,1,0
+TARGET-10-PANYHE,DISCOVERY,0,Living,3592,3592,3,Male,White,Not Hispanic or Latino,67.8,B,CNS 1,Negative,30,3,0
+TARGET-10-PANYHL,DISCOVERY,0,Living,3766,3766,7,Female,White,Not Hispanic or Latino,81.6,B,CNS 1,Negative,2,0,0
+TARGET-10-PANYHV,DISCOVERY,0,Living,1563,1563,15,Male,White,Not Hispanic or Latino,91.6,B,CNS 1,Negative,2,0,0
+TARGET-10-PANYHW,DISCOVERY,0,Living,3793,2269,13,Female,White,Not Hispanic or Latino,17.8,B,CNS 1,Negative,86,2,4.9
+TARGET-10-PANYIT,DISCOVERY,0,Living,3746,3746,6,Female,White,Not Hispanic or Latino,134.3,B,CNS 1,Negative,2,1,0
+TARGET-10-PANYJI,DISCOVERY,0,Living,3570,3570,16,Female,American Indian or Alaska Native,Not Hispanic or Latino,13.6,B,CNS 1,Negative,50,2,0.7
+TARGET-10-PANYJJ,DISCOVERY,0,Living,3492,3492,7,Female,Unknown,Unknown,72.2,B,CNS 2,Negative,58,0,0
+TARGET-10-PANYJL,VALIDATION,1,Deceased,179,179,2,Female,White,Not Hispanic or Latino,6.7,B,CNS 1,Negative,41,0,0
+TARGET-10-PANYJV,VALIDATION,0,Living,3937,3937,6,Female,White,Hispanic or Latino,7.3,B,CNS 1,Negative,9,0,0
+TARGET-10-PANYMY,DISCOVERY,0,Living,3535,3535,13,Female,White,Hispanic or Latino,11.2,B,CNS 1,Negative,1,0,0
+TARGET-10-PANYNX,DISCOVERY,0,Living,1361,1361,2,Male,Asian,Not Hispanic or Latino,52.5,B,CNS 1,Negative,2,2,0
+TARGET-10-PANYPN,DISCOVERY,0,Living,3465,3465,14,Female,White,Not Hispanic or Latino,81.8,B,CNS 2,Negative,78,0,0
+TARGET-10-PANYUR,DISCOVERY,0,Living,3714,3714,2,Female,White,Hispanic or Latino,54.4,B,CNS 1,Negative,0,1,0
+TARGET-10-PANYWH,DISCOVERY,0,Living,3072,3072,13,Female,Asian,Not Hispanic or Latino,5.9,B,CNS 1,Negative,20,0,0
+TARGET-10-PANYXC,DISCOVERY,0,Living,1707,1707,4,Male,White,Hispanic or Latino,63,B,CNS 1,Negative,2,0,0
+TARGET-10-PANYXD,VALIDATION,0,Living,3643,3643,5,Male,White,Not Hispanic or Latino,11.48,B,CNS 1,Negative,30,0,0.001
+TARGET-10-PANYXE,DISCOVERY,0,Living,3884,3884,8,Female,Unknown,Hispanic or Latino,121.2,B,CNS 1,Negative,14,0,0
+TARGET-10-PANYXR,VALIDATION,0,Living,3664,3664,2,Female,White,Not Hispanic or Latino,14,B,CNS 1,Negative,4,0,0.009
+TARGET-10-PANYYE,DISCOVERY,1,Deceased,2821,1455,12,Male,White,Not Hispanic or Latino,8.6,B,CNS 1,Negative,18,0,0
+TARGET-10-PANYYV,DISCOVERY,0,Living,3122,1304,4,Female,White,Not Hispanic or Latino,14.7,B,CNS 1,Negative,8,0,0
+TARGET-10-PANYYW,DISCOVERY,0,Living,3931,3931,13,Male,Unknown,Hispanic or Latino,8.3,B,CNS 1,Negative,0,0,0.004
+TARGET-10-PANYZE,VALIDATION;DISCOVERY,1,Deceased,3065,1272,5,Female,White,Not Hispanic or Latino,8.1,B,CNS 1,Negative,1,0,0
+TARGET-10-PANYZJ,DISCOVERY,0,Living,2537,2537,12,Female,Unknown,Not Hispanic or Latino,147.7,B,CNS 1,Negative,2,0,0
+TARGET-10-PANZAM,DISCOVERY,1,Deceased,1286,574,18,Female,White,Not Hispanic or Latino,2.7,B,CNS 1,Negative,17,0,0.18
+TARGET-10-PANZAR,DISCOVERY,0,Living,3608,3608,11,Female,Unknown,Hispanic or Latino,387.2,B,CNS 1,Negative,86,0,0
+TARGET-10-PANZBR,VALIDATION,0,Living,3556,3556,2,Male,White,Not Hispanic or Latino,41.1,B,CNS 1,Negative,0,0,0
+TARGET-10-PANZBY,VALIDATION,0,Living,3742,3742,3,Female,White,Not Hispanic or Latino,9.1,B,CNS 1,Negative,14,0,0.016
+TARGET-10-PANZCF,VALIDATION,1,Deceased,3051,1274,9,Male,White,Not Hispanic or Latino,3.3,B,CNS 1,Negative,4,0,0.07200000000000001
+TARGET-10-PANZCX,DISCOVERY,0,Living,3826,3826,6,Female,White,Hispanic or Latino,78.6,B,CNS 2,Negative,14,4,0.002
+TARGET-10-PANZDB,DISCOVERY,0,Living,3729,3729,7,Female,White,Not Hispanic or Latino,54.3,B,CNS 2,Negative,0,0,0
+TARGET-10-PANZEG,VALIDATION,0,Living,2628,2628,3,Female,White,Not Hispanic or Latino,49.98,B,CNS 1,Negative,4,2,0.11
+TARGET-10-PANZEV,DISCOVERY,1,Deceased,1517,661,5,Female,White,Hispanic or Latino,119.9,B,CNS 1,Negative,1,0,0
+TARGET-10-PANZFN,VALIDATION,0,Living,3640,3640,7,Female,White,Not Hispanic or Latino,7.1,B,CNS 1,Negative,30,1,0
+TARGET-10-PANZFW,DISCOVERY,0,Living,2324,2324,17,Male,White,Not Hispanic or Latino,78.5,B,CNS 1,Negative,4,0,0
+TARGET-10-PANZGD,DISCOVERY,0,Living,3805,3805,4,Male,White,Not Hispanic or Latino,299.3,B,CNS 2,Negative,51,4,0.0043
+TARGET-10-PANZGN,VALIDATION,0,Living,3604,3604,2,Male,White,Not Hispanic or Latino,11.5,B,CNS 2b,Negative,17,2,0
+TARGET-10-PANZHD,DISCOVERY,0,Living,222,222,3,Female,White,Not Hispanic or Latino,69.3,B,CNS 1,Negative,0,2,0
+TARGET-10-PANZHL,DISCOVERY,0,Living,2732,2732,11,Male,Asian,Not Hispanic or Latino,10.9,B,CNS 1,Negative,3,2,0
+TARGET-10-PANZID,DISCOVERY,0,Living,2518,2518,5,Male,White,Not Hispanic or Latino,154.5,B,CNS 1,Negative,2,0,0
+TARGET-10-PANZJG,DISCOVERY,0,Living,3640,3640,2,Male,White,Not Hispanic or Latino,382,B,CNS 1,Negative,1,1,0
+TARGET-10-PANZJL,DISCOVERY,0,Living,3676,3676,3,Male,White,Not Hispanic or Latino,74.3,B,CNS 1,Negative,80,0,0
+TARGET-10-PANZKC,DISCOVERY,0,Living,3561,1849,9,Male,White,Not Hispanic or Latino,103,B,CNS 1,Negative,1,3,0
+TARGET-10-PANZLS,DISCOVERY,0,Living,2423,2423,16,Female,White,Not Hispanic or Latino,321,B,CNS 1,Negative,1,0,0.004
+TARGET-10-PANZNG,DISCOVERY,0,Living,3910,3910,21,Female,White,Not Hispanic or Latino,10.04,B,CNS 3,Negative,1,0,0
+TARGET-10-PANZPJ,DISCOVERY + XENOGRAFT,1,Deceased,953,932,14,Male,Unknown,Unknown,3.4,B,CNS 1,Negative,15,4,1.3
+TARGET-10-PANZPP,DISCOVERY,0,Living,2092,2092,16,Male,Unknown,Hispanic or Latino,9.1,B,CNS 2,Negative,1,0,0.006
+TARGET-10-PANZPU,VALIDATION,0,Living,3757,3757,5,Male,White,Not Hispanic or Latino,3.6,B,CNS 1,Negative,39,1,0.13
+TARGET-10-PANZRH,DISCOVERY,1,Deceased,81,81,16,Female,White,Not Hispanic or Latino,175.2,B,CNS 1,Positive,90,16,NA
+TARGET-10-PANZSE,VALIDATION,0,Living,3601,3601,4,Female,Black or African American,Unknown,35.6,B,CNS 1,Negative,4,1,0.0032
+TARGET-10-PANZUE,DISCOVERY,0,Living,757,757,3,Male,White,Hispanic or Latino,64.8,B,CNS 1,Negative,9,1,0.023
+TARGET-10-PANZUI,VALIDATION,0,Living,3778,3778,9,Female,White,Not Hispanic or Latino,22.4,B,CNS 1,Negative,1,0,0
+TARGET-10-PANZWG,DISCOVERY,1,Deceased,475,293,4,Female,White,Not Hispanic or Latino,2.5,B,CNS 1,Negative,5,0,0
+TARGET-10-PANZXC,DISCOVERY,1,Deceased,1412,1115,3,Male,Black or African American,Not Hispanic or Latino,4,B,CNS 1,Negative,67,0,0.027
+TARGET-10-PANZXZ,DISCOVERY,0,Living,2970,2970,14,Male,White,Hispanic or Latino,6.93,B,CNS 1,Negative,32,1,0.015
+TARGET-10-PANZYY,VALIDATION,0,Living,3774,3774,2,Male,Native Hawaiian or other Pacific Islander,Not Hispanic or Latino,27.6,B,CNS 1,Negative,80,0,0.016
+TARGET-10-PANZZC,DISCOVERY,0,Living,2114,2114,13,Male,White,Not Hispanic or Latino,7.6,B,CNS 1,Negative,0,0,0
+TARGET-10-PANZZI,VALIDATION,0,Living,3037,3037,6,Male,White,Not Hispanic or Latino,4.5,B,CNS 1,Negative,1,4,0
+TARGET-10-PANZZX,DISCOVERY,0,Living,3876,3876,4,Male,Asian,Not Hispanic or Latino,79.9,B,CNS 1,Negative,10,0,0
+TARGET-10-PAPACP,DISCOVERY,1,Deceased,2378,1303,6,Female,Black or African American,Unknown,2.2,B,CNS 1,Negative,92,0,0.0072
+TARGET-10-PAPADB,DISCOVERY,0,Living,3802,605,4,Female,White,Not Hispanic or Latino,137.34,B,CNS 2,Negative,15,1,0
+TARGET-10-PAPADC,DISCOVERY,1,Deceased,93,93,16,Female,Black or African American,Not Hispanic or Latino,30.9,B,CNS 1,Negative,21,0,0
+TARGET-10-PAPADT,VALIDATION,0,Living,3710,3710,2,Male,White,Not Hispanic or Latino,31,B,CNS 2a,Negative,12,0,0.005
+TARGET-10-PAPAEB,DISCOVERY,0,Living,3584,3584,15,Female,White,Hispanic or Latino,39,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPAEV,DISCOVERY,0,Living,3776,3776,13,Female,White,Hispanic or Latino,18.48,B,CNS 1,Negative,15,0,0
+TARGET-10-PAPAFL,DISCOVERY,0,Living,917,917,14,Male,White,Not Hispanic or Latino,3.3,B,CNS 1,Negative,0,2,5e-4
+TARGET-10-PAPAGB,VALIDATION,0,Living,3823,3823,9,Female,White,Not Hispanic or Latino,8.3,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPAGF,VALIDATION,0,Living,3731,3731,4,Male,White,Hispanic or Latino,11.8,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPAGJ,DISCOVERY,1,Deceased,776,482,15,Female,White,Not Hispanic or Latino,177,B,CNS 2,Negative,4,0,0
+TARGET-10-PAPAGK,DISCOVERY,0,Living,3529,771,3,Female,Black or African American,Not Hispanic or Latino,6,B,CNS 1,Negative,19,2,0
+TARGET-10-PAPAGS,VALIDATION,0,Living,3493,3493,7,Male,White,Hispanic or Latino,26.9,B,CNS 1,Negative,42,2,1.3
+TARGET-10-PAPAGT,DISCOVERY,0,Living,3760,3760,14,Female,White,Not Hispanic or Latino,37,B,CNS 1,Negative,4,0,0
+TARGET-10-PAPAGV,VALIDATION,0,Living,3729,3729,4,Female,White,Not Hispanic or Latino,6.8,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPAGW,VALIDATION,0,Living,3612,3612,5,Male,White,Not Hispanic or Latino,5.6,B,CNS 1,Positive,2,0,0.026
+TARGET-10-PAPAHL,DISCOVERY,0,Living,2670,2670,12,Male,White,Not Hispanic or Latino,76.3,B,CNS 2,Negative,16,2,0
+TARGET-10-PAPAHP,DISCOVERY,0,Living,3713,3713,12,Female,White,Not Hispanic or Latino,38.5,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPAIZ,DISCOVERY,0,Living,3632,932,7,Female,White,Not Hispanic or Latino,15.23,B,CNS 1,Negative,47,1,0
+TARGET-10-PAPAJT,DISCOVERY,0,Living,3768,1854,9,Male,White,Not Hispanic or Latino,115.1,B,CNS 1,Negative,0,2,4.6
+TARGET-10-PAPAJU,DISCOVERY,0,Living,3763,3763,19,Female,White,Not Hispanic or Latino,19.4,B,CNS 1,Negative,7,1,0
+TARGET-10-PAPAJV,DISCOVERY,0,Living,2874,2874,13,Male,Unknown,Hispanic or Latino,10.2,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPAKA,DISCOVERY,0,Living,3458,3458,13,Female,White,Not Hispanic or Latino,2.2,B,CNS 1,Negative,0,1,0
+TARGET-10-PAPAKJ,VALIDATION,0,Living,2174,2174,4,Male,White,Not Hispanic or Latino,7.31,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPAKV,DISCOVERY,0,Living,3818,742,8,Male,Unknown,Unknown,388.3,B,CNS 1,Positive,80,6,5.5
+TARGET-10-PAPALF,DISCOVERY,0,Living,3584,3584,13,Male,Unknown,Hispanic or Latino,16.21,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPALK,DISCOVERY,1,Deceased,3611,1202,12,Female,Unknown,Hispanic or Latino,9.21,B,CNS 2,Negative,93,0,0.32
+TARGET-10-PAPAMA,VALIDATION,0,Living,3623,3623,7,Male,White,Not Hispanic or Latino,29.34,B,CNS 2c,Negative,4,0,0
+TARGET-10-PAPAMB,DISCOVERY,1,Deceased,705,28,16,Male,White,Not Hispanic or Latino,4.3,B,CNS 1,Negative,18,28,7
+TARGET-10-PAPAME,DISCOVERY,0,Living,3853,3853,16,Male,White,Not Hispanic or Latino,3.6,B,CNS 1,Negative,2,0,0
+TARGET-10-PAPAMH,VALIDATION,1,Deceased,252,252,5,Female,White,Not Hispanic or Latino,10.4,B,CNS 1,Negative,54,1,1.3
+TARGET-10-PAPAMS,VALIDATION,0,Living,3553,3553,4,Female,White,Not Hispanic or Latino,4.4,B,CNS 1,Negative,18,0,0
+TARGET-10-PAPAMX,DISCOVERY,0,Living,3866,3866,2,Male,White,Not Hispanic or Latino,107.4,B,CNS 1,Negative,3,2,0.03
+TARGET-10-PAPAMY,DISCOVERY,0,Living,3535,3535,2,Female,Asian,Not Hispanic or Latino,318,B,CNS 2,Negative,4,4,0
+TARGET-10-PAPANB,VALIDATION,0,Living,3817,3817,6,Male,White,Not Hispanic or Latino,26.01,B,CNS 2a,Negative,4,0,0
+TARGET-10-PAPAPC,VALIDATION,0,Living,2649,2649,3,Female,White,Unknown,3.9,B,CNS 1,Negative,10,1,0
+TARGET-10-PAPAPG,DISCOVERY,0,Living,3767,3767,13,Female,White,Not Hispanic or Latino,1.2,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPAPK,DISCOVERY,1,Deceased,527,527,11,Female,White,Not Hispanic or Latino,8.1,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPAPX,VALIDATION,0,Living,3561,3561,5,Male,Black or African American,Not Hispanic or Latino,22.5,B,CNS 1,Negative,4,1,0
+TARGET-10-PAPARB,DISCOVERY,0,Living,3695,3695,15,Male,White,Not Hispanic or Latino,37.9,B,CNS 1,Positive,36,0,6.4
+TARGET-10-PAPART,VALIDATION,0,Living,3794,3794,3,Female,White,Not Hispanic or Latino,11.14,B,CNS 1,Negative,70,1,0
+TARGET-10-PAPASX,DISCOVERY,0,Living,3433,3433,3,Female,Unknown,Hispanic or Latino,82.62,B,CNS 1,Negative,7,1,0
+TARGET-10-PAPATR,DISCOVERY,0,Living,1440,47,15,Female,Black or African American,Not Hispanic or Latino,105.3,B,CNS 1,Negative,80,2,4.8
+TARGET-10-PAPAVC,DISCOVERY,0,Living,502,502,13,Female,White,Not Hispanic or Latino,3.7,B,CNS 1,Negative,0,3,0.015
+TARGET-10-PAPAVK,DISCOVERY,1,Deceased,264,264,18,Female,White,Not Hispanic or Latino,12.2,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPAVR,VALIDATION,0,Living,2445,2445,4,Female,White,Not Hispanic or Latino,4,B,CNS 1,Negative,2,1,0
+TARGET-10-PAPAWB,DISCOVERY,0,Living,3885,3885,4,Female,White,Hispanic or Latino,178.3,B,CNS 1,Negative,0,4,0
+TARGET-10-PAPAWK,DISCOVERY,0,Living,3532,3532,12,Female,Black or African American,Not Hispanic or Latino,90.9,B,CNS 1,Negative,23,0,0
+TARGET-10-PAPAWY,DISCOVERY,0,Living,312,312,5,Female,Black or African American,Not Hispanic or Latino,73.58,B,CNS 1,Negative,0,0,0.0017
+TARGET-10-PAPAXH,VALIDATION,0,Living,2914,2914,3,Female,White,Not Hispanic or Latino,9.8,B,CNS 1,Negative,1,0,0.0025
+TARGET-10-PAPAZA,VALIDATION,0,Living,2422,2422,9,Female,Black or African American,Not Hispanic or Latino,8,B,CNS 1,Negative,10,0,0.047
+TARGET-10-PAPAZD,VALIDATION,0,Living,3815,3815,8,Male,White,Not Hispanic or Latino,4.6,B,CNS 1,Negative,11,0,0
+TARGET-10-PAPAZL,DISCOVERY,0,Living,3803,3803,12,Male,White,Not Hispanic or Latino,2.7,B,CNS 1,Negative,2,0,0
+TARGET-10-PAPBAI,VALIDATION,0,Living,3612,3612,3,Male,White,Not Hispanic or Latino,6.6,B,CNS 1,Negative,33,0,0.0033
+TARGET-10-PAPBAN,VALIDATION,0,Living,3381,3381,5,Female,White,Not Hispanic or Latino,40.6,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPBCF,DISCOVERY,0,Living,3014,3014,4,Female,White,Not Hispanic or Latino,75,B,CNS 1,Positive,2,1,0
+TARGET-10-PAPBCI,DISCOVERY,1,Deceased,3085,2602,10,Male,White,Not Hispanic or Latino,125.7,B,CNS 2,Negative,67,0,0.89
+TARGET-10-PAPBCK,VALIDATION,0,Living,2881,2881,6,Male,White,Not Hispanic or Latino,2.8,B,CNS 1,Negative,32,1,0
+TARGET-10-PAPBDE,DISCOVERY,0,Living,3797,3797,2,Male,White,Not Hispanic or Latino,228,B,CNS 3,Negative,5,1,0.4
+TARGET-10-PAPBDI,DISCOVERY,0,Living,3524,3524,3,Male,Unknown,Hispanic or Latino,68.07,B,CNS 1,Negative,18,0,0.03
+TARGET-10-PAPBDM,DISCOVERY,0,Living,1172,1172,5,Female,White,Not Hispanic or Latino,95.1,B,CNS 2,Negative,5,0,0
+TARGET-10-PAPBDR,DISCOVERY,0,Living,2302,1753,13,Male,White,Hispanic or Latino,10.8,B,CNS 1,Negative,45,1,0.004
+TARGET-10-PAPBES,DISCOVERY,1,Deceased,3665,2814,3,Male,Black or African American,Not Hispanic or Latino,88,B,CNS 2,Negative,72,0,0.11
+TARGET-10-PAPBFN,DISCOVERY,1,Deceased,1508,1256,11,Male,White,Not Hispanic or Latino,8.6,B,CNS 1,Negative,0,2,0.0072
+TARGET-10-PAPBIK,DISCOVERY,0,Living,3869,3869,4,Male,Unknown,Unknown,63.36,B,CNS 2,Negative,35,2,0
+TARGET-10-PAPBKV,DISCOVERY,0,Living,3418,3418,2,Male,White,Not Hispanic or Latino,97.3,B,CNS 1,Negative,51,1,0.02
+TARGET-10-PAPBLU,VALIDATION,0,Living,3697,3697,6,Male,White,Not Hispanic or Latino,16,B,CNS 1,Negative,35,1,0.0018
+TARGET-10-PAPBMI,DISCOVERY,1,Deceased,1278,850,15,Female,White,Not Hispanic or Latino,1.5,B,CNS 1,Negative,0,3,0.002
+TARGET-10-PAPBPC,VALIDATION,0,Living,3527,3527,8,Male,White,Not Hispanic or Latino,13.6,B,CNS 1,Negative,13,0,0
+TARGET-10-PAPBRW,DISCOVERY,0,Living,3487,1829,14,Male,White,Not Hispanic or Latino,1.7,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPBSB,DISCOVERY,0,Living,3738,3738,12,Female,White,Hispanic or Latino,3.5,B,CNS 1,Negative,0,0,1e-4
+TARGET-10-PAPBSE,DISCOVERY,0,Living,2673,2673,15,Male,White,Not Hispanic or Latino,35.7,B,CNS 1,Negative,10,1,0
+TARGET-10-PAPBSY,DISCOVERY,1,Deceased,665,77,3,Male,Black or African American,Not Hispanic or Latino,10.4,B,CNS 1,Negative,20,3,0.32
+TARGET-10-PAPBTG,DISCOVERY,0,Living,3578,3578,3,Female,White,Not Hispanic or Latino,92.4,B,CNS 1,Negative,6,1,0
+TARGET-10-PAPBTM,DISCOVERY,0,Living,1722,1722,2,Male,Black or African American,Not Hispanic or Latino,62.1,B,CNS 1,Negative,4,1,0
+TARGET-10-PAPBUR,DISCOVERY,0,Living,3653,3653,21,Female,Unknown,Hispanic or Latino,29.2,B,CNS 1,Positive,3,4,21.1
+TARGET-10-PAPBUS,DISCOVERY,0,Living,3549,3549,3,Male,Black or African American,Not Hispanic or Latino,82.1,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPBVD,VALIDATION,0,Living,2113,2113,3,Male,White,Not Hispanic or Latino,12.7,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPBWZ,DISCOVERY,0,Living,3744,3744,2,Male,White,Hispanic or Latino,51.2,B,CNS 1,Negative,0,3,0
+TARGET-10-PAPBYJ,DISCOVERY,0,Living,2375,2375,16,Female,White,Not Hispanic or Latino,79,B,CNS 1,Negative,4,3,0
+TARGET-10-PAPBYL,DISCOVERY,0,Living,3883,3883,11,Female,White,Hispanic or Latino,12.9,B,CNS 1,Negative,1,1,0
+TARGET-10-PAPBYM,VALIDATION,0,Living,36,36,3,Male,Black or African American,Not Hispanic or Latino,4.3,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPBYU,DISCOVERY,0,Living,2636,2636,3,Male,White,Hispanic or Latino,74.3,B,CNS 1,Negative,8,3,1.3
+TARGET-10-PAPBZK,DISCOVERY,1,Deceased,790,365,19,Male,White,Not Hispanic or Latino,13.7,B,CNS 1,Negative,1,0,0.04
+TARGET-10-PAPBZW,VALIDATION,0,Living,2771,2771,4,Male,White,Not Hispanic or Latino,29,B,CNS 1,Negative,54,1,0.035
+TARGET-10-PAPCAF,DISCOVERY,0,Living,3599,205,2,Female,Unknown,Hispanic or Latino,586.8,B,CNS 2,Negative,74,0,0.19
+TARGET-10-PAPCBT,DISCOVERY,0,Living,3792,3792,15,Female,White,Not Hispanic or Latino,3.4,B,CNS 1,Negative,5,0,0
+TARGET-10-PAPCCB,DISCOVERY,0,Living,3753,3753,2,Female,Unknown,Not Hispanic or Latino,56.1,B,CNS 1,Negative,30,0,0
+TARGET-10-PAPCDC,DISCOVERY,0,Living,1832,1832,16,Male,Black or African American,Not Hispanic or Latino,95.7,B,CNS 1,Negative,74,1,0
+TARGET-10-PAPCDE,DISCOVERY,0,Living,1547,1547,14,Female,Unknown,Not Hispanic or Latino,9.1,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPCED,VALIDATION,0,Living,3416,3416,5,Female,White,Hispanic or Latino,0.4,B,CNS 1,Negative,1,2,0
+TARGET-10-PAPCFS,DISCOVERY,0,Living,2545,2545,10,Female,White,Not Hispanic or Latino,93.5,B,CNS 1,Negative,87,0,0.045
+TARGET-10-PAPCGH,DISCOVERY,0,Living,3557,3557,16,Male,White,Not Hispanic or Latino,4.9,B,CNS 1,Positive,48,0,5
+TARGET-10-PAPCGZ,DISCOVERY,1,Deceased,2658,2449,12,Female,White,Not Hispanic or Latino,9.2,B,CNS 3,Negative,25,0,0
+TARGET-10-PAPCHT,DISCOVERY,0,Living,2406,2406,14,Male,White,Hispanic or Latino,26,B,CNS 2,Negative,6,2,0
+TARGET-10-PAPCJB,DISCOVERY,0,Living,1275,1275,17,Female,White,Hispanic or Latino,39.6,B,CNS 1,Negative,4,0,0
+TARGET-10-PAPCJR,VALIDATION,0,Living,2837,2837,3,Male,White,Not Hispanic or Latino,16.15,B,CNS 1,Negative,4,2,0
+TARGET-10-PAPCJS,DISCOVERY,0,Living,3551,612,2,Male,Black or African American,Hispanic or Latino,18.5,B,CNS 2,Negative,20,0,1.05
+TARGET-10-PAPCKW,DISCOVERY,0,Living,3625,3625,6,Female,White,Not Hispanic or Latino,74.9,B,CNS 1,Negative,70,0,0
+TARGET-10-PAPCNG,DISCOVERY,0,Living,3008,3008,13,Male,White,Not Hispanic or Latino,12.11,B,CNS 1,Negative,9,1,0
+TARGET-10-PAPCNP,VALIDATION,0,Living,58,58,10,Male,White,Not Hispanic or Latino,26,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPCNR,DISCOVERY,0,Living,2287,2287,12,Female,White,Not Hispanic or Latino,1.5,B,CNS 1,Negative,21,0,0.002
+TARGET-10-PAPCPB,VALIDATION,0,Living,3674,3674,5,Male,White,Not Hispanic or Latino,1.7,B,CNS 1,Negative,6,0,0
+TARGET-10-PAPCPC,DISCOVERY,1,Deceased,2399,1017,3,Male,White,Not Hispanic or Latino,3.4,B,CNS 1,Negative,0,1,0
+TARGET-10-PAPCRD,VALIDATION,0,Living,3754,3754,3,Male,White,Not Hispanic or Latino,34.7,B,CNS 1,Negative,14,0,0.002
+TARGET-10-PAPCRJ,VALIDATION,0,Living,3387,3387,3,Female,White,Not Hispanic or Latino,3.1,B,CNS 1,Negative,10,1,0
+TARGET-10-PAPCRU,VALIDATION,0,Living,3773,3773,7,Male,White,Not Hispanic or Latino,15.2,B,CNS 1,Negative,0,4,0
+TARGET-10-PAPCSR,DISCOVERY,0,Living,3213,3213,12,Female,White,Not Hispanic or Latino,4.6,B,CNS 2,Negative,0,1,0.002
+TARGET-10-PAPCSZ,VALIDATION,1,Deceased,2105,1582,10,Male,White,Not Hispanic or Latino,1.4,B,CNS 1,Negative,18,0,0
+TARGET-10-PAPCUI,VALIDATION,0,Living,3234,3234,5,Male,Asian,Not Hispanic or Latino,15.2,B,CNS 1,Negative,80,1,0.07
+TARGET-10-PAPCUR,DISCOVERY,1,Deceased,369,222,4,Female,White,Not Hispanic or Latino,8.4,B,CNS 1,Negative,17,0,NA
+TARGET-10-PAPCVA,DISCOVERY,1,Deceased,1469,1302,14,Male,White,Hispanic or Latino,204,B,CNS 2,Negative,0,0,0
+TARGET-10-PAPCVI,VALIDATION,0,Living,3370,3370,5,Female,White,Not Hispanic or Latino,20,B,CNS 1,Negative,7,1,0
+TARGET-10-PAPCVR,VALIDATION,0,Living,3669,3669,3,Female,White,Not Hispanic or Latino,16,B,CNS 1,Negative,66,0,0.0015
+TARGET-10-PAPCVV,DISCOVERY,0,Living,1742,1742,18,Male,White,Not Hispanic or Latino,2.8,B,CNS 1,Negative,80,0,5
+TARGET-10-PAPCVZ,DISCOVERY,0,Living,3248,1255,6,Female,Unknown,Hispanic or Latino,11.6,B,CNS 1,Negative,16,1,0.0048
+TARGET-10-PAPCWJ,DISCOVERY,0,Living,3766,3766,18,Male,Unknown,Hispanic or Latino,14.33,B,CNS 1,Negative,2,1,0
+TARGET-10-PAPCWN,DISCOVERY,0,Living,3809,3809,12,Female,White,Not Hispanic or Latino,12.2,B,CNS 1,Negative,87,2,3.1
+TARGET-10-PAPCXR,DISCOVERY + XENOGRAFT,0,Living,3848,3848,16,Male,White,Not Hispanic or Latino,68.9,B,CNS 3c,Negative,32,2,0
+TARGET-10-PAPCYX,DISCOVERY,0,Living,3549,3549,15,Female,White,Not Hispanic or Latino,5.9,B,CNS 1,Negative,67,3,0
+TARGET-10-PAPDAU,DISCOVERY,0,Living,3635,3635,2,Male,White,Hispanic or Latino,120.2,B,CNS 1,Negative,7,0,0
+TARGET-10-PAPDBE,DISCOVERY,0,Living,2228,2228,18,Male,White,Hispanic or Latino,2,B,CNS 1,Negative,9,0,0
+TARGET-10-PAPDBX,VALIDATION,0,Living,37,37,4,Female,Asian,Not Hispanic or Latino,40.4,B,CNS 1,Negative,2,2,0
+TARGET-10-PAPDCC,DISCOVERY,0,Living,3795,3795,6,Female,White,Hispanic or Latino,85.2,B,CNS 1,Negative,7,0,0
+TARGET-10-PAPDCH,DISCOVERY,0,Living,3664,2129,3,Male,Asian,Not Hispanic or Latino,69,B,CNS 1,Negative,6,2,1.4
+TARGET-10-PAPDCK,DISCOVERY,0,Living,3723,3723,17,Male,White,Not Hispanic or Latino,3.7,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPDCR,DISCOVERY,0,Living,3681,3681,5,Male,Unknown,Hispanic or Latino,56.4,B,CNS 1,Negative,NA,0,0
+TARGET-10-PAPDCS,VALIDATION,0,Living,3248,3248,6,Male,White,Not Hispanic or Latino,3.2,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPDCU,DISCOVERY,0,Living,1149,1149,21,Female,Black or African American,Not Hispanic or Latino,5.9,B,CNS 1,Negative,1,1,0
+TARGET-10-PAPDDA,VALIDATION,0,Living,2921,2921,5,Male,White,Not Hispanic or Latino,39.33,B,CNS 1,Negative,69,0,0.02
+TARGET-10-PAPDEE,DISCOVERY,1,Deceased,1115,995,11,Male,White,Hispanic or Latino,8.5,B,CNS 1,Negative,0,2,0
+TARGET-10-PAPDFS,VALIDATION,0,Living,3829,3829,5,Female,Unknown,Not Hispanic or Latino,18,B,CNS 1,Negative,9,0,0
+TARGET-10-PAPDFU,DISCOVERY + XENOGRAFT,0,Living,3597,3597,11,Female,White,Hispanic or Latino,2.6,B,CNS 2a,Negative,0,2,0
+TARGET-10-PAPDGF,DISCOVERY,0,Living,3776,2567,12,Male,White,Not Hispanic or Latino,3,B,CNS 1,Negative,36,1,0.013
+TARGET-10-PAPDGX,DISCOVERY,0,Living,3156,3156,12,Male,White,Not Hispanic or Latino,176.8,B,CNS 1,Negative,13,0,0
+TARGET-10-PAPDHA,VALIDATION,0,Living,3794,3794,3,Male,White,Not Hispanic or Latino,33.7,B,CNS 1,Negative,66,1,0
+TARGET-10-PAPDHD,DISCOVERY,0,Living,3478,3478,15,Female,Unknown,Hispanic or Latino,584,B,CNS 1,Negative,72,9,41.3
+TARGET-10-PAPDIZ,DISCOVERY,0,Living,3482,2559,2,Female,White,Not Hispanic or Latino,332,B,CNS 2,Negative,54,5,0
+TARGET-10-PAPDJM,DISCOVERY,0,Living,722,722,3,Male,White,Not Hispanic or Latino,17.6,B,CNS 2,Negative,50,0,0.0063
+TARGET-10-PAPDJT,DISCOVERY,1,Deceased,263,99,19,Female,White,Not Hispanic or Latino,295,B,CNS 1,Positive,80,3,7.7
+TARGET-10-PAPDKD,VALIDATION,0,Living,2075,2075,3,Male,White,Not Hispanic or Latino,3.81,B,CNS 1,Negative,1,0,0.04
+TARGET-10-PAPDKG,DISCOVERY,1,Deceased,634,28,13,Female,White,Not Hispanic or Latino,103.7,B,CNS 1,Negative,90,70,70
+TARGET-10-PAPDKJ,DISCOVERY,1,Deceased,1456,819,4,Male,Black or African American,Not Hispanic or Latino,3.5,B,CNS 1,Negative,75,0,0
+TARGET-10-PAPDKR,VALIDATION,0,Living,3718,3718,2,Female,Black or African American,Not Hispanic or Latino,33.6,B,CNS 1,Negative,20,0,0
+TARGET-10-PAPDLH,DISCOVERY,0,Living,3459,3459,5,Female,White,Not Hispanic or Latino,131.8,B,CNS 1,Negative,39,1,0
+TARGET-10-PAPDLN,VALIDATION,0,Living,3805,3805,3,Male,White,Not Hispanic or Latino,25.9,B,CNS 1,Negative,2,0,0
+TARGET-10-PAPDMU,VALIDATION,0,Living,3716,3716,6,Male,Unknown,Hispanic or Latino,3.9,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPDNB,DISCOVERY,1,Deceased,661,20,17,Male,White,Not Hispanic or Latino,487.4,B,CNS 1,Positive,80,73,66
+TARGET-10-PAPDRD,DISCOVERY,0,Living,3629,3629,2,Female,Black or African American,Hispanic or Latino,124.7,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPDRL,DISCOVERY,0,Living,3549,3549,15,Female,Black or African American,Not Hispanic or Latino,29,B,CNS 2,Negative,43,1,0
+TARGET-10-PAPDRP,VALIDATION,0,Living,2048,2048,5,Male,White,Unknown,32.49,B,CNS 1,Negative,44,1,0.02899999999999999
+TARGET-10-PAPDRX,DISCOVERY,0,Living,3792,3792,6,Male,White,Hispanic or Latino,55.3,B,CNS 1,Negative,3,0,0
+TARGET-10-PAPDSW,VALIDATION,0,Living,3150,3150,4,Male,White,Not Hispanic or Latino,17.6,B,CNS 1,Negative,65,0,0.01
+TARGET-10-PAPDTN,DISCOVERY,0,Living,2327,2327,4,Male,Unknown,Hispanic or Latino,225.4,B,CNS 2,Negative,3,1,0
+TARGET-10-PAPDUF,DISCOVERY,0,Living,3669,1191,4,Male,White,Not Hispanic or Latino,5.6,B,CNS 1,Negative,4,0,0.0071
+TARGET-10-PAPDUV,VALIDATION;DISCOVERY,0,Living,3501,1524,6,Female,Asian,Not Hispanic or Latino,31.2,B,CNS 1,Negative,18,0,0.48
+TARGET-10-PAPDUX,VALIDATION,0,Living,2380,2380,4,Female,White,Not Hispanic or Latino,43.1,B,CNS 1,Negative,4,0,0.14
+TARGET-10-PAPDVA,DISCOVERY,1,Deceased,3092,1623,19,Male,White,Not Hispanic or Latino,236.7,B,CNS 1,Negative,1,0,0.02
+TARGET-10-PAPDVF,DISCOVERY,0,Living,3298,3298,4,Female,Black or African American,Not Hispanic or Latino,7.9,B,CNS 1,Negative,0,3,0
+TARGET-10-PAPDVG,VALIDATION,1,Deceased,3427,3427,8,Female,White,Hispanic or Latino,8,B,CNS 1,Positive,13,0,1.6
+TARGET-10-PAPDVX,DISCOVERY,0,Living,2130,2130,15,Male,White,Not Hispanic or Latino,2,B,CNS 1,Negative,19,0,0.006
+TARGET-10-PAPDWT,DISCOVERY,0,Living,3470,868,6,Female,Asian,Not Hispanic or Latino,13.4,B,CNS 1,Negative,4,4,0.076
+TARGET-10-PAPDXF,DISCOVERY,0,Living,3760,1650,2,Male,White,Not Hispanic or Latino,138.2,B,CNS 2,Negative,8,0,0
+TARGET-10-PAPDXH,DISCOVERY,1,Deceased,259,259,11,Female,White,Not Hispanic or Latino,168.7,B,CNS 2,Positive,34,1,0.047
+TARGET-10-PAPDXN,DISCOVERY,0,Living,3450,3450,16,Female,White,Hispanic or Latino,51.5,B,CNS 3,Negative,1,0,0
+TARGET-10-PAPDYE,VALIDATION,0,Living,3772,3772,7,Male,White,Not Hispanic or Latino,3.2,B,CNS 1,Negative,2,1,0.002
+TARGET-10-PAPDZD,DISCOVERY,0,Living,3429,3429,3,Female,White,Not Hispanic or Latino,91.6,B,CNS 1,Negative,1,1,0
+TARGET-10-PAPEAB,DISCOVERY,0,Living,3353,1340,4,Female,White,Not Hispanic or Latino,4.8,B,CNS 1,Negative,10,0,0.28
+TARGET-10-PAPECF,DISCOVERY,0,Living,1290,1178,3,Female,White,Not Hispanic or Latino,22.6,B,CNS 1,Negative,49,2,0.059
+TARGET-10-PAPECI,DISCOVERY,0,Living,3460,3460,4,Female,White,Hispanic or Latino,61.2,B,CNS 1,Negative,15,0,0
+TARGET-10-PAPECK,DISCOVERY,0,Living,3478,3478,2,Female,Unknown,Unknown,54.8,B,CNS 1,Negative,10,1,0.00699999999999999
+TARGET-10-PAPECV,DISCOVERY,0,Living,28,28,5,Male,White,Hispanic or Latino,190.9,B,CNS 1,Negative,12,2,0.001
+TARGET-10-PAPEET,DISCOVERY,0,Living,82,82,18,Male,White,Hispanic or Latino,1.1,B,CNS 1,Negative,4,0,0
+TARGET-10-PAPEFH,DISCOVERY,1,Deceased,852,816,7,Female,White,Unknown,18,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPEGV,DISCOVERY,1,Deceased,923,787,11,Female,White,Not Hispanic or Latino,51.5,B,CNS 1,Negative,49,0,0
+TARGET-10-PAPEHX,DISCOVERY,0,Living,3723,3723,2,Female,Unknown,Hispanic or Latino,85.1,B,CNS 1,Negative,8,0,0
+TARGET-10-PAPEHY,DISCOVERY,0,Living,3569,3569,7,Male,White,Not Hispanic or Latino,90.8,B,CNS 2,Negative,0,1,0
+TARGET-10-PAPEIC,DISCOVERY,0,Living,1401,1401,12,Female,Asian,Not Hispanic or Latino,40.4,B,CNS 2,Negative,5,1,0.045
+TARGET-10-PAPEJA,VALIDATION,0,Living,3582,3582,4,Male,White,Not Hispanic or Latino,5.7,B,CNS 1,Negative,77,1,0
+TARGET-10-PAPEJL,VALIDATION,0,Living,3173,3173,10,Female,White,Not Hispanic or Latino,3.3,B,CNS 1,Negative,52,1,0
+TARGET-10-PAPEJM,VALIDATION,0,Living,3472,3472,4,Female,Unknown,Not Hispanic or Latino,5.4,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPEJN,VALIDATION;DISCOVERY,1,Deceased,934,342,4,Male,Unknown,Unknown,12.5,B,CNS 1,Negative,38,1,0.017
+TARGET-10-PAPELE,DISCOVERY,1,Deceased,1550,1244,11,Male,White,Unknown,78.9,B,CNS 1,Negative,40,1,0.29
+TARGET-10-PAPELV,DISCOVERY,0,Living,3027,3027,14,Female,White,Hispanic or Latino,0.5,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPELY,DISCOVERY,0,Living,3109,3109,15,Male,White,Not Hispanic or Latino,1.7,B,CNS 1,Negative,41,1,0.0035
+TARGET-10-PAPEMC,VALIDATION,0,Living,3689,2192,3,Male,White,Not Hispanic or Latino,4.5,B,CNS 1,Negative,28,0,0
+TARGET-10-PAPEMZ,VALIDATION,0,Living,3745,3745,5,Male,White,Not Hispanic or Latino,7,B,CNS 1,Negative,6,1,0
+TARGET-10-PAPENI,DISCOVERY,0,Living,3769,3769,2,Female,Asian,Not Hispanic or Latino,472,B,CNS 1,Negative,4,0,0
+TARGET-10-PAPEPP,DISCOVERY,0,Living,1823,1823,18,Female,White,Not Hispanic or Latino,1.5,B,CNS 1,Negative,30,0,0
+TARGET-10-PAPEPR,DISCOVERY,0,Living,3591,3591,12,Female,White,Not Hispanic or Latino,30.29,B,CNS 1,Negative,7,0,0.0019
+TARGET-10-PAPERG,DISCOVERY,0,Living,2906,763,19,Male,Unknown,Hispanic or Latino,31.3,B,CNS 1,Negative,53,1,0.077
+TARGET-10-PAPERK,DISCOVERY,0,Living,3567,3567,3,Male,Asian,Not Hispanic or Latino,77,B,CNS 2,Negative,2,1,0
+TARGET-10-PAPERM,VALIDATION,0,Living,3307,3307,3,Female,Black or African American,Unknown,13.07,B,CNS 1,Negative,NA,2,0
+TARGET-10-PAPERN,VALIDATION,1,Deceased,1133,1133,4,Male,White,Not Hispanic or Latino,14.8,B,CNS 1,Negative,50,0,0.001
+TARGET-10-PAPERU,VALIDATION,0,Living,3688,1637,6,Female,White,Not Hispanic or Latino,12.9,B,CNS 1,Negative,2,2,0.001
+TARGET-10-PAPERV,DISCOVERY,1,Deceased,470,470,16,Female,White,Not Hispanic or Latino,205,B,CNS 2,Positive,92,1,1.6
+TARGET-10-PAPERW,VALIDATION,0,Living,3813,3813,6,Female,White,Not Hispanic or Latino,6.4,B,CNS 2a,Negative,8,0,0.031
+TARGET-10-PAPESB,VALIDATION,0,Living,3480,3480,5,Male,White,Not Hispanic or Latino,7.3,B,CNS 1,Negative,58,1,0.02899999999999999
+TARGET-10-PAPESW,DISCOVERY,0,Living,3542,1120,3,Female,White,Not Hispanic or Latino,7.1,B,CNS 1,Negative,86,2,0.01399999999999999
+TARGET-10-PAPESY,VALIDATION,0,Living,3614,3614,3,Female,White,Hispanic or Latino,15,B,CNS 1,Negative,8,0,0
+TARGET-10-PAPESZ,VALIDATION,0,Living,3443,3443,4,Male,White,Not Hispanic or Latino,4.8,B,CNS 1,Negative,8,0,0.015
+TARGET-10-PAPETC,VALIDATION,0,Living,3733,3733,5,Male,Black or African American,Not Hispanic or Latino,13.55,B,CNS 1,Negative,16,2,0
+TARGET-10-PAPETT,DISCOVERY,0,Living,3751,3751,12,Female,White,Not Hispanic or Latino,6.9,B,CNS 2,Negative,0,0,0.0021
+TARGET-10-PAPEUN,DISCOVERY,0,Living,3577,3577,12,Male,Black or African American,Not Hispanic or Latino,16.5,B,CNS 1,Negative,4,2,0
+TARGET-10-PAPEUY,DISCOVERY,0,Living,3390,3390,11,Male,White,Hispanic or Latino,60.24,B,CNS 1,Negative,7,0,0
+TARGET-10-PAPEVU,DISCOVERY,0,Living,3647,3647,4,Female,White,Not Hispanic or Latino,56.5,B,CNS 1,Negative,3,4,0
+TARGET-10-PAPEWA,DISCOVERY,0,Living,3493,3493,10,Male,White,Not Hispanic or Latino,90.1,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPEWB,DISCOVERY,0,Living,3430,3430,8,Female,White,Hispanic or Latino,88.3,B,CNS 2,Negative,2,NA,0
+TARGET-10-PAPEWV,DISCOVERY,0,Living,3485,3485,5,Male,White,Not Hispanic or Latino,85,B,CNS 1,Negative,2,0,0
+TARGET-10-PAPEXA,DISCOVERY,0,Living,1258,1258,3,Male,White,Not Hispanic or Latino,54.5,B,CNS 1,Negative,15,0,1.2
+TARGET-10-PAPEXI,DISCOVERY,0,Living,3576,3576,5,Female,White,Not Hispanic or Latino,86.7,B,CNS 1,Negative,12,0,0
+TARGET-10-PAPEYA,DISCOVERY,0,Living,3687,3687,3,Male,White,Not Hispanic or Latino,79.3,B,CNS 1,Negative,36,0,0
+TARGET-10-PAPEYT,DISCOVERY,0,Living,2294,2294,14,Male,White,Hispanic or Latino,101.1,B,CNS 2,Negative,83,1,10.9
+TARGET-10-PAPEZL,VALIDATION,0,Living,3719,3719,6,Female,White,Not Hispanic or Latino,18.3,B,CNS 1,Negative,35,0,0.0058
+TARGET-10-PAPEZR,VALIDATION,0,Living,3732,3732,2,Male,Black or African American,Not Hispanic or Latino,5.8,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPEZS,DISCOVERY,0,Living,3259,3259,13,Male,White,Not Hispanic or Latino,14.4,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPEZX,DISCOVERY,0,Living,3587,3587,13,Female,White,Not Hispanic or Latino,2.5,B,CNS 1,Negative,27,1,0
+TARGET-10-PAPFAT,VALIDATION,0,Living,858,858,7,Female,White,Hispanic or Latino,12.7,B,CNS 1,Negative,15,0,0
+TARGET-10-PAPFBR,VALIDATION,0,Living,3532,3532,3,Male,Unknown,Hispanic or Latino,4.4,B,CNS 1,Negative,NA,1,0.001
+TARGET-10-PAPFBX,VALIDATION,0,Living,2884,2884,5,Female,White,Not Hispanic or Latino,46.5,B,CNS 1,Negative,58,0,0
+TARGET-10-PAPFCM,DISCOVERY,0,Living,3617,3617,3,Male,White,Not Hispanic or Latino,57,B,CNS 1,Negative,10,3,0
+TARGET-10-PAPFCS,DISCOVERY,0,Living,2624,2624,5,Female,Asian,Not Hispanic or Latino,106.1,B,CNS 2,Negative,0,0,0
+TARGET-10-PAPFDT,DISCOVERY,0,Living,2834,873,3,Female,White,Unknown,4.1,B,CNS 1,Negative,0,0,0.096
+TARGET-10-PAPFEG,DISCOVERY,0,Living,856,856,5,Female,White,Not Hispanic or Latino,63.8,B,CNS 1,Negative,38,0,0
+TARGET-10-PAPFEK,DISCOVERY,0,Living,3434,3434,12,Male,White,Not Hispanic or Latino,19.5,B,CNS 3,Positive,3,1,0
+TARGET-10-PAPFEL,DISCOVERY,0,Living,2808,2808,11,Female,Unknown,Hispanic or Latino,1.6,B,CNS 1,Negative,1,1,0
+TARGET-10-PAPFFK,DISCOVERY,0,Living,3534,3534,2,Female,White,Hispanic or Latino,90.1,B,CNS 1,Negative,2,0,0
+TARGET-10-PAPFFW,VALIDATION,0,Living,3085,3085,4,Male,Black or African American,Not Hispanic or Latino,5.1,B,CNS 1,Negative,9,0,0
+TARGET-10-PAPFGA,DISCOVERY,0,Living,286,286,18,Female,White,Not Hispanic or Latino,19.98,B,CNS 1,Negative,82,1,0.045
+TARGET-10-PAPFGV,DISCOVERY,1,Deceased,411,411,15,Female,White,Not Hispanic or Latino,5,B,CNS 1,Positive,16,2,0
+TARGET-10-PAPFGW,DISCOVERY,0,Living,3689,3689,13,Male,Asian,Not Hispanic or Latino,92,B,CNS 1,Negative,1,1,0
+TARGET-10-PAPFHD,DISCOVERY,0,Living,3535,3535,18,Male,White,Hispanic or Latino,102.2,B,CNS 1,Negative,3,2,0.04099999999999999
+TARGET-10-PAPFHH,VALIDATION,0,Living,3336,3336,5,Female,Black or African American,Unknown,2.9,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPFHJ,DISCOVERY,0,Living,3786,3786,16,Male,White,Not Hispanic or Latino,32.5,B,CNS 1,Negative,80,0,0.25
+TARGET-10-PAPFHP,DISCOVERY,0,Living,3791,3791,2,Male,White,Not Hispanic or Latino,50.8,B,CNS 1,Negative,0,1,0
+TARGET-10-PAPFHR,VALIDATION,0,Living,3465,3465,3,Male,White,Not Hispanic or Latino,20.4,B,CNS 1,Negative,4,0,0
+TARGET-10-PAPFHT,DISCOVERY,0,Living,1869,1869,13,Female,White,Not Hispanic or Latino,2.1,B,CNS 1,Negative,28,0,0
+TARGET-10-PAPFHX,VALIDATION,0,Living,2409,2409,10,Female,White,Not Hispanic or Latino,24.5,B,CNS 2a,Negative,60,1,0.1
+TARGET-10-PAPFIB,DISCOVERY,0,Living,3391,3391,6,Male,White,Not Hispanic or Latino,76.3,B,CNS 1,Negative,10,0,0
+TARGET-10-PAPFIW,DISCOVERY,1,Deceased,322,178,16,Male,Unknown,Hispanic or Latino,34.2,B,CNS 1,Negative,4,1,0.58
+TARGET-10-PAPFIX,VALIDATION,0,Living,35,35,3,Female,White,Hispanic or Latino,15.8,B,CNS 1,Negative,2,0,0
+TARGET-10-PAPFJA,DISCOVERY,0,Living,1940,1940,14,Male,White,Not Hispanic or Latino,1.5,B,CNS 1,Negative,12,0,0
+TARGET-10-PAPFJB,DISCOVERY,0,Living,3438,3438,12,Male,White,Not Hispanic or Latino,1.18,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPFKA,VALIDATION,0,Living,2605,2605,4,Female,White,Not Hispanic or Latino,4.4,B,CNS 1,Negative,68,1,1.05
+TARGET-10-PAPFKS,DISCOVERY,0,Living,2055,2055,12,Male,White,Not Hispanic or Latino,4.7,B,CNS 2,Negative,74,2,0
+TARGET-10-PAPFLI,DISCOVERY,0,Living,3598,3598,3,Female,White,Hispanic or Latino,319,B,CNS 1,Negative,12,3,0
+TARGET-10-PAPFMB,DISCOVERY,0,Living,3436,3436,13,Male,White,Hispanic or Latino,0.7,B,CNS 1,Negative,0,3,0
+TARGET-10-PAPFNA,DISCOVERY,0,Living,2184,2184,18,Male,White,Not Hispanic or Latino,22.25,B,CNS 1,Negative,15,4,0.69
+TARGET-10-PAPFNN,DISCOVERY,0,Living,3729,3729,3,Male,White,Unknown,20.72,B,CNS 2,Negative,10,1,0
+TARGET-10-PAPFNV,VALIDATION,0,Living,3467,3467,5,Female,White,Not Hispanic or Latino,21.74,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPFPR,DISCOVERY,0,Living,3477,3477,11,Male,White,Not Hispanic or Latino,10.7,B,CNS 1,Negative,7,4,0
+TARGET-10-PAPFPU,DISCOVERY,0,Living,3709,1020,9,Male,White,Hispanic or Latino,56.1,B,CNS 1,Negative,2,0,0.004
+TARGET-10-PAPFPZ,VALIDATION,0,Living,3608,3608,7,Female,White,Not Hispanic or Latino,29.6,B,CNS 2a,Negative,20,2,0
+TARGET-10-PAPFTJ,VALIDATION,0,Living,3475,3475,6,Female,White,Hispanic or Latino,5.3,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPFUF,VALIDATION,0,Living,2212,2212,8,Female,White,Not Hispanic or Latino,23.36,B,CNS 1,Negative,4,0,0
+TARGET-10-PAPFWE,DISCOVERY,0,Living,2304,2304,9,Female,White,Hispanic or Latino,50.7,B,CNS 1,Negative,NA,1,0
+TARGET-10-PAPFWH,DISCOVERY,1,Deceased,819,711,17,Female,Unknown,Hispanic or Latino,15.9,B,CNS 1,Negative,10,0,3
+TARGET-10-PAPFWZ,DISCOVERY,0,Living,1133,1133,4,Female,White,Not Hispanic or Latino,268,B,CNS 1,Positive,60,0,0
+TARGET-10-PAPFXN,DISCOVERY,0,Living,1160,1160,2,Female,Asian,Hispanic or Latino,50.9,B,CNS 3,Negative,56,6,0.001
+TARGET-10-PAPFYW,DISCOVERY,0,Living,3455,3455,11,Female,White,Not Hispanic or Latino,33.2,B,CNS 1,Negative,6,2,0
+TARGET-10-PAPFYX,DISCOVERY,0,Living,3473,3473,15,Female,Unknown,Hispanic or Latino,2.2,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPFZD,DISCOVERY,0,Living,2152,2152,14,Male,Black or African American,Not Hispanic or Latino,72.8,B,CNS 1,Negative,5,0,0
+TARGET-10-PAPFZF,VALIDATION,0,Living,3505,3505,4,Female,White,Not Hispanic or Latino,9,B,CNS 1,Negative,NA,0,0.003
+TARGET-10-PAPFZJ,DISCOVERY,0,Living,3467,3467,11,Female,White,Not Hispanic or Latino,23.3,B,CNS 1,Negative,85,1,0.067
+TARGET-10-PAPFZL,VALIDATION,0,Living,3437,3437,3,Female,White,Hispanic or Latino,6.7,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPFZX,VALIDATION,0,Living,3745,3745,4,Female,White,Hispanic or Latino,10.7,B,CNS 1,Negative,2,0,0
+TARGET-10-PAPGAA,DISCOVERY,0,Living,3542,3542,4,Male,White,Not Hispanic or Latino,14.9,B,CNS 1,Negative,13,1,0
+TARGET-10-PAPGBY,DISCOVERY,1,Deceased,1347,1347,20,Male,White,Not Hispanic or Latino,66.79,B,CNS 1,Positive,NA,NA,NA
+TARGET-10-PAPGDR,DISCOVERY,0,Living,3262,3262,16,Female,White,Not Hispanic or Latino,3.43,B,CNS 1,Negative,60,0,0.22
+TARGET-10-PAPGEE,VALIDATION,0,Living,3024,3024,10,Female,White,Not Hispanic or Latino,39.7,B,CNS 1,Negative,75,4,0
+TARGET-10-PAPGEJ,DISCOVERY,0,Living,3292,3292,5,Female,White,Hispanic or Latino,64.1,B,CNS 1,Negative,9,0,0
+TARGET-10-PAPGFD,VALIDATION,0,Living,3688,3688,4,Male,Unknown,Not Hispanic or Latino,9.2,B,CNS 1,Negative,4,0,0.1
+TARGET-10-PAPGFP,DISCOVERY,1,Deceased,945,859,10,Female,White,Not Hispanic or Latino,5,B,CNS 1,Negative,35,1,0
+TARGET-10-PAPGGT,DISCOVERY,0,Living,2507,2507,15,Male,Unknown,Unknown,369.4,B,CNS 1,Negative,4,1,0
+TARGET-10-PAPGHE,DISCOVERY,1,Deceased,1550,1372,17,Male,Asian,Not Hispanic or Latino,7.7,B,CNS 1,Negative,5,3,0.12
+TARGET-10-PAPGIZ,DISCOVERY,0,Living,1918,1918,12,Female,White,Not Hispanic or Latino,25.1,B,CNS 1,Negative,3,2,0
+TARGET-10-PAPGKP,VALIDATION,0,Living,3424,3424,7,Female,White,Hispanic or Latino,11,B,CNS 1,Negative,87,0,0
+TARGET-10-PAPGLD,VALIDATION,0,Living,3471,3471,7,Male,White,Hispanic or Latino,17.8,B,CNS 2a,Negative,0,0,0.004
+TARGET-10-PAPGLJ,DISCOVERY,0,Living,3728,3728,10,Male,Unknown,Not Hispanic or Latino,60.7,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPGLS,VALIDATION,0,Living,2856,2856,10,Male,White,Not Hispanic or Latino,6.6,B,CNS 1,Negative,10,1,9.8e-4
+TARGET-10-PAPGMC,DISCOVERY,0,Living,3726,3726,18,Female,Asian,Not Hispanic or Latino,42.2,B,CNS 1,Negative,2,0,0.32
+TARGET-10-PAPGME,DISCOVERY,0,Living,3141,3141,14,Male,White,Not Hispanic or Latino,2.4,B,CNS 1,Negative,4,2,0
+TARGET-10-PAPGMT,VALIDATION,0,Living,3123,3123,4,Female,White,Not Hispanic or Latino,6.5,B,CNS 1,Negative,26,0,0.046
+TARGET-10-PAPGMV,DISCOVERY,1,Deceased,759,28,13,Female,White,Not Hispanic or Latino,318.4,B,CNS 1,Negative,30,64,87.8
+TARGET-10-PAPGNC,DISCOVERY,1,Deceased,1914,1889,16,Female,Unknown,Not Hispanic or Latino,274.9,B,CNS 1,Negative,80,11,26
+TARGET-10-PAPGNK,DISCOVERY,0,Living,3560,3560,2,Male,White,Hispanic or Latino,64.1,B,CNS 1,Negative,60,3,0
+TARGET-10-PAPGPJ,DISCOVERY,0,Living,3420,3420,3,Male,White,Hispanic or Latino,50.7,B,CNS 1,Negative,39,0,0.47
+TARGET-10-PAPGPW,DISCOVERY,0,Living,2660,2660,7,Male,White,Not Hispanic or Latino,222.7,B,CNS 2,Negative,22,0,0.0085
+TARGET-10-PAPGPZ,DISCOVERY,0,Living,2527,2527,12,Female,White,Not Hispanic or Latino,20.6,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPGRA,DISCOVERY,0,Living,871,871,4,Female,White,Not Hispanic or Latino,67.4,B,CNS 1,Negative,3,4,0
+TARGET-10-PAPGRM,DISCOVERY,0,Living,3578,3578,6,Female,White,Not Hispanic or Latino,117.6,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPGWN,VALIDATION,0,Living,3475,3475,8,Male,White,Not Hispanic or Latino,1.1,B,CNS 1,Negative,66,0,0
+TARGET-10-PAPGXB,DISCOVERY,0,Living,492,492,11,Female,Asian,Not Hispanic or Latino,4.3,B,CNS 1,Negative,2,0,0
+TARGET-10-PAPGYC,DISCOVERY,1,Deceased,2003,1186,4,Female,White,Not Hispanic or Latino,7.7,B,CNS 1,Negative,23,1,0.3
+TARGET-10-PAPGZL,DISCOVERY,0,Living,3527,3527,16,Male,White,Not Hispanic or Latino,2,B,CNS 1,Negative,0,0,0.023
+TARGET-10-PAPHAG,DISCOVERY,1,Deceased,1604,1142,15,Female,White,Not Hispanic or Latino,57.9,B,CNS 1,Negative,24,2,0.58
+TARGET-10-PAPHAM,VALIDATION,0,Living,3683,3683,3,Male,Unknown,Unknown,6.5,B,CNS 1,Negative,25,1,0
+TARGET-10-PAPHBN,DISCOVERY,0,Living,3763,3763,3,Female,Unknown,Hispanic or Latino,54.1,B,CNS 1,Negative,0,0,0.05
+TARGET-10-PAPHBW,VALIDATION,0,Living,3535,3535,7,Male,White,Not Hispanic or Latino,40,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPHCA,VALIDATION,0,Living,3751,3751,3,Female,White,Not Hispanic or Latino,3.4,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPHCD,DISCOVERY,0,Living,3444,3444,11,Male,Unknown,Hispanic or Latino,5,B,CNS 1,Negative,4,1,0
+TARGET-10-PAPHCJ,DISCOVERY,0,Living,256,256,18,Male,White,Not Hispanic or Latino,2.1,B,CNS 1,Negative,9,0,0.005
+TARGET-10-PAPHDH,DISCOVERY,0,Living,3643,3643,17,Female,White,Not Hispanic or Latino,48,B,CNS 1,Negative,3,1,0
+TARGET-10-PAPHDN,VALIDATION,0,Living,3770,3770,5,Female,White,Not Hispanic or Latino,6.34,B,CNS 1,Negative,27,0,0.006
+TARGET-10-PAPHDX,VALIDATION,0,Living,3762,3762,3,Female,White,Not Hispanic or Latino,42.6,B,CNS 2b,Negative,0,0,0
+TARGET-10-PAPHED,VALIDATION,0,Living,3392,3392,3,Female,White,Not Hispanic or Latino,19.2,B,CNS 1,Negative,15,0,0
+TARGET-10-PAPHEK,DISCOVERY,1,Deceased,647,647,9,Female,Unknown,Not Hispanic or Latino,465,B,CNS 3,Positive,90,4,11
+TARGET-10-PAPHEV,DISCOVERY,0,Living,3482,3482,3,Male,White,Not Hispanic or Latino,61.3,B,CNS 1,Negative,41,3,0.073
+TARGET-10-PAPHGD,DISCOVERY,0,Living,3579,926,2,Male,White,Hispanic or Latino,81.8,B,CNS 1,Negative,1,3,0
+TARGET-10-PAPHHE,DISCOVERY,0,Living,3458,3458,6,Female,White,Not Hispanic or Latino,66.76,B,CNS 1,Negative,0,0,0.024
+TARGET-10-PAPHHF,DISCOVERY,0,Living,1541,1541,15,Female,Unknown,Not Hispanic or Latino,38,B,CNS 1,Negative,0,1,0
+TARGET-10-PAPHHP,VALIDATION,0,Living,3738,3738,6,Male,White,Hispanic or Latino,5.8,B,CNS 1,Negative,18,1,0.017
+TARGET-10-PAPHIG,VALIDATION,0,Living,3339,3339,3,Male,White,Not Hispanic or Latino,28,B,CNS 1,Negative,97,1,0.15
+TARGET-10-PAPHJF,VALIDATION;DISCOVERY,1,Deceased,483,282,7,Female,White,Hispanic or Latino,30.5,B,CNS 1,Negative,4,0,0
+TARGET-10-PAPHJS,DISCOVERY,0,Living,2426,2426,15,Male,White,Not Hispanic or Latino,8.5,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPHLA,DISCOVERY,0,Living,1626,724,6,Male,Unknown,Hispanic or Latino,78.9,B,CNS 2,Negative,4,NA,0
+TARGET-10-PAPHLH,VALIDATION,0,Living,2416,2416,5,Female,White,Not Hispanic or Latino,30.5,B,CNS 1,Negative,4,2,0
+TARGET-10-PAPHLJ,DISCOVERY,0,Living,3157,3157,14,Female,Black or African American,Not Hispanic or Latino,8.5,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPHMH,DISCOVERY,1,Deceased,397,322,30,Female,White,Not Hispanic or Latino,39.7,B,CNS 2,Negative,3,1,0.019
+TARGET-10-PAPHMI,DISCOVERY,0,Living,668,668,3,Male,White,Hispanic or Latino,54.7,B,CNS 1,Negative,NA,2,0
+TARGET-10-PAPHNM,VALIDATION,0,Living,790,790,2,Female,White,Not Hispanic or Latino,43.2,B,CNS 1,Negative,2,4,0
+TARGET-10-PAPHNR,VALIDATION,0,Living,3493,3493,10,Female,Native Hawaiian or other Pacific Islander,Not Hispanic or Latino,2.9,B,CNS 1,Negative,8,1,0.15
+TARGET-10-PAPHNS,DISCOVERY,1,Deceased,390,390,12,Male,White,Not Hispanic or Latino,5.83,B,CNS 1,Negative,1,1,0
+TARGET-10-PAPHPX,DISCOVERY,0,Living,3632,3632,6,Female,White,Unknown,82.51,B,CNS 1,Negative,33,2,1.6
+TARGET-10-PAPHRT,DISCOVERY,0,Living,2150,28,19,Male,White,Not Hispanic or Latino,45.58,B,CNS 1,Negative,88,72,32.8
+TARGET-10-PAPHRV,VALIDATION,0,Living,1873,1873,4,Female,White,Not Hispanic or Latino,16.79,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPHSV,DISCOVERY,0,Living,3652,3652,4,Female,White,Not Hispanic or Latino,3.4,B,CNS 1,Negative,1,4,0.0032
+TARGET-10-PAPHTZ,DISCOVERY,0,Living,3653,839,2,Male,Black or African American,Not Hispanic or Latino,102,B,CNS 2,Negative,4,0,0
+TARGET-10-PAPHVX,DISCOVERY,0,Living,3644,1264,20,Female,White,Not Hispanic or Latino,13.2,B,CNS 1,Negative,2,1,0.017
+TARGET-10-PAPHWE,VALIDATION,0,Living,3445,3445,5,Female,White,Not Hispanic or Latino,4.2,B,CNS 1,Negative,20,0,0
+TARGET-10-PAPHWH,DISCOVERY,0,Living,1634,32,15,Male,White,Not Hispanic or Latino,183,B,CNS 1,Positive,69,26,59.5
+TARGET-10-PAPHWJ,DISCOVERY,0,Living,3374,3374,12,Male,White,Not Hispanic or Latino,6.14,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPHXH,DISCOVERY,1,Deceased,613,329,13,Female,White,Not Hispanic or Latino,15.6,B,CNS 1,Negative,3,0,0
+TARGET-10-PAPHXJ,VALIDATION,0,Living,1555,1555,8,Female,White,Not Hispanic or Latino,4.2,B,CNS 1,Negative,62,4,0
+TARGET-10-PAPHXN,DISCOVERY,1,Deceased,724,499,17,Female,White,Not Hispanic or Latino,8.7,B,CNS 1,Negative,1,1,0.011
+TARGET-10-PAPHYH,DISCOVERY,0,Living,1478,1478,19,Male,White,Not Hispanic or Latino,102.6,B,CNS 1,Negative,4,0,0.08
+TARGET-10-PAPHYM,VALIDATION,0,Living,2739,2739,10,Female,White,Not Hispanic or Latino,4.4,B,CNS 2c,Negative,52,0,0
+TARGET-10-PAPHYN,DISCOVERY,0,Living,3012,3012,6,Male,White,Not Hispanic or Latino,198.2,B,CNS 2,Negative,78,0,0
+TARGET-10-PAPHYV,VALIDATION,0,Living,3438,3438,3,Male,Unknown,Unknown,16.4,B,CNS 1,Negative,4,0,0.004
+TARGET-10-PAPHYY,DISCOVERY,0,Living,2721,2721,3,Female,White,Not Hispanic or Latino,192,B,CNS 1,Negative,12,0,0
+TARGET-10-PAPHZT,DISCOVERY,0,Living,3393,3393,2,Female,White,Not Hispanic or Latino,123.1,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPIAH,DISCOVERY,0,Living,3533,3533,4,Male,White,Not Hispanic or Latino,132.4,B,CNS 1,Positive,36,0,0.2
+TARGET-10-PAPIBW,DISCOVERY,0,Living,2715,2715,18,Male,White,Not Hispanic or Latino,52.9,B,CNS 1,Negative,32,4,0
+TARGET-10-PAPICC,VALIDATION,0,Living,3440,3440,5,Male,Unknown,Not Hispanic or Latino,4,B,CNS 1,Negative,9,1,0
+TARGET-10-PAPIDE,DISCOVERY,1,Deceased,350,263,18,Male,White,Not Hispanic or Latino,463,B,CNS 3,Positive,NA,NA,NA
+TARGET-10-PAPIDR,DISCOVERY,0,Living,2534,2534,14,Male,White,Not Hispanic or Latino,3.4,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPIDV,DISCOVERY,1,Deceased,42,42,14,Male,White,Not Hispanic or Latino,630,B,CNS 2,Negative,63,0,0
+TARGET-10-PAPIDY,DISCOVERY,0,Living,3505,986,3,Female,White,Not Hispanic or Latino,1.6,B,CNS 1,Negative,27,0,0.0066
+TARGET-10-PAPIEW,VALIDATION,0,Living,3692,3692,6,Male,Unknown,Hispanic or Latino,17.6,B,CNS 1,Negative,33,0,0.095
+TARGET-10-PAPIGD,VALIDATION,0,Living,3683,3683,6,Female,White,Hispanic or Latino,20.9,B,CNS 1,Negative,50,0,0.0081
+TARGET-10-PAPIGH,DISCOVERY,0,Living,3662,3662,14,Male,White,Not Hispanic or Latino,14.3,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPIGJ,DISCOVERY,0,Living,3376,3376,13,Female,Unknown,Hispanic or Latino,58.7,B,CNS 1,Negative,12,0,0
+TARGET-10-PAPIGV,VALIDATION,0,Living,1959,1959,4,Male,Unknown,Hispanic or Latino,19.7,B,CNS 1,Negative,60,0,0.23
+TARGET-10-PAPIGX,DISCOVERY,0,Living,644,644,15,Female,Black or African American,Not Hispanic or Latino,51.6,B,CNS 1,Negative,1,2,NA
+TARGET-10-PAPIHH,VALIDATION,0,Living,1449,1449,5,Male,Asian,Not Hispanic or Latino,9.4,B,CNS 1,Negative,0,1,0
+TARGET-10-PAPIHT,VALIDATION,0,Living,3359,3359,3,Female,Unknown,Not Hispanic or Latino,19.8,B,CNS 1,Negative,0,1,0.002
+TARGET-10-PAPIHU,VALIDATION,0,Living,3395,3395,4,Male,White,Not Hispanic or Latino,10.4,B,CNS 1,Negative,30,3,0
+TARGET-10-PAPIHV,DISCOVERY,0,Living,3559,3559,15,Male,Asian,Not Hispanic or Latino,2.1,B,CNS 1,Negative,2,0,0
+TARGET-10-PAPIHY,DISCOVERY,1,Deceased,1677,914,14,Male,White,Not Hispanic or Latino,96.4,B,CNS 2,Negative,3,0,0.59
+TARGET-10-PAPIIB,VALIDATION,0,Living,3593,3593,5,Male,White,Not Hispanic or Latino,43.6,B,CNS 1,Negative,43,0,0
+TARGET-10-PAPIII,DISCOVERY,0,Living,1679,1244,4,Female,White,Hispanic or Latino,52.3,B,CNS 1,Negative,2,0,0.021
+TARGET-10-PAPIIX,VALIDATION,0,Living,2962,2962,7,Male,White,Not Hispanic or Latino,10.8,B,CNS 1,Negative,2,0,0
+TARGET-10-PAPIJB,DISCOVERY,0,Living,3715,588,6,Female,White,Not Hispanic or Latino,1.05,B,CNS 1,Negative,5,0,0.02
+TARGET-10-PAPIJD,VALIDATION,0,Living,3469,3469,4,Male,White,Hispanic or Latino,12.5,B,CNS 2c,Negative,6,0,0
+TARGET-10-PAPIJF,DISCOVERY,1,Deceased,2100,349,14,Male,White,Not Hispanic or Latino,31.1,B,CNS 1,Negative,25,0,0.05599999999999999
+TARGET-10-PAPIJM,DISCOVERY,0,Living,1203,1203,11,Male,White,Not Hispanic or Latino,19.8,B,CNS 1,Negative,2,0,0
+TARGET-10-PAPIKG,DISCOVERY,0,Living,2051,31,17,Male,Asian,Not Hispanic or Latino,190.7,B,CNS 1,Positive,88,38,66.2
+TARGET-10-PAPIKR,DISCOVERY,0,Living,3285,3285,11,Female,Asian,Not Hispanic or Latino,1.6,B,CNS 1,Negative,45,0,0
+TARGET-10-PAPIKU,DISCOVERY,0,Living,3488,3488,13,Male,White,Not Hispanic or Latino,53.3,B,CNS 1,Negative,NA,4,0.34
+TARGET-10-PAPIKY,DISCOVERY,0,Living,3087,3087,7,Male,White,Hispanic or Latino,145,B,CNS 1,Negative,1,1,0
+TARGET-10-PAPILB,DISCOVERY,0,Living,3621,3621,5,Female,White,Not Hispanic or Latino,133.6,B,CNS 1,Negative,4,0,0
+TARGET-10-PAPILF,VALIDATION,0,Living,3413,3413,5,Male,White,Hispanic or Latino,4.3,B,CNS 1,Negative,95,0,0.1
+TARGET-10-PAPILG,VALIDATION,0,Living,3657,3657,3,Male,White,Hispanic or Latino,3.9,B,CNS 1,Negative,50,0,0
+TARGET-10-PAPIMH,DISCOVERY,0,Living,3643,3643,15,Female,White,Not Hispanic or Latino,6.5,B,CNS 1,Positive,4,1,0.76
+TARGET-10-PAPIML,DISCOVERY,0,Living,3184,1007,2,Female,White,Not Hispanic or Latino,172.1,B,CNS 1,Negative,NA,1,0.021
+TARGET-10-PAPIPG,VALIDATION,0,Living,3372,3372,5,Male,White,Not Hispanic or Latino,17.91,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPIPW,DISCOVERY,1,Deceased,1459,1438,10,Female,White,Hispanic or Latino,9,B,CNS 1,Negative,3,0,0.15
+TARGET-10-PAPIRD,DISCOVERY,0,Living,3106,3106,13,Female,White,Not Hispanic or Latino,61.4,B,CNS 1,Negative,52,3,0
+TARGET-10-PAPIRZ,DISCOVERY,1,Deceased,1008,685,14,Female,White,Not Hispanic or Latino,70,B,CNS 1,Negative,80,0,0
+TARGET-10-PAPISG,DISCOVERY,0,Living,3491,1013,15,Female,White,Hispanic or Latino,71,B,CNS 1,Negative,0,0,0.42
+TARGET-10-PAPJHB,DISCOVERY,0,Living,1870,1260,6,Female,White,Not Hispanic or Latino,13.7,B,CNS 1,Negative,26,0,0.1
+TARGET-10-PAPJHR,DISCOVERY,1,Deceased,1186,1129,11,Male,White,Not Hispanic or Latino,9.73,B,CNS 1,Negative,21,0,0
+TARGET-10-PAPJIB,DISCOVERY,1,Deceased,1344,851,3,Female,White,Not Hispanic or Latino,1.3,B,CNS 2,Negative,NA,0,0
+TARGET-10-PAPJPH,DISCOVERY,1,Deceased,378,331,16,Male,White,Hispanic or Latino,115.6,B,CNS 2,Negative,20,2,0.004
+TARGET-10-PAPJRR,XENOGRAFT,0,Living,1843,1843,8,Male,White,Not Hispanic or Latino,1,B,CNS 1,Negative,4,0,0
+TARGET-10-PAPJXI,DISCOVERY,0,Living,3229,1409,9,Female,White,Not Hispanic or Latino,2.3,B,CNS 1,Negative,2,4,0.02899999999999999
+TARGET-10-PAPKGY,DISCOVERY,1,Deceased,1500,1222,17,Male,White,Not Hispanic or Latino,107.6,B,CNS 2,Negative,100,2,0.78
+TARGET-10-PAPKNC,DISCOVERY,1,Deceased,1413,980,19,Male,Black or African American,Not Hispanic or Latino,2.8,B,CNS 1,Negative,4,0,0
+TARGET-10-PAPLDL,DISCOVERY,1,Deceased,1187,544,8,Female,Unknown,Hispanic or Latino,16.2,B,CNS 1,Negative,7,1,0.01
+TARGET-10-PAPLDM,DISCOVERY,0,Living,3280,1212,4,Female,White,Not Hispanic or Latino,7.8,B,CNS 1,Negative,12,0,0
+TARGET-10-PAPLTZ,DISCOVERY,1,Deceased,2585,1321,6,Male,White,Not Hispanic or Latino,20.3,B,CNS 1,Negative,5,3,0.0013
+TARGET-10-PAPLUG,DISCOVERY,1,Deceased,1155,784,2,Male,Unknown,Hispanic or Latino,44,B,CNS 2,Negative,9,0,0
+TARGET-10-PAPMFI,DISCOVERY,1,Deceased,2585,1343,5,Male,Native Hawaiian or other Pacific Islander,Not Hispanic or Latino,9.5,B,CNS 1,Negative,97,0,0.36
+TARGET-10-PAPMVB,DISCOVERY,1,Deceased,1413,776,2,Male,White,Not Hispanic or Latino,77.9,B,CNS 1,Negative,78,3,1.8
+TARGET-10-PAPMYD,DISCOVERY,1,Deceased,692,496,14,Male,White,Not Hispanic or Latino,143.5,B,CNS 1,Negative,0,0,0.004
+TARGET-10-PAPNFY,DISCOVERY,1,Deceased,1217,1083,12,Male,White,Not Hispanic or Latino,28.8,B,CNS 1,Negative,25,2,0.49
+TARGET-10-PAPNMY,DISCOVERY,1,Deceased,1967,881,14,Male,White,Hispanic or Latino,11.9,B,CNS 1,Negative,5,0,0.05
+TARGET-10-PAPNNX,DISCOVERY,1,Deceased,846,686,16,Male,Black or African American,Not Hispanic or Latino,8,B,CNS 1,Negative,50,0,0.002
+TARGET-10-PAPNTA,DISCOVERY,1,Deceased,1405,583,5,Male,White,Not Hispanic or Latino,5.4,B,CNS 1,Negative,64,0,0.03
+TARGET-10-PAPNZE,DISCOVERY,0,Living,3507,1044,15,Male,Unknown,Hispanic or Latino,3.57,B,CNS 1,Negative,2,1,0
+TARGET-10-PAPPGN,DISCOVERY,0,Living,2256,387,2,Male,White,Not Hispanic or Latino,53.8,B,CNS 1,Negative,5,1,0
+TARGET-10-PAPPHL,DISCOVERY,0,Living,3153,1332,8,Male,White,Not Hispanic or Latino,2.59,B,CNS 1,Negative,2,0,0.0047
+TARGET-10-PAPRCS,DISCOVERY,1,Deceased,460,353,15,Male,White,Not Hispanic or Latino,71.9,B,CNS 2,Negative,3,0,0.019
+TARGET-10-PAPRFE,DISCOVERY,1,Deceased,391,391,3,Female,White,Hispanic or Latino,7.6,B,CNS 1,Negative,0,0,0
+TARGET-10-PAPRYB,DISCOVERY,1,Deceased,647,475,7,Male,White,Not Hispanic or Latino,63.1,B,CNS 2,Negative,54,5,9.5
+TARGET-10-PAPSPG,DISCOVERY,1,Deceased,1533,965,14,Male,Unknown,Hispanic or Latino,326,B,CNS 2,Negative,4,0,0.013
+TARGET-10-PAPSPN,DISCOVERY,1,Deceased,733,528,12,Male,White,Not Hispanic or Latino,205,B,CNS 1,Negative,22,0,0.0048
+TARGET-10-PAPTGG,DISCOVERY,0,Living,3455,664,5,Male,White,Not Hispanic or Latino,1.6,B,CNS 1,Negative,44,2,0.04
+TARGET-10-PAPTHJ,DISCOVERY,0,Living,2911,1012,4,Female,White,Not Hispanic or Latino,41.8,B,CNS 1,Negative,4,0,0
+TARGET-10-PAPTLM,DISCOVERY,1,Deceased,919,531,2,Female,White,Hispanic or Latino,46.49,B,CNS 2,Negative,1,0,0.009
+TARGET-10-PAPUDR,DISCOVERY,0,Living,1257,889,4,Male,White,Not Hispanic or Latino,7.3,B,CNS 1,Negative,84,7,44.5
+TARGET-10-PAPVNW,DISCOVERY,0,Living,1952,456,2,Female,Unknown,Not Hispanic or Latino,13.99,B,CNS 1,Negative,23,2,0
+TARGET-10-PAPVTA,DISCOVERY,0,Living,3217,1012,3,Male,White,Not Hispanic or Latino,6.4,B,CNS 1,Negative,46,1,0.16
+TARGET-10-PAPXED,DISCOVERY,1,Deceased,1185,1088,17,Female,White,Not Hispanic or Latino,1.1,B,CNS 1,Negative,34,1,0.14
+TARGET-10-PAPYEX,DISCOVERY,1,Deceased,1146,888,14,Male,White,Hispanic or Latino,5.3,B,CNS 1,Negative,70,0,10.4
+TARGET-10-PAPZGR,DISCOVERY,1,Deceased,859,404,14,Male,White,Not Hispanic or Latino,841,B,CNS 2,Negative,3,1,0.16
+TARGET-10-PAPZNK,DISCOVERY,1,Deceased,883,625,11,Female,Black or African American,Hispanic or Latino,84.7,B,CNS 1,Negative,1,1,0
+TARGET-10-PAPZPJ,VALIDATION,0,Living,3344,3344,5,Male,Asian,Not Hispanic or Latino,2.2,B,CNS 1,Negative,1,1,0
+TARGET-10-PAPZPZ,VALIDATION,0,Living,3400,3400,4,Female,White,Not Hispanic or Latino,6,B,CNS 1,Negative,12,0,0.07
+TARGET-10-PAPZRA,VALIDATION,1,Deceased,1594,1358,4,Male,White,Hispanic or Latino,9.2,B,CNS 1,Negative,58,0,0.07
+TARGET-10-PAPZRB,VALIDATION,0,Living,3045,3045,3,Male,White,Not Hispanic or Latino,40.2,B,CNS 1,Negative,0,1,0
+TARGET-10-PAPZST,DISCOVERY,0,Living,859,171,16,Female,White,Not Hispanic or Latino,65,B,CNS 2,Negative,32,2,1.8
+TARGET-10-PAPZTD,VALIDATION,0,Living,2999,2999,9,Male,White,Not Hispanic or Latino,8.2,B,CNS 1,Negative,3,0,0.0062
+TARGET-10-PAPZTL,VALIDATION,0,Living,3406,3406,8,Male,White,Not Hispanic or Latino,9.92,B,CNS 1,Negative,94,0,0.23
+TARGET-10-PAPZTS,VALIDATION,0,Living,1286,1286,6,Male,White,Not Hispanic or Latino,1.2,B,CNS 1,Negative,0,0,0.2
+TARGET-10-PAPZUE,VALIDATION,0,Living,3220,3220,4,Male,White,Not Hispanic or Latino,18.6,B,CNS 1,Negative,20,1,0.11
+TARGET-10-PAPZUW,VALIDATION,0,Living,3066,3066,4,Male,White,Not Hispanic or Latino,2,B,CNS 1,Negative,7,1,0
+TARGET-10-PAPZVI,VALIDATION,0,Living,2976,2976,3,Male,White,Not Hispanic or Latino,23.3,B,CNS 2a,Negative,8,0,8.1e-4
+TARGET-10-PAPZWP,VALIDATION,0,Living,3163,3163,3,Female,Black or African American,Not Hispanic or Latino,35.57,B,CNS 1,Negative,1,0,0
+TARGET-10-PAPZXI,VALIDATION,0,Living,3063,3063,4,Female,White,Not Hispanic or Latino,6.3,B,CNS 1,Negative,8,0,0.009
+TARGET-10-PAPZZJ,VALIDATION,0,Living,3310,3310,2,Male,Unknown,Hispanic or Latino,2.6,B,CNS 2a,Negative,6,1,0
+TARGET-10-PARABL,VALIDATION,0,Living,3294,1466,6,Female,White,Hispanic or Latino,34.9,B,CNS 1,Negative,1,1,0
+TARGET-10-PARABU,VALIDATION,0,Living,3427,3427,10,Male,White,Not Hispanic or Latino,26.1,B,CNS 1,Negative,1,1,0
+TARGET-10-PARACA,DISCOVERY,1,Deceased,806,126,3,Male,Black or African American,Not Hispanic or Latino,41,B,CNS 2,Negative,NA,0,0
+TARGET-10-PARACE,VALIDATION,0,Living,35,35,7,Female,Asian,Not Hispanic or Latino,20.8,B,CNS 1,Negative,90,0,0
+TARGET-10-PARAFH,VALIDATION,0,Living,3225,3225,5,Male,White,Not Hispanic or Latino,7.5,B,CNS 1,Negative,0,0,0
+TARGET-10-PARAFI,VALIDATION,0,Living,3198,3198,6,Male,White,Not Hispanic or Latino,2.3,B,CNS 1,Negative,8,0,0
+TARGET-10-PARAGW,VALIDATION,0,Living,3156,3156,4,Male,White,Not Hispanic or Latino,11.5,B,CNS 1,Negative,53,0,0.0014
+TARGET-10-PARAJY,VALIDATION,0,Living,2829,2829,3,Male,White,Not Hispanic or Latino,10.6,B,CNS 1,Negative,30,1,0.016
+TARGET-10-PARAKF,DISCOVERY,0,Living,1942,1088,9,Female,White,Hispanic or Latino,28.3,B,CNS 1,Negative,3,2,0
+TARGET-10-PARANN,VALIDATION,0,Living,3138,3138,2,Female,White,Not Hispanic or Latino,11.1,B,CNS 1,Negative,43,0,0.0032
+TARGET-10-PARAPT,VALIDATION,0,Living,31,31,5,Female,White,Hispanic or Latino,1.1,B,CNS 1,Negative,20,0,0
+TARGET-10-PARARJ,DISCOVERY,1,Deceased,455,397,4,Female,White,Not Hispanic or Latino,71.8,B,CNS 1,Negative,4,2,0
+TARGET-10-PARASC,VALIDATION,0,Living,3393,3393,6,Female,White,Not Hispanic or Latino,5.6,B,CNS 1,Negative,27,2,0
+TARGET-10-PARASN,VALIDATION,0,Living,2950,2950,10,Female,Black or African American,Not Hispanic or Latino,8.9,B,CNS 1,Negative,26,0,0
+TARGET-10-PARASZ,VALIDATION,0,Living,3087,3087,5,Female,White,Not Hispanic or Latino,27,T,CNS 2a,Negative,4,0,0
+TARGET-10-PARATY,VALIDATION,0,Living,3373,3373,3,Male,White,Not Hispanic or Latino,9.3,B,CNS 1,Negative,15,0,0
+TARGET-10-PARAUE,VALIDATION,0,Living,3254,3254,4,Male,White,Not Hispanic or Latino,20.3,B,CNS 1,Negative,10,1,0.0113
+TARGET-10-PARAXH,VALIDATION,0,Living,3072,3072,4,Female,White,Not Hispanic or Latino,3,B,CNS 1,Negative,1,0,0
+TARGET-10-PARAYM,VALIDATION,0,Living,3399,3399,16,Male,White,Hispanic or Latino,400,T,CNS 2a,Negative,0,0,0
+TARGET-10-PARAZN,VALIDATION,0,Living,490,490,3,Female,White,Hispanic or Latino,6.2,B,CNS 1,Negative,19,0,0
+TARGET-10-PARBBV,VALIDATION,0,Living,3222,3222,4,Female,White,Not Hispanic or Latino,43.5,B,CNS 1,Negative,4,2,0.016
+TARGET-10-PARBCW,VALIDATION,0,Living,3046,3046,7,Female,White,Not Hispanic or Latino,26.3,B,CNS 2a,Negative,1,0,1.8
+TARGET-10-PARBDN,DISCOVERY,1,Deceased,1096,919,6,Male,White,Not Hispanic or Latino,26.5,B,CNS 1,Negative,NA,0,0.00699999999999999
+TARGET-10-PARBDP,VALIDATION,0,Living,2772,2772,4,Male,Unknown,Unknown,32.6,B,CNS 2a,Negative,70,0,0.24
+TARGET-10-PARBGG,VALIDATION,0,Living,2869,2869,2,Male,White,Not Hispanic or Latino,35.4,B,CNS 1,Negative,2,0,0
+TARGET-10-PARBHI,VALIDATION,0,Living,3093,3093,4,Male,White,Hispanic or Latino,13.7,B,CNS 3a,Negative,NA,0,0
+TARGET-10-PARBIX,VALIDATION,0,Living,2244,2244,3,Male,White,Not Hispanic or Latino,16.9,B,CNS 2a,Negative,4,0,0
+TARGET-10-PARBKG,VALIDATION,0,Living,87,87,2,Female,White,Not Hispanic or Latino,5,B,CNS 1,Negative,19,1,0.06
+TARGET-10-PARBKP,VALIDATION,0,Living,2999,2999,6,Male,White,Hispanic or Latino,4,B,CNS 1,Negative,0,0,0
+TARGET-10-PARBLL,VALIDATION,0,Living,2886,2886,6,Male,White,Hispanic or Latino,4.5,B,CNS 1,Negative,10,2,0.2
+TARGET-10-PARBLS,VALIDATION,0,Living,3066,3066,3,Female,White,Not Hispanic or Latino,5.6,B,CNS 1,Negative,0,2,0
+TARGET-10-PARBND,VALIDATION,0,Living,2303,2303,5,Male,White,Not Hispanic or Latino,6.5,B,CNS 1,Negative,72,0,0.17
+TARGET-10-PARBNY,VALIDATION,0,Living,3069,3069,3,Male,White,Hispanic or Latino,8.4,B,CNS 1,Negative,8,4,0
+TARGET-10-PARBPX,VALIDATION,0,Living,3383,3383,7,Female,White,Not Hispanic or Latino,9.54,B,CNS 1,Negative,47,1,0.04
+TARGET-10-PARBRK,DISCOVERY,1,Deceased,99,99,8,Female,Black or African American,Not Hispanic or Latino,3.6,B,CNS 1,Negative,25,1,0
+TARGET-10-PARBRM,VALIDATION,0,Living,3114,3114,18,Female,White,Not Hispanic or Latino,4.07,B,CNS 1,Negative,73,0,0
+TARGET-10-PARBRV,VALIDATION,0,Living,3123,3123,10,Female,White,Hispanic or Latino,7.5,B,CNS 2b,Negative,1,0,0
+TARGET-10-PARBRX,VALIDATION,0,Living,35,35,7,Female,White,Hispanic or Latino,48.6,B,CNS 1,Negative,12,0,0
+TARGET-10-PARBSP,VALIDATION,0,Living,3392,3392,4,Male,White,Not Hispanic or Latino,8.48,B,CNS 1,Negative,0,1,0.0014
+TARGET-10-PARBSW,VALIDATION,0,Living,3197,3197,4,Female,White,Not Hispanic or Latino,7.6,B,CNS 1,Negative,0,0,0
+TARGET-10-PARBTA,VALIDATION,0,Living,3065,3065,8,Male,White,Hispanic or Latino,4.4,B,CNS 1,Negative,10,3,0.07
+TARGET-10-PARBVI,DISCOVERY,1,Deceased,1172,958,14,Female,White,Hispanic or Latino,124.76,B,CNS 1,Negative,52,1,0.12
+TARGET-10-PARBWN,VALIDATION,0,Living,3082,3082,15,Male,White,Not Hispanic or Latino,11.9,B,CNS 1,Negative,50,0,0.13
+TARGET-10-PARBXX,VALIDATION,0,Living,849,849,6,Male,White,Not Hispanic or Latino,47,B,CNS 3c,Negative,35,0,2.4
+TARGET-10-PARBYS,VALIDATION,0,Living,208,208,3,Female,White,Not Hispanic or Latino,6.6,B,CNS 1,Negative,0,0,0
+TARGET-10-PARBYU,VALIDATION,0,Living,3352,3352,5,Female,White,Hispanic or Latino,15.3,B,CNS 1,Negative,0,0,0
+TARGET-10-PARBZT,VALIDATION,0,Living,3144,3144,11,Female,White,Hispanic or Latino,4,B,CNS 1,Negative,12,1,2
+TARGET-10-PARCAX,VALIDATION,0,Living,3392,3392,5,Male,Unknown,Not Hispanic or Latino,6.3,B,CNS 1,Negative,20,0,0
+TARGET-10-PARCBE,VALIDATION,0,Living,3022,3022,5,Female,White,Not Hispanic or Latino,9.5,B,CNS 1,Negative,0,0,0.0023
+TARGET-10-PARCBK,VALIDATION;DISCOVERY,1,Deceased,628,580,17,Male,Unknown,Hispanic or Latino,463,B,CNS 2c,Negative,37,0,0.019
+TARGET-10-PARCCM,VALIDATION,0,Living,3081,3081,8,Male,Unknown,Not Hispanic or Latino,44.7,B,CNS 1,Negative,27,2,0
+TARGET-10-PARCDS,VALIDATION,0,Living,3051,3051,14,Female,White,Not Hispanic or Latino,2,B,CNS 1,Negative,11,2,0
+TARGET-10-PARCDV,VALIDATION,1,Deceased,198,198,5,Male,White,Hispanic or Latino,171.4,B,CNS 1,Negative,7,0,0
+TARGET-10-PARCDX,VALIDATION,0,Living,3188,3188,5,Female,White,Not Hispanic or Latino,28,B,CNS 1,Negative,0,1,0
+TARGET-10-PARCDZ,VALIDATION,0,Living,3234,3234,6,Female,Asian,Not Hispanic or Latino,32.5,B,CNS 1,Negative,7,1,0.0031
+TARGET-10-PARCFM,VALIDATION,0,Living,NA,NA,15,Male,White,Hispanic or Latino,28.6,B,CNS 1,Negative,8,NA,0
+TARGET-10-PARCGU,VALIDATION,0,Living,3220,3220,3,Male,Unknown,Not Hispanic or Latino,160,B,CNS 1,Negative,8,0,0.002
+TARGET-10-PARCHB,DISCOVERY,0,Living,3047,801,3,Male,White,Not Hispanic or Latino,23.5,B,CNS 1,Negative,60,0,0
+TARGET-10-PARCHU,VALIDATION,0,Living,2569,2569,3,Male,Unknown,Unknown,34.4,B,CNS 1,Negative,90,1,0.002
+TARGET-10-PARCHY,VALIDATION,0,Living,3267,3267,3,Male,White,Not Hispanic or Latino,1.2,B,CNS 1,Negative,11,1,0
+TARGET-10-PARCKD,VALIDATION,0,Living,3041,3041,3,Male,White,Not Hispanic or Latino,45,B,CNS 1,Negative,0,0,0
+TARGET-10-PARCKJ,VALIDATION,0,Living,2941,2941,3,Female,Unknown,Not Hispanic or Latino,27,B,CNS 1,Negative,80,0,0.04
+TARGET-10-PARCKV,VALIDATION,0,Living,35,35,5,Male,White,Not Hispanic or Latino,31.7,B,CNS 1,Negative,22,0,0
+TARGET-10-PARCLU,VALIDATION,0,Living,3052,3052,17,Female,White,Not Hispanic or Latino,12.62,B,CNS 1,Negative,57,0,0.07
+TARGET-10-PARCLW,VALIDATION,0,Living,3012,3012,4,Female,White,Not Hispanic or Latino,11.2,B,CNS 1,Negative,0,0,0
+TARGET-10-PARCMD,VALIDATION,0,Living,3187,3187,2,Female,White,Not Hispanic or Latino,16.6,B,CNS 1,Negative,48,0,0
+TARGET-10-PARCMG,VALIDATION,0,Living,3381,3381,5,Male,Unknown,Not Hispanic or Latino,55.1,B,CNS 1,Negative,53,0,0
+TARGET-10-PARCSH,VALIDATION,0,Living,3184,3184,11,Female,White,Not Hispanic or Latino,10.3,B,CNS 1,Positive,76,2,0.5
+TARGET-10-PARCTN,VALIDATION,0,Living,3268,3268,11,Female,White,Not Hispanic or Latino,7.9,B,CNS 1,Negative,1,1,0.11
+TARGET-10-PARCUM,VALIDATION,1,Deceased,222,222,12,Male,White,Hispanic or Latino,8.6,B,CNS 2c,Negative,NA,3,0.003
+TARGET-10-PARCUW,VALIDATION,0,Living,3284,3284,4,Female,White,Not Hispanic or Latino,13.9,B,CNS 1,Negative,60,0,0.25
+TARGET-10-PARCVB,VALIDATION,0,Living,3189,3189,3,Female,Unknown,Unknown,45.1,B,CNS 1,Negative,53,1,0
+TARGET-10-PARCVM,VALIDATION,0,Living,2424,2424,4,Male,White,Hispanic or Latino,255,T,CNS 1,Negative,24,0,0
+TARGET-10-PARCVT,VALIDATION,1,Deceased,237,99,15,Female,White,Not Hispanic or Latino,121.1,B,CNS 1,Negative,67,1,0.8
+TARGET-10-PARCWB,VALIDATION,0,Living,2992,2992,5,Male,White,Hispanic or Latino,8.1,B,CNS 2c,Negative,10,0,0
+TARGET-10-PARCZY,VALIDATION,0,Living,3045,3045,2,Male,Unknown,Not Hispanic or Latino,76.3,B,CNS 1,Negative,68,4,0
+TARGET-10-PARDAK,VALIDATION,0,Living,3374,3374,9,Male,White,Not Hispanic or Latino,144,B,CNS 1,Negative,2,0,0.002
+TARGET-10-PARDBN,VALIDATION,0,Living,2732,2732,16,Male,White,Hispanic or Latino,21,B,CNS 1,Negative,62,4,0.5
+TARGET-10-PARDBT,VALIDATION,0,Living,3181,3181,5,Female,White,Not Hispanic or Latino,89,B,CNS 1,Negative,12,0,0
+TARGET-10-PARDCJ,VALIDATION,0,Living,2791,2791,17,Female,White,Hispanic or Latino,2.21,B,CNS 1,Negative,50,0,0
+TARGET-10-PARDCR,VALIDATION,0,Living,2985,2985,5,Male,White,Hispanic or Latino,32,B,CNS 1,Negative,0,0,0
+TARGET-10-PARDCY,VALIDATION,0,Living,1885,1885,16,Female,White,Not Hispanic or Latino,2.7,B,CNS 1,Negative,1,0,2.2
+TARGET-10-PARDDM,VALIDATION,0,Living,3033,3033,5,Male,White,Not Hispanic or Latino,17,B,CNS 1,Negative,7,1,0.0066
+TARGET-10-PARDDV,VALIDATION,0,Living,3176,3176,4,Male,Black or African American,Not Hispanic or Latino,21.61,B,CNS 1,Negative,NA,0,0.017
+TARGET-10-PARDDW,VALIDATION,0,Living,3350,3350,5,Male,White,Not Hispanic or Latino,14.8,B,CNS 1,Negative,NA,0,0
+TARGET-10-PARDEG,VALIDATION,0,Living,1526,1526,14,Female,White,Not Hispanic or Latino,49.7,B,CNS 2b,Negative,5,1,0.005
+TARGET-10-PARDEJ,VALIDATION,0,Living,3076,3076,4,Male,White,Hispanic or Latino,67.4,B,CNS 2a,Negative,5,0,0
+TARGET-10-PARDEP,VALIDATION,0,Living,2333,2333,13,Male,White,Not Hispanic or Latino,22.9,B,CNS 1,Negative,3,3,0.064
+TARGET-10-PARDEY,VALIDATION,0,Living,3038,3038,6,Female,White,Not Hispanic or Latino,4.81,B,CNS 1,Negative,0,0,0
+TARGET-10-PARDFB,VALIDATION,0,Living,3044,2190,4,Male,White,Hispanic or Latino,51.5,B,CNS 2b,Negative,1,2,0
+TARGET-10-PARDFH,VALIDATION,0,Living,3014,3014,5,Female,Unknown,Hispanic or Latino,24.31,B,CNS 1,Negative,4,0,0
+TARGET-10-PARDFI,VALIDATION,0,Living,3080,3080,4,Female,White,Not Hispanic or Latino,18.1,B,CNS 1,Negative,13,0,0.001
+TARGET-10-PARDFN,VALIDATION,0,Living,3158,3158,11,Male,Unknown,Not Hispanic or Latino,11.9,B,CNS 1,Negative,0,1,0
+TARGET-10-PARDHK,VALIDATION,0,Living,3345,3345,2,Female,Unknown,Hispanic or Latino,22.4,B,CNS 1,Negative,1,0,0
+TARGET-10-PARDHW,VALIDATION,0,Living,3171,3171,2,Female,White,Hispanic or Latino,5,B,CNS 2a,Negative,10,0,0
+TARGET-10-PARDIN,VALIDATION,0,Living,3350,3350,4,Male,White,Not Hispanic or Latino,37.6,B,CNS 1,Negative,15,2,0
+TARGET-10-PARDKG,VALIDATION,1,Deceased,2129,2129,10,Male,White,Hispanic or Latino,218.7,B,CNS 2b,Negative,1,2,0
+TARGET-10-PARDLJ,VALIDATION,1,Deceased,1555,1306,15,Male,White,Not Hispanic or Latino,48.8,B,CNS 1,Unknown,0,0,0
+TARGET-10-PARDLP,VALIDATION,0,Living,3026,3026,5,Female,White,Hispanic or Latino,10.7,B,CNS 1,Negative,8,0,0
+TARGET-10-PARDLR,VALIDATION;DISCOVERY,0,Living,1766,409,9,Female,Black or African American,Not Hispanic or Latino,18.57,B,CNS 1,Negative,33,0,0.033
+TARGET-10-PARDLZ,VALIDATION,0,Living,2040,2040,12,Male,Unknown,Not Hispanic or Latino,5.7,B,CNS 1,Negative,17,0,0
+TARGET-10-PARDMI,VALIDATION,0,Living,3110,3110,5,Female,White,Hispanic or Latino,2.2,B,CNS 1,Negative,0,0,0
+TARGET-10-PARDNF,VALIDATION;DISCOVERY,1,Deceased,212,136,11,Male,Unknown,Hispanic or Latino,126.6,B,CNS 1,Negative,40,0,0.02
+TARGET-10-PARDRI,VALIDATION,0,Living,3315,3315,10,Male,Asian,Not Hispanic or Latino,38.4,B,CNS 1,Negative,33,1,0
+TARGET-10-PARDRS,VALIDATION,0,Living,3121,3121,9,Female,Unknown,Hispanic or Latino,1.17,B,CNS 1,Negative,34,0,0
+TARGET-10-PARDSN,VALIDATION,0,Living,3351,3351,7,Male,White,Not Hispanic or Latino,2.28,B,CNS 1,Negative,54,1,0.0015
+TARGET-10-PARDSP,VALIDATION,0,Living,3006,3006,6,Female,White,Hispanic or Latino,1.9,B,CNS 1,Negative,NA,3,0
+TARGET-10-PARDST,VALIDATION,0,Living,3038,3038,6,Male,White,Not Hispanic or Latino,69.4,B,CNS 1,Negative,4,2,0
+TARGET-10-PARDUM,VALIDATION,0,Living,3062,3062,6,Female,White,Not Hispanic or Latino,24.5,B,CNS 1,Negative,4,0,0
+TARGET-10-PARDVD,VALIDATION,0,Living,3273,3273,12,Female,White,Not Hispanic or Latino,15,B,CNS 1,Negative,6,2,0
+TARGET-10-PARDWE,DISCOVERY + VALIDATION;DISCOVERY,1,Deceased,504,369,19,Male,Unknown,Unknown,47.6,B,CNS 1,Negative,0,3,0.009
+TARGET-10-PARDWM,VALIDATION,0,Living,3300,3300,16,Female,White,Not Hispanic or Latino,7.76,B,CNS 1,Negative,35,4,0.052
+TARGET-10-PARDXG,VALIDATION,0,Living,3040,3040,13,Female,Black or African American,Not Hispanic or Latino,32.51,B,CNS 1,Negative,0,0,0
+TARGET-10-PARDXI,VALIDATION,0,Living,3011,3011,11,Male,Unknown,Unknown,24.5,B,CNS 1,Negative,3,0,0
+TARGET-10-PARDXS,VALIDATION,0,Living,2807,2807,4,Male,White,Not Hispanic or Latino,149,B,CNS 3a,Negative,87,1,0.081
+TARGET-10-PAREAA,VALIDATION,0,Living,3078,671,6,Female,White,Hispanic or Latino,145.3,B,CNS 2a,Negative,17,0,0
+TARGET-10-PAREAL,VALIDATION,0,Living,3073,3073,10,Female,Unknown,Hispanic or Latino,22,B,CNS 2a,Negative,16,0,0.0065
+TARGET-10-PAREBA,VALIDATION,0,Living,487,487,3,Male,White,Hispanic or Latino,23.1,B,CNS 1,Negative,0,0,0
+TARGET-10-PAREBH,VALIDATION,1,Deceased,110,110,19,Male,American Indian or Alaska Native,Not Hispanic or Latino,171.2,B,CNS 2b,Negative,81,1,3
+TARGET-10-PAREDS,VALIDATION,0,Living,3335,3335,2,Male,White,Hispanic or Latino,38.5,B,CNS 1,Negative,9,0,0
+TARGET-10-PAREEE,VALIDATION,0,Living,3059,3059,5,Male,White,Not Hispanic or Latino,6.4,B,CNS 1,Negative,9,0,0.27
+TARGET-10-PAREEX,VALIDATION,0,Living,3046,3046,8,Female,White,Hispanic or Latino,24.59,B,CNS 1,Negative,17,0,0
+TARGET-10-PAREGC,VALIDATION,0,Living,NA,NA,6,Female,White,Not Hispanic or Latino,80,B,CNS 1,Negative,50,NA,0.037
+TARGET-10-PAREGE,VALIDATION,0,Living,2968,2968,7,Male,White,Hispanic or Latino,3.1,B,CNS 1,Negative,3,0,0
+TARGET-10-PAREGZ,VALIDATION,0,Living,3087,3087,9,Female,White,Not Hispanic or Latino,203.88,T,CNS 1,Negative,45,1,0.49
+TARGET-10-PAREHN,VALIDATION,0,Living,363,363,16,Male,White,Hispanic or Latino,127.7,B,CNS 1,Negative,1,0,0.23
+TARGET-10-PAREIE,VALIDATION,1,Deceased,608,537,13,Male,White,Not Hispanic or Latino,6.59,B,CNS 1,Negative,0,0,0.64
+TARGET-10-PAREIN,VALIDATION,0,Living,3106,1435,4,Male,White,Not Hispanic or Latino,23.79,B,CNS 1,Negative,2,0,0.0072
+TARGET-10-PAREIV,VALIDATION,0,Living,3046,3046,4,Male,White,Not Hispanic or Latino,7.8,B,CNS 1,Negative,76,0,0.035
+TARGET-10-PAREJA,VALIDATION,0,Living,1971,1971,8,Female,White,Not Hispanic or Latino,3.7,B,CNS 1,Negative,23,0,0.03
+TARGET-10-PAREJZ,VALIDATION,0,Living,1714,1714,17,Male,White,Not Hispanic or Latino,39.4,B,CNS 1,Negative,4,0,0
+TARGET-10-PAREKG,VALIDATION,0,Living,3016,3016,9,Female,White,Not Hispanic or Latino,4.3,B,CNS 1,Negative,3,1,0
+TARGET-10-PAREKH,VALIDATION,0,Living,2702,2702,6,Male,White,Hispanic or Latino,17.2,B,CNS 1,Negative,10,0,0
+TARGET-10-PAREKM,VALIDATION,0,Living,3228,3228,5,Male,Unknown,Not Hispanic or Latino,32.5,B,CNS 1,Negative,72,3,0
+TARGET-10-PARELH,DISCOVERY,1,Deceased,486,48,12,Male,Unknown,Unknown,57.6,B,CNS 1,Positive,83,35,13.5
+TARGET-10-PARENT,VALIDATION,0,Living,3124,3124,3,Male,Asian,Not Hispanic or Latino,28.2,B,CNS 1,Negative,2,0,0
+TARGET-10-PARENU,VALIDATION,0,Living,3329,3329,2,Female,White,Hispanic or Latino,15.9,B,CNS 1,Negative,0,0,0
+TARGET-10-PARENW,VALIDATION,0,Living,3139,1680,18,Female,White,Not Hispanic or Latino,1.2,B,CNS 1,Negative,40,1,0.046
+TARGET-10-PAREPB,VALIDATION,0,Living,2630,2630,4,Male,Unknown,Not Hispanic or Latino,15.74,B,CNS 1,Negative,2,0,0.0029
+TARGET-10-PAREPF,VALIDATION,0,Living,3000,3000,6,Male,White,Not Hispanic or Latino,4.9,B,CNS 2c,Negative,33,0,0.00699999999999999
+TARGET-10-PARERM,VALIDATION,0,Living,3105,2741,4,Female,White,Not Hispanic or Latino,91.5,B,CNS 1,Negative,5,1,0
+TARGET-10-PARERS,VALIDATION,0,Living,3024,3024,4,Female,White,Not Hispanic or Latino,24,B,CNS 1,Negative,13,1,0
+TARGET-10-PARESP,VALIDATION,0,Living,3265,975,2,Male,Asian,Not Hispanic or Latino,268.7,B,CNS 2a,Negative,85,0,0
+TARGET-10-PAREST,VALIDATION,0,Living,2562,2562,4,Female,White,Hispanic or Latino,6.3,B,CNS 1,Negative,57,4,0
+TARGET-10-PARETC,VALIDATION,0,Living,3023,3023,6,Female,White,Not Hispanic or Latino,1.8,B,CNS 1,Negative,35,0,0
+TARGET-10-PARETH,VALIDATION,0,Living,3051,3051,8,Male,White,Not Hispanic or Latino,56.9,B,CNS 1,Negative,6,0,0.14
+TARGET-10-PARETV,VALIDATION,0,Living,3008,3008,9,Female,White,Not Hispanic or Latino,28.3,B,CNS 1,Negative,20,1,0.012
+TARGET-10-PAREUH,VALIDATION,0,Living,2331,2331,8,Female,Black or African American,Not Hispanic or Latino,2.89,B,CNS 1,Negative,NA,0,0.02
+TARGET-10-PAREWE,VALIDATION,0,Living,3073,3073,4,Male,White,Not Hispanic or Latino,64.5,B,CNS 1,Negative,0,1,0
+TARGET-10-PAREWM,VALIDATION,0,Living,3052,3052,7,Male,White,Not Hispanic or Latino,1.1,B,CNS 1,Negative,50,2,0
+TARGET-10-PAREWZ,VALIDATION,0,Living,3198,3198,13,Male,Unknown,Not Hispanic or Latino,15.7,B,CNS 1,Negative,70,0,0
+TARGET-10-PAREYJ,VALIDATION,0,Living,231,231,5,Male,White,Hispanic or Latino,16.9,B,CNS 1,Negative,32,0,0.0056
+TARGET-10-PAREYW,VALIDATION,0,Living,3021,3021,18,Male,White,Not Hispanic or Latino,121,B,CNS 2a,Negative,83,0,0.011
+TARGET-10-PAREZM,VALIDATION,0,Living,2811,2811,4,Male,Unknown,Not Hispanic or Latino,299.2,B,CNS 2b,Negative,16,0,0
+TARGET-10-PARFAP,VALIDATION,0,Living,3020,3020,6,Male,White,Not Hispanic or Latino,4,B,CNS 1,Negative,9,0,0.026
+TARGET-10-PARFDB,VALIDATION,0,Living,3207,3207,15,Male,Asian,Not Hispanic or Latino,16.7,B,CNS 1,Negative,5,0,0.012
+TARGET-10-PARFDG,VALIDATION,0,Living,2357,2357,8,Male,White,Not Hispanic or Latino,3.7,B,CNS 1,Negative,10,2,0.004
+TARGET-10-PARFDL,VALIDATION,0,Living,3075,3075,21,Male,White,Not Hispanic or Latino,27.04,T,CNS 1,Negative,22,0,0
+TARGET-10-PARFDW,VALIDATION,0,Living,3002,3002,4,Male,White,Not Hispanic or Latino,5.5,B,CNS 1,Negative,2,0,0.0064
+TARGET-10-PARFEH,VALIDATION,0,Living,2634,2634,3,Male,Unknown,Hispanic or Latino,104.5,B,CNS 1,Negative,48,0,0
+TARGET-10-PARFFC,VALIDATION,0,Living,3238,3238,3,Male,White,Not Hispanic or Latino,17.37,B,CNS 1,Positive,12,1,0.0076
+TARGET-10-PARFHH,VALIDATION,0,Living,3216,3216,6,Male,Black or African American,Not Hispanic or Latino,7.58,B,CNS 1,Negative,12,1,0.14
+TARGET-10-PARFIH,VALIDATION,0,Living,1099,1099,6,Male,White,Not Hispanic or Latino,102.1,T,CNS 1,Negative,0,0,0.02799999999999999
+TARGET-10-PARFIZ,VALIDATION,0,Living,3118,3118,8,Female,Unknown,Hispanic or Latino,7.2,B,CNS 1,Negative,4,1,0.068
+TARGET-10-PARFJK,VALIDATION,0,Living,3081,3081,4,Female,Unknown,Unknown,22.6,B,CNS 1,Negative,3,1,0
+TARGET-10-PARFJM,VALIDATION,0,Living,3176,3176,4,Male,White,Not Hispanic or Latino,18.1,B,CNS 1,Negative,80,0,0
+TARGET-10-PARFKD,VALIDATION,0,Living,2837,2837,12,Male,Unknown,Not Hispanic or Latino,4.9,B,CNS 1,Negative,2,0,0
+TARGET-10-PARFLV,DISCOVERY,1,Deceased,334,293,17,Male,White,Hispanic or Latino,214.5,B,CNS 1,Negative,48,1,0.57
+TARGET-10-PARFPJ,VALIDATION,0,Living,2946,2946,4,Male,Unknown,Unknown,145.7,T,CNS 2a,Negative,2,1,0
+TARGET-10-PARFSF,VALIDATION,0,Living,3176,3176,3,Male,White,Not Hispanic or Latino,84,B,CNS 1,Negative,9,3,0.22
+TARGET-10-PARFTR,DISCOVERY,1,Deceased,465,284,6,Male,White,Not Hispanic or Latino,9.5,B,CNS 1,Negative,16,1,0
+TARGET-10-PARFVZ,DISCOVERY,0,Living,2983,952,9,Male,Unknown,Hispanic or Latino,0.7,B,CNS 1,Negative,1,3,0
+TARGET-10-PARFXJ,VALIDATION,0,Living,2988,2988,12,Male,White,Not Hispanic or Latino,16.2,T,CNS 1,Negative,0,0,0.025
+TARGET-10-PARGBK,VALIDATION,0,Living,957,957,14,Male,White,Not Hispanic or Latino,29.6,B,CNS 1,Negative,9,1,0
+TARGET-10-PARGBR,VALIDATION,0,Living,3213,3213,18,Male,Unknown,Hispanic or Latino,92.72,B,CNS 1,Negative,21,0,0.12
+TARGET-10-PARGBT,VALIDATION,0,Living,3120,3120,11,Female,Asian,Not Hispanic or Latino,6.6,B,CNS 1,Negative,7,4,0
+TARGET-10-PARGFL,VALIDATION,1,Deceased,1893,1079,5,Male,White,Not Hispanic or Latino,148.6,T,CNS 3a,Negative,29,0,0.14
+TARGET-10-PARGFV,DISCOVERY,0,Living,3311,970,3,Male,White,Hispanic or Latino,21.9,B,CNS 1,Negative,2,2,0
+TARGET-10-PARGFX,VALIDATION,0,Living,3106,3106,4,Female,White,Not Hispanic or Latino,205.2,B,CNS 3a,Negative,4,4,0
+TARGET-10-PARGGI,VALIDATION,0,Living,2958,2958,11,Female,White,Not Hispanic or Latino,12,B,CNS 1,Negative,15,0,0.01399999999999999
+TARGET-10-PARGHW,DISCOVERY,0,Living,1467,482,19,Male,White,Hispanic or Latino,28,B,CNS 1,Negative,1,0,0
+TARGET-10-PARGJH,VALIDATION,0,Living,3048,3048,2,Male,White,Not Hispanic or Latino,60.9,B,CNS 1,Negative,20,1,0
+TARGET-10-PARGJY,VALIDATION,0,Living,3268,3268,18,Female,White,Not Hispanic or Latino,3.9,B,CNS 1,Negative,2,4,0
+TARGET-10-PARGKD,VALIDATION,0,Living,3194,3194,5,Female,White,Not Hispanic or Latino,54.9,B,CNS 1,Negative,40,0,0.0056
+TARGET-10-PARGLE,VALIDATION,0,Living,3209,750,12,Male,White,Not Hispanic or Latino,35.4,B,CNS 1,Positive,27,1,0.26
+TARGET-10-PARGLI,VALIDATION,0,Living,2574,729,13,Male,Unknown,Hispanic or Latino,300,B,CNS 2c,Negative,0,2,0.019
+TARGET-10-PARGLW,VALIDATION,0,Living,3206,3206,11,Male,White,Not Hispanic or Latino,0.6,B,CNS 1,Negative,35,2,0
+TARGET-10-PARGML,DISCOVERY,1,Deceased,187,116,3,Female,White,Hispanic or Latino,45.2,B,CNS 1,Negative,2,0,0
+TARGET-10-PARGMW,VALIDATION,0,Living,3065,3065,3,Male,White,Not Hispanic or Latino,166.5,B,CNS 1,Negative,17,0,0.006
+TARGET-10-PARGUZ,VALIDATION,0,Living,1380,1380,16,Male,White,Not Hispanic or Latino,1.83,B,CNS 1,Negative,0,0,0
+TARGET-10-PARGVZ,DISCOVERY,0,Living,3152,989,10,Female,White,Not Hispanic or Latino,20.3,B,CNS 1,Negative,3,0,0
+TARGET-10-PARGYV,VALIDATION,1,Deceased,704,412,5,Male,White,Not Hispanic or Latino,333.5,B,CNS 2a,Positive,25,1,0.048
+TARGET-10-PARHAN,VALIDATION,0,Living,1594,1594,15,Female,White,Not Hispanic or Latino,23.4,B,CNS 1,Negative,0,2,0
+TARGET-10-PARHBI,VALIDATION,0,Living,3010,3010,8,Male,White,Hispanic or Latino,9.6,T,CNS 1,Negative,1,0,0
+TARGET-10-PARHBT,VALIDATION,0,Living,2956,2956,18,Male,White,Not Hispanic or Latino,254.7,T,CNS 1,Negative,1,1,0
+TARGET-10-PARHEA,VALIDATION,0,Living,3083,582,11,Male,White,Not Hispanic or Latino,4.8,B,CNS 1,Positive,75,2,1.6
+TARGET-10-PARHES,VALIDATION,0,Living,2940,31,5,Male,Black or African American,Not Hispanic or Latino,711.6,T,CNS 1,Negative,55,2,2.7
+TARGET-10-PARHFF,VALIDATION,0,Living,2841,2841,11,Female,White,Not Hispanic or Latino,3.1,B,CNS 1,Negative,4,1,0.0052
+TARGET-10-PARHLM,VALIDATION,0,Living,3279,3279,3,Female,White,Not Hispanic or Latino,55.5,B,CNS 1,Negative,NA,1,0.0023
+TARGET-10-PARHMT,VALIDATION,0,Living,3117,3117,15,Male,White,Not Hispanic or Latino,185.8,B,CNS 1,Negative,35,1,0.27
+TARGET-10-PARHSD,VALIDATION,0,Living,3002,3002,4,Female,White,Hispanic or Latino,94.8,B,CNS 1,Negative,0,0,0
+TARGET-10-PARHUM,DISCOVERY,1,Deceased,1164,876,19,Female,White,Hispanic or Latino,24.17,B,CNS 1,Negative,0,1,0
+TARGET-10-PARIAD,DISCOVERY,1,Deceased,510,339,2,Male,Black or African American,Not Hispanic or Latino,67.8,B,CNS 1,Negative,25,0,0
+TARGET-10-PARIBB,VALIDATION,0,Living,1253,1253,12,Female,White,Not Hispanic or Latino,4.2,B,CNS 1,Negative,20,0,0.0019
+TARGET-10-PARIIA,VALIDATION,0,Living,1349,1349,14,Female,Asian,Not Hispanic or Latino,4.9,B,CNS 1,Negative,7,0,0
+TARGET-10-PARIKN,XENOGRAFT,0,Living,2463,2463,9,Male,White,Not Hispanic or Latino,66.1,T,CNS 2c,Negative,40,1,1.1
+TARGET-10-PARILG,VALIDATION,0,Living,2402,2402,12,Male,Unknown,Unknown,2,B,CNS 1,Negative,44,0,0
+TARGET-10-PARIPA,XENOGRAFT,0,Living,3115,3115,3,Female,White,Not Hispanic or Latino,32.5,B,CNS 1,Negative,6,0,0
+TARGET-10-PARIYD,VALIDATION,0,Living,3108,3108,9,Male,White,Not Hispanic or Latino,65.9,T,CNS 1,Negative,4,0,0.22
+TARGET-10-PARIZN,VALIDATION,1,Deceased,673,537,11,Male,White,Not Hispanic or Latino,202,T,CNS 3b,Negative,0,1,0
+TARGET-10-PARJAY,VALIDATION,0,Living,2889,2889,16,Female,Unknown,Hispanic or Latino,14.05,T,CNS 1,Negative,0,1,0
+TARGET-10-PARJBB,VALIDATION,0,Living,3041,3041,3,Male,White,Not Hispanic or Latino,185,B,CNS 2a,Negative,27,0,0.00699999999999999
+TARGET-10-PARJBZ,VALIDATION,0,Living,1992,1992,14,Male,White,Hispanic or Latino,18.7,B,CNS 2a,Negative,5,0,0
+TARGET-10-PARJJP,VALIDATION,0,Living,3199,3199,13,Male,White,Not Hispanic or Latino,8.9,B,CNS 1,Negative,1,1,0
+TARGET-10-PARJLF,VALIDATION,0,Living,2459,2459,11,Male,White,Not Hispanic or Latino,5.5,B,CNS 1,Negative,14,0,0.11
+TARGET-10-PARJMY,VALIDATION,1,Deceased,3114,1147,13,Female,White,Hispanic or Latino,150.6,B,CNS 1,Negative,20,4,0.03
+TARGET-10-PARJNL,VALIDATION,1,Deceased,3069,1119,11,Female,Asian,Not Hispanic or Latino,301,B,CNS 1,Negative,81,0,0.15
+TARGET-10-PARJNR,VALIDATION,0,Living,3095,3095,11,Female,Unknown,Hispanic or Latino,7.27,B,CNS 1,Negative,0,0,0
+TARGET-10-PARJNX,VALIDATION,0,Living,3006,3006,4,Female,Black or African American,Unknown,130.32,T,CNS 2a,Negative,2,1,0
+TARGET-10-PARJPL,VALIDATION,0,Living,3158,3158,4,Male,White,Not Hispanic or Latino,244.5,T,CNS 1,Negative,4,0,0
+TARGET-10-PARJRT,VALIDATION,0,Living,3050,3050,3,Female,White,Not Hispanic or Latino,118.2,B,CNS 1,Negative,4,3,0.0018
+TARGET-10-PARJSR,DISCOVERY,1,Deceased,853,588,12,Male,White,Not Hispanic or Latino,13.3,B,CNS 1,Negative,14,0,0
+TARGET-10-PARJWB,VALIDATION,0,Living,478,478,14,Female,Unknown,Hispanic or Latino,146.3,B,CNS 1,Negative,4,0,0
+TARGET-10-PARJXW,VALIDATION,0,Living,35,35,15,Male,White,Not Hispanic or Latino,183.7,T,CNS 1,Negative,0,0,0.026
+TARGET-10-PARJYV,VALIDATION,0,Living,3100,3100,12,Male,White,Hispanic or Latino,23,B,CNS 1,Negative,0,2,0
+TARGET-10-PARJZZ,DISCOVERY,1,Deceased,993,795,5,Male,White,Hispanic or Latino,21.5,B,CNS 1,Negative,5,0,0
+TARGET-10-PARKBT,VALIDATION,0,Living,3143,3143,16,Male,White,Not Hispanic or Latino,5.1,B,CNS 1,Negative,34,0,0.81
+TARGET-10-PARKEN,VALIDATION,0,Living,3064,3064,2,Male,White,Not Hispanic or Latino,57.48,B,CNS 1,Negative,35,1,0.05
+TARGET-10-PARKEU,VALIDATION,0,Living,2016,2016,6,Male,White,Not Hispanic or Latino,3.1,B,CNS 1,Negative,23,1,0.027
+TARGET-10-PARKFN,VALIDATION,0,Living,484,484,4,Female,Asian,Not Hispanic or Latino,78.1,B,CNS 1,Negative,35,1,0.0069
+TARGET-10-PARKFU,VALIDATION,0,Living,3078,3078,16,Male,White,Not Hispanic or Latino,1.3,B,CNS 1,Negative,50,0,0.005
+TARGET-10-PARKLK,VALIDATION,0,Living,29,29,2,Male,White,Not Hispanic or Latino,132.8,T,CNS 1,Negative,1,3,0.084
+TARGET-10-PARKLL,VALIDATION,0,Living,2837,47,14,Female,White,Not Hispanic or Latino,117.8,B,CNS 2a,Negative,28,2,2.5
+TARGET-10-PARKNJ,DISCOVERY,1,Deceased,464,440,3,Male,Unknown,Unknown,32,B,CNS 2,Negative,61,4,0.84
+TARGET-10-PARKZX,VALIDATION,0,Living,3087,1371,13,Female,White,Hispanic or Latino,74.7,B,CNS 1,Negative,30,2,0.0025
+TARGET-10-PARLAF,DISCOVERY,0,Living,2939,618,4,Male,Black or African American,Unknown,8.36,B,CNS 1,Negative,3,0,0
+TARGET-10-PARLBP,VALIDATION,0,Living,2030,2030,11,Male,White,Not Hispanic or Latino,62.1,B,CNS 1,Negative,13,0,0
+TARGET-10-PARLDF,VALIDATION,0,Living,3071,1686,5,Male,White,Not Hispanic or Latino,79.2,B,CNS 1,Negative,36,3,0.0049
+TARGET-10-PARLEK,DISCOVERY,0,Living,2900,799,9,Female,White,Not Hispanic or Latino,406.9,B,CNS 1,Negative,76,1,2
+TARGET-10-PARLFI,VALIDATION,0,Living,3075,3075,14,Male,Unknown,Hispanic or Latino,374.7,B,CNS 1,Negative,1,0,0
+TARGET-10-PARLJA,VALIDATION,0,Living,2932,2932,9,Male,White,Not Hispanic or Latino,130,T,CNS 2a,Negative,10,0,0.15
+TARGET-10-PARLMI,VALIDATION,0,Living,3016,3016,2,Female,White,Not Hispanic or Latino,135.8,B,CNS 1,Negative,0,0,0.0038
+TARGET-10-PARLPA,VALIDATION,0,Living,1202,1202,17,Male,White,Not Hispanic or Latino,1.9,B,CNS 1,Negative,2,0,0
+TARGET-10-PARLPB,VALIDATION,0,Living,3032,3032,15,Male,Unknown,Unknown,2.8,B,CNS 1,Negative,10,0,0
+TARGET-10-PARLST,VALIDATION,0,Living,3058,3058,10,Male,White,Not Hispanic or Latino,689.1,T,CNS 2a,Negative,7,0,1.3
+TARGET-10-PARLSU,VALIDATION,1,Deceased,258,258,22,Female,Unknown,Unknown,9.6,B,CNS 1,Negative,4,1,1.1
+TARGET-10-PARLTU,VALIDATION,0,Living,3205,3205,17,Male,White,Not Hispanic or Latino,1,B,CNS 1,Negative,1,0,0.012
+TARGET-10-PARLTX,VALIDATION,0,Living,1121,1121,2,Male,White,Not Hispanic or Latino,126.36,B,CNS 1,Negative,35,1,0.13
+TARGET-10-PARLZG,DISCOVERY,1,Deceased,1546,1003,12,Female,Black or African American,Not Hispanic or Latino,12.9,B,CNS 1,Negative,2,0,0.45
+TARGET-10-PARMEG,VALIDATION,0,Living,3037,3037,11,Female,White,Hispanic or Latino,49.76,B,CNS 1,Negative,7,1,0
+TARGET-10-PARMFF,VALIDATION,0,Living,3189,3189,9,Male,White,Not Hispanic or Latino,27.5,T,CNS 1,Negative,2,0,0
+TARGET-10-PARMIH,VALIDATION,1,Deceased,2953,2856,13,Male,Unknown,Hispanic or Latino,375.9,T,CNS 1,Negative,1,0,0
+TARGET-10-PARMKK,VALIDATION,0,Living,3003,3003,4,Male,Black or African American,Not Hispanic or Latino,477.8,T,CNS 2a,Negative,5,0,0
+TARGET-10-PARMKM,VALIDATION,0,Living,2995,2995,2,Female,White,Not Hispanic or Latino,446.1,T,CNS 1,Negative,0,0,0.19
+TARGET-10-PARMMA,VALIDATION,0,Living,2959,2594,6,Female,White,Not Hispanic or Latino,66.3,B,CNS 1,Negative,4,0,0
+TARGET-10-PARMMV,VALIDATION,0,Living,3052,3052,7,Male,White,Not Hispanic or Latino,77,T,CNS 1,Negative,40,0,0
+TARGET-10-PARMRF,VALIDATION,0,Living,2989,2989,6,Male,White,Not Hispanic or Latino,446,T,NA,Negative,9,3,0
+TARGET-10-PARMSB,VALIDATION,0,Living,2654,2654,14,Female,White,Hispanic or Latino,15.7,B,CNS 1,Negative,4,0,0
+TARGET-10-PARMSP,VALIDATION;DISCOVERY,1,Deceased,584,441,18,Male,White,Not Hispanic or Latino,9.9,B,CNS 1,Negative,73,0,0.2
+TARGET-10-PARMUC,VALIDATION,0,Living,2995,2995,3,Male,Unknown,Hispanic or Latino,145,T,CNS 2a,Negative,10,0,0.12
+TARGET-10-PARMWH,VALIDATION,0,Living,3089,3089,21,Female,Unknown,Unknown,75.1,T,CNS 1,Negative,51,0,0.12
+TARGET-10-PARMWZ,VALIDATION,0,Living,36,36,11,Male,White,Not Hispanic or Latino,19.6,B,CNS 2c,Negative,21,0,0.0011
+TARGET-10-PARMXF,DISCOVERY,1,Deceased,951,640,5,Female,White,Hispanic or Latino,14.7,B,CNS 1,Negative,7,0,0.024
+TARGET-10-PARMYP,VALIDATION,0,Living,3089,3089,6,Male,White,Not Hispanic or Latino,59,B,CNS 1,Negative,59,1,0
+TARGET-10-PARNAF,VALIDATION,1,Deceased,2201,1148,5,Female,Unknown,Not Hispanic or Latino,106.5,B,CNS 1,Negative,39,1,0.05
+TARGET-10-PARNBN,VALIDATION,0,Living,1687,1687,11,Male,Unknown,Not Hispanic or Latino,300,T,CNS 1,Negative,54,0,0.1
+TARGET-10-PARNDB,VALIDATION,0,Living,2805,2805,11,Female,White,Hispanic or Latino,33.4,B,CNS 1,Negative,1,0,0
+TARGET-10-PARNDR,DISCOVERY,1,Deceased,439,202,18,Male,White,Hispanic or Latino,1.07,B,CNS 1,Unknown,13,2,0.03
+TARGET-10-PARNDY,VALIDATION,0,Living,3049,3049,10,Male,White,Not Hispanic or Latino,53.4,B,CNS 3b,Negative,3,0,0
+TARGET-10-PARNEH,VALIDATION,1,Deceased,524,524,5,Male,White,Not Hispanic or Latino,24.3,T,CNS 1,Negative,25,0,3
+TARGET-10-PARNFY,DISCOVERY,0,Living,2801,2801,12,Female,White,Not Hispanic or Latino,12.8,B,CNS 1,Negative,0,0,0
+TARGET-10-PARNGI,VALIDATION,0,Living,1410,1264,3,Male,White,Not Hispanic or Latino,265,B,CNS 2a,Negative,1,0,0.00699999999999999
+TARGET-10-PARNIZ,VALIDATION,0,Living,2919,2919,2,Male,White,Not Hispanic or Latino,161.1,B,CNS 1,Negative,27,0,0.08199999999999999
+TARGET-10-PARNJB,VALIDATION,0,Living,3148,3148,23,Female,White,Not Hispanic or Latino,35.4,T,CNS 1,Negative,87,1,1.5
+TARGET-10-PARNLW,VALIDATION,0,Living,2870,2870,16,Female,White,Not Hispanic or Latino,149.2,B,CNS 1,Negative,32,3,3.3
+TARGET-10-PARNMF,DISCOVERY,0,Living,3157,1022,3,Female,White,Not Hispanic or Latino,47.7,B,CNS 2,Negative,23,1,0.012
+TARGET-10-PARNMV,VALIDATION,0,Living,2905,2905,10,Male,White,Not Hispanic or Latino,250.7,T,CNS 1,Negative,78,0,0
+TARGET-10-PARNSH,DISCOVERY,1,Deceased,2029,1022,18,Female,White,Not Hispanic or Latino,23.5,B,CNS 1,Negative,58,0,0.11
+TARGET-10-PARNSP,VALIDATION,0,Living,3086,3086,7,Male,White,Not Hispanic or Latino,28.7,T,CNS 1,Negative,1,0,0
+TARGET-10-PARNSW,VALIDATION,0,Living,2224,2224,14,Male,White,Not Hispanic or Latino,5,B,CNS 1,Positive,60,0,0.011
+TARGET-10-PARNTW,DISCOVERY,0,Living,2937,957,4,Female,White,Not Hispanic or Latino,9.1,B,CNS 1,Negative,0,0,0
+TARGET-10-PARNXJ,VALIDATION,0,Living,2840,110,5,Male,Unknown,Hispanic or Latino,181.6,T,CNS 1,Negative,10,2,0.1
+TARGET-10-PARPCA,DISCOVERY,1,Deceased,477,251,6,Female,White,Not Hispanic or Latino,10.7,B,CNS 1,Negative,1,1,0.37
+TARGET-10-PARPDP,VALIDATION,1,Deceased,602,602,17,Male,White,Not Hispanic or Latino,243.9,B,CNS 1,Negative,1,0,0.5
+TARGET-10-PARPET,VALIDATION,0,Living,1939,1939,5,Female,Black or African American,Not Hispanic or Latino,191.9,T,CNS 1,Negative,4,0,0
+TARGET-10-PARPFF,VALIDATION,1,Deceased,1850,1554,16,Female,White,Hispanic or Latino,96.3,B,CNS 1,Negative,56,5,1.3
+TARGET-10-PARPGJ,VALIDATION,0,Living,1216,1216,12,Male,White,Not Hispanic or Latino,22.11,B,CNS 1,Negative,30,1,0.0074
+TARGET-10-PARPGL,VALIDATION,0,Living,2854,2854,14,Female,White,Not Hispanic or Latino,202.5,B,CNS 1,Negative,24,2,0.0044
+TARGET-10-PARPGW,VALIDATION,0,Living,2910,2910,5,Female,White,Not Hispanic or Latino,67.6,B,CNS 2a,Negative,9,1,0
+TARGET-10-PARPHB,VALIDATION,0,Living,2960,2960,2,Male,White,Not Hispanic or Latino,313,T,CNS 3b,Negative,79,1,0.038
+TARGET-10-PARPIF,VALIDATION,0,Living,3055,3055,14,Male,White,Not Hispanic or Latino,21.84,B,CNS 1,Negative,4,0,0
+TARGET-10-PARPNM,DISCOVERY,1,Deceased,233,116,14,Female,Black or African American,Not Hispanic or Latino,82.7,B,CNS 1,Negative,10,2,0
+TARGET-10-PARPPV,VALIDATION,0,Living,3008,3008,15,Male,White,Hispanic or Latino,17.82,B,CNS 1,Negative,0,1,0
+TARGET-10-PARPRD,DISCOVERY,1,Deceased,944,743,11,Male,White,Not Hispanic or Latino,900,B,CNS 1,Negative,1,3,0.13
+TARGET-10-PARPRW,DISCOVERY,1,Deceased,442,377,16,Female,Unknown,Hispanic or Latino,13.6,B,CNS 2,Negative,14,0,0
+TARGET-10-PARPUL,VALIDATION,0,Living,2825,2825,3,Male,White,Not Hispanic or Latino,60.2,T,CNS 1,Negative,4,1,0
+TARGET-10-PARPVU,DISCOVERY,0,Living,2881,484,2,Male,White,Not Hispanic or Latino,77.7,B,CNS 2,Negative,18,NA,0
+TARGET-10-PARPXV,VALIDATION,0,Living,1789,1789,5,Male,Unknown,Not Hispanic or Latino,166.9,B,CNS 2b,Negative,0,1,0
+TARGET-10-PARPYH,VALIDATION,0,Living,2925,2925,6,Male,White,Hispanic or Latino,71.8,B,CNS 1,Negative,1,1,0.043
+TARGET-10-PARPYJ,VALIDATION,0,Living,2759,2759,8,Female,White,Not Hispanic or Latino,162.8,T,CNS 2b,Negative,85,4,1.7
+TARGET-10-PARPYS,VALIDATION;DISCOVERY,1,Deceased,472,371,15,Male,Unknown,Hispanic or Latino,106.7,B,CNS 1,Negative,71,0,4.7
+TARGET-10-PARPZI,VALIDATION,0,Living,3067,1663,7,Male,White,Not Hispanic or Latino,162.3,B,CNS 1,Negative,2,0,0.012
+TARGET-10-PARPZJ,DISCOVERY,0,Living,2419,419,2,Male,White,Not Hispanic or Latino,16.41,B,CNS 1,Negative,4,0,0
+TARGET-10-PARPZR,VALIDATION,0,Living,2788,2788,2,Female,White,Not Hispanic or Latino,56.4,B,CNS 1,Negative,13,2,1.7
+TARGET-10-PARRAF,DISCOVERY,1,Deceased,275,28,9,Male,White,Hispanic or Latino,96.2,B,CNS 1,Positive,95,63,43
+TARGET-10-PARRJV,VALIDATION,0,Living,NA,NA,2,Male,White,Not Hispanic or Latino,152,B,CNS 1,Negative,0,7,0.11
+TARGET-10-PARRKG,VALIDATION,0,Living,397,397,8,Male,White,Not Hispanic or Latino,75,B,CNS 1,Negative,85,0,0.14
+TARGET-10-PARRKK,VALIDATION,0,Living,2752,2752,9,Male,White,Not Hispanic or Latino,183.9,T,CNS 1,Negative,2,0,0
+TARGET-10-PARRKW,DISCOVERY,1,Deceased,1053,705,7,Female,White,Hispanic or Latino,4.3,B,CNS 1,Negative,59,3,0.11
+TARGET-10-PARRMU,VALIDATION,0,Living,2931,2931,15,Female,Black or African American,Unknown,11.91,B,CNS 1,Negative,10,1,0.004
+TARGET-10-PARRPA,VALIDATION,0,Living,3028,3028,22,Male,White,Not Hispanic or Latino,1.6,B,CNS 1,Negative,43,0,0
+TARGET-10-PARRPK,XENOGRAFT,1,Deceased,2817,2587,25,Male,White,Not Hispanic or Latino,172,B,CNS 2a,Negative,87,0,1.1
+TARGET-10-PARRSR,VALIDATION,0,Living,2684,2684,14,Female,White,Not Hispanic or Latino,18,B,CNS 1,Negative,1,0,0.018
+TARGET-10-PARRVI,VALIDATION,0,Living,1336,1224,14,Female,White,Not Hispanic or Latino,2.5,B,CNS 1,Negative,84,1,0.008
+TARGET-10-PARRVK,VALIDATION,1,Deceased,212,212,18,Female,White,Hispanic or Latino,215.9,B,CNS 1,Negative,11,3,1.5
+TARGET-10-PARRYW,VALIDATION,0,Living,3087,3087,12,Male,White,Not Hispanic or Latino,8.5,B,CNS 1,Negative,61,1,0
+TARGET-10-PARSET,VALIDATION,0,Living,356,356,11,Male,Black or African American,Not Hispanic or Latino,520,T,CNS 1,Negative,75,1,0
+TARGET-10-PARSGC,DISCOVERY,0,Living,2829,932,4,Male,Unknown,Not Hispanic or Latino,14.3,B,CNS 1,Negative,3,0,0
+TARGET-10-PARSGM,VALIDATION,0,Living,219,219,14,Male,White,Not Hispanic or Latino,2.1,B,CNS 1,Negative,45,0,0.14
+TARGET-10-PARSHV,VALIDATION,0,Living,2700,2700,14,Male,White,Not Hispanic or Latino,13.2,B,CNS 1,Negative,0,1,0.008
+TARGET-10-PARSJG,VALIDATION,0,Living,2737,1300,12,Male,White,Not Hispanic or Latino,523.6,T,CNS 1,Negative,10,1,0
+TARGET-10-PARSJH,VALIDATION,0,Living,2695,2695,17,Male,White,Not Hispanic or Latino,40.3,B,CNS 1,Positive,79,1,2.9
+TARGET-10-PARSKH,VALIDATION,1,Deceased,276,213,15,Female,White,Hispanic or Latino,10.2,B,CNS 2c,Negative,96,0,0.024
+TARGET-10-PARSKV,VALIDATION,0,Living,2959,2959,8,Male,White,Not Hispanic or Latino,214.71,B,CNS 2a,Negative,1,1,0
+TARGET-10-PARSKY,VALIDATION,0,Living,1545,1545,4,Male,Unknown,Not Hispanic or Latino,135.6,B,CNS 3a,Negative,10,1,0
+TARGET-10-PARSNX,VALIDATION,0,Living,2077,2077,14,Male,Black or African American,Not Hispanic or Latino,12.1,T,CNS 2c,Negative,1,0,0.07
+TARGET-10-PARSRH,DISCOVERY,1,Deceased,500,297,10,Male,White,Not Hispanic or Latino,25,B,CNS 1,Negative,3,3,0.03
+TARGET-10-PARSRI,VALIDATION,0,Living,2707,2512,16,Female,Black or African American,Hispanic or Latino,213.2,B,CNS 1,Negative,12,1,0.032
+TARGET-10-PARSSV,VALIDATION,0,Living,2896,2896,7,Female,White,Hispanic or Latino,293.88,B,CNS 1,Negative,50,0,0.5
+TARGET-10-PARSTB,VALIDATION,0,Living,2542,2542,16,Male,Black or African American,Not Hispanic or Latino,13.7,B,CNS 1,Negative,11,0,0.0058
+TARGET-10-PARSUV,VALIDATION,0,Living,3016,2770,19,Male,White,Not Hispanic or Latino,227,B,CNS 1,Negative,72,0,0.18
+TARGET-10-PARSZH,DISCOVERY,0,Living,2400,1001,13,Female,White,Not Hispanic or Latino,1.1,B,CNS 1,Negative,2,1,0
+TARGET-10-PARTAK,VALIDATION,0,Living,1207,1207,11,Male,White,Hispanic or Latino,16.8,B,CNS 1,Negative,48,0,0
+TARGET-10-PARTAY,VALIDATION,0,Living,NA,NA,8,Female,Black or African American,Not Hispanic or Latino,105.44,B,CNS 1,Positive,20,0,0.79
+TARGET-10-PARTBP,VALIDATION,0,Living,3083,3083,6,Male,White,Hispanic or Latino,94.1,T,CNS 1,Negative,70,1,0
+TARGET-10-PARTEF,VALIDATION,0,Living,3015,3015,4,Female,Unknown,Unknown,146,B,CNS 2a,Negative,2,1,0
+TARGET-10-PARTGB,VALIDATION,0,Living,173,173,19,Male,White,Hispanic or Latino,88.5,B,CNS 1,Negative,2,2,0.005
+TARGET-10-PARTGW,VALIDATION,0,Living,1995,1995,6,Female,Black or African American,Not Hispanic or Latino,52.6,B,CNS 2a,Negative,37,0,0
+TARGET-10-PARTID,VALIDATION,0,Living,2647,2647,15,Female,Unknown,Not Hispanic or Latino,3.66,B,CNS 1,Negative,4,2,0.02
+TARGET-10-PARTIK,VALIDATION,0,Living,2174,2174,4,Male,Unknown,Hispanic or Latino,108.8,B,CNS 1,Negative,9,0,0.011
+TARGET-10-PARTJJ,VALIDATION,0,Living,2928,2928,4,Male,White,Not Hispanic or Latino,66.7,B,CNS 1,Negative,0,NA,0
+TARGET-10-PARTJL,DISCOVERY,0,Living,968,509,3,Female,White,Not Hispanic or Latino,34.7,B,CNS 1,Negative,15,0,0
+TARGET-10-PARTKL,DISCOVERY,1,Deceased,900,805,3,Female,White,Not Hispanic or Latino,10.7,B,CNS 1,Negative,60,1,0.12
+TARGET-10-PARTLY,VALIDATION,0,Living,3058,3058,13,Male,White,Not Hispanic or Latino,4.2,T,CNS 1,Negative,10,0,0.2
+TARGET-10-PARTPW,VALIDATION,0,Living,2750,2750,16,Male,Asian,Not Hispanic or Latino,15.3,T,CNS 1,Negative,4,1,0.1
+TARGET-10-PARTRW,DISCOVERY,1,Deceased,1619,675,6,Male,White,Not Hispanic or Latino,6.91,B,CNS 2,Negative,2,0,0
+TARGET-10-PARTSC,VALIDATION,0,Living,2919,2919,9,Male,White,Not Hispanic or Latino,88,B,CNS 1,Negative,3,2,0.0015
+TARGET-10-PARTWH,VALIDATION,0,Living,3013,3013,12,Male,White,Not Hispanic or Latino,5.23,B,CNS 1,Negative,0,0,0
+TARGET-10-PARTXF,DISCOVERY,1,Deceased,1001,686,3,Male,White,Hispanic or Latino,10.2,B,CNS 1,Negative,25,0,0.003
+TARGET-10-PARTYT,DISCOVERY,0,Living,3003,257,3,Male,Unknown,Hispanic or Latino,25.7,B,CNS 2,Negative,0,0,0.3
+TARGET-10-PARTZE,VALIDATION,1,Deceased,859,632,13,Male,White,Not Hispanic or Latino,3.3,B,CNS 2a,Negative,3,1,0
+TARGET-10-PARTZJ,VALIDATION,0,Living,1615,1615,3,Male,White,Hispanic or Latino,57.6,B,CNS 1,Negative,29,0,0
+TARGET-10-PARUBK,DISCOVERY,1,Deceased,560,399,13,Female,White,Not Hispanic or Latino,1148.5,B,CNS 2,Negative,36,4,0.79
+TARGET-10-PARUBN,VALIDATION,0,Living,2525,1280,13,Female,White,Not Hispanic or Latino,5.2,B,CNS 1,Negative,43,1,0.62
+TARGET-10-PARUBU,VALIDATION,0,Living,2959,1387,4,Male,White,Not Hispanic or Latino,77.1,B,CNS 1,Negative,17,1,0.005
+TARGET-10-PARUBX,VALIDATION,0,Living,519,519,11,Male,White,Not Hispanic or Latino,2.25,B,CNS 1,Negative,3,1,0.0011
+TARGET-10-PARUCI,VALIDATION,0,Living,2141,2141,4,Female,Unknown,Hispanic or Latino,116,B,CNS 1,Negative,3,0,0
+TARGET-10-PARUCT,VALIDATION,0,Living,3037,3037,15,Male,Unknown,Unknown,132.2,B,CNS 3a,Negative,82,0,0.00699999999999999
+TARGET-10-PARUEU,VALIDATION,0,Living,2247,2247,6,Male,White,Not Hispanic or Latino,314,T,CNS 1,Negative,16,0,0
+TARGET-10-PARUGP,DISCOVERY,1,Deceased,289,223,3,Male,White,Unknown,12.6,B,CNS 1,Negative,16,0,0.14
+TARGET-10-PARUGV,VALIDATION,0,Living,2878,2878,2,Female,White,Not Hispanic or Latino,73.3,B,CNS 1,Negative,19,1,0
+TARGET-10-PARUIT,VALIDATION,0,Living,2816,2816,2,Male,White,Not Hispanic or Latino,129.7,B,CNS 1,Negative,2,0,0.075
+TARGET-10-PARUIW,DISCOVERY,0,Living,2791,945,5,Female,White,Hispanic or Latino,9.6,B,CNS 1,Negative,83,1,0
+TARGET-10-PARUKK,VALIDATION,0,Living,1420,1420,16,Male,White,Hispanic or Latino,38.9,B,CNS 1,Negative,3,1,0
+TARGET-10-PARUKW,VALIDATION,0,Living,2701,2701,10,Female,White,Hispanic or Latino,32.3,T,CNS 1,Negative,20,0,0.65
+TARGET-10-PARURK,VALIDATION,0,Living,2184,2184,14,Female,White,Not Hispanic or Latino,3.3,B,CNS 1,Negative,2,0,0
+TARGET-10-PARUYE,VALIDATION,0,Living,2900,2900,2,Female,White,Not Hispanic or Latino,231.1,B,CNS 1,Negative,25,1,0.011
+TARGET-10-PARUYH,VALIDATION,0,Living,2725,2725,4,Female,White,Not Hispanic or Latino,251.5,B,CNS 2c,Negative,9,2,0
+TARGET-10-PARUYU,VALIDATION,0,Living,2477,2477,12,Male,White,Not Hispanic or Latino,42.6,B,CNS 1,Negative,12,1,0
+TARGET-10-PARVAK,VALIDATION,0,Living,2933,2933,7,Female,White,Hispanic or Latino,83.3,B,CNS 1,Negative,3,0,0.004
+TARGET-10-PARVBL,VALIDATION,0,Living,2788,2788,12,Female,Unknown,Hispanic or Latino,13.8,B,CNS 1,Negative,1,4,0
+TARGET-10-PARVBS,DISCOVERY,0,Living,52,34,17,Male,White,Hispanic or Latino,7,B,CNS 2,Negative,80,72,86.2
+TARGET-10-PARVBY,VALIDATION,0,Living,2425,2425,3,Male,White,Hispanic or Latino,15.9,B,CNS 1,Negative,41,2,0.0085
+TARGET-10-PARVCG,VALIDATION,1,Deceased,1339,1305,11,Female,White,Not Hispanic or Latino,93.4,B,CNS 2b,Negative,46,1,0.0077
+TARGET-10-PARVEI,VALIDATION,0,Living,2769,2769,4,Female,White,Not Hispanic or Latino,108.7,T,CNS 1,Negative,2,0,0
+TARGET-10-PARVHA,DISCOVERY,1,Deceased,520,380,18,Male,White,Not Hispanic or Latino,8.7,B,CNS 1,Negative,0,2,0
+TARGET-10-PARVHY,VALIDATION,0,Living,2948,2948,16,Male,White,Not Hispanic or Latino,57.7,T,CNS 1,Negative,26,2,0.6
+TARGET-10-PARVMR,VALIDATION,0,Living,2841,2841,5,Male,Unknown,Unknown,79.1,T,CNS 1,Negative,2,2,0
+TARGET-10-PARVWD,DISCOVERY,1,Deceased,255,252,18,Male,Black or African American,Not Hispanic or Latino,3.8,B,CNS 1,Negative,0,0,0
+TARGET-10-PARWDM,VALIDATION,0,Living,821,821,16,Female,White,Not Hispanic or Latino,88.39,T,CNS 1,Negative,0,0,0
+TARGET-10-PARWID,VALIDATION,0,Living,2648,2648,20,Male,Black or African American,Not Hispanic or Latino,114.9,T,CNS 2a,Negative,2,0,0
+TARGET-10-PARWLP,VALIDATION,0,Living,2884,2884,8,Male,White,Not Hispanic or Latino,145,T,CNS 2a,Negative,58,1,0
+TARGET-10-PARWMF,VALIDATION,0,Living,2668,2668,12,Male,White,Not Hispanic or Latino,25.4,T,CNS 1,Negative,0,0,0
+TARGET-10-PARWNW,VALIDATION,0,Living,2324,2324,12,Male,White,Not Hispanic or Latino,61.3,T,CNS 1,Negative,4,0,0
+TARGET-10-PARWVN,DISCOVERY,0,Living,2817,1040,3,Female,Unknown,Not Hispanic or Latino,125,B,CNS 1,Negative,2,0,0.0045
+TARGET-10-PARXHT,VALIDATION,0,Living,2652,2652,14,Female,White,Not Hispanic or Latino,205.7,T,CNS 1,Negative,27,1,0
+TARGET-10-PARXLS,VALIDATION,0,Living,2756,2756,5,Male,White,Not Hispanic or Latino,13.5,T,CNS 1,Negative,0,0,0
+TARGET-10-PARXMC,DISCOVERY,0,Living,2818,672,7,Female,Unknown,Hispanic or Latino,20.5,B,CNS 1,Negative,21,0,0
+TARGET-10-PARXMV,VALIDATION,0,Living,2441,2441,13,Male,White,Not Hispanic or Latino,121,T,CNS 1,Negative,2,0,0
+TARGET-10-PARXVS,VALIDATION,1,Deceased,2291,2055,12,Male,White,Not Hispanic or Latino,273,T,CNS 1,Negative,75,2,0
+TARGET-10-PARYGI,VALIDATION,0,Living,2755,2755,6,Male,White,Not Hispanic or Latino,61.1,T,CNS 1,Negative,0,1,0
+TARGET-10-PASCIU,DISCOVERY,1,Deceased,977,735,3,Male,White,Hispanic or Latino,95.1,B,CNS 1,Negative,3,0,0
+TARGET-10-PASDYK,DISCOVERY,1,Deceased,736,520,4,Female,White,Not Hispanic or Latino,67.7,B,CNS 1,Negative,8,2,0.04
+TARGET-10-PASEVJ,DISCOVERY,1,Deceased,892,678,12,Female,Unknown,Hispanic or Latino,39.8,B,CNS 1,Negative,15,0,0.032
+TARGET-10-PASFGA,XENOGRAFT,1,Deceased,1482,1482,15,Male,White,Not Hispanic or Latino,3.1,B,CNS 1,Negative,2,0,0.0081
+TARGET-10-PASFHR,VALIDATION,0,Living,2633,2633,15,Male,White,Unknown,52.6,T,CNS 1,Negative,65,0,0.1
+TARGET-10-PASFKA,VALIDATION,0,Living,2609,2609,13,Male,White,Not Hispanic or Latino,141.6,T,CNS 1,Negative,1,0,1.2
+TARGET-10-PASFLK,VALIDATION,0,Living,2675,2675,13,Male,White,Hispanic or Latino,519,T,CNS 1,Negative,59,0,0.04
+TARGET-10-PASFPU,DISCOVERY,1,Deceased,410,186,15,Female,Asian,Not Hispanic or Latino,4.6,B,CNS 1,Negative,9,0,0
+TARGET-10-PASFTL,DISCOVERY,0,Living,2481,28,5,Female,White,Not Hispanic or Latino,7.9,B,CNS 1,Negative,60,35,43
+TARGET-10-PASFXA,DISCOVERY,1,Deceased,645,455,7,Female,White,Not Hispanic or Latino,260,B,CNS 1,Negative,30,0,0
+TARGET-10-PASGFH,VALIDATION,0,Living,1206,1206,18,Male,Black or African American,Not Hispanic or Latino,7.77,T,CNS 1,Negative,40,2,1.3
+TARGET-10-PASHDV,VALIDATION,0,Living,2671,2671,12,Male,White,Not Hispanic or Latino,123,T,CNS 2a,Negative,0,0,0
+TARGET-10-PASHNK,VALIDATION,0,Living,2578,2578,7,Male,White,Unknown,52.3,T,CNS 1,Negative,0,0,0
+TARGET-10-PASHUI,DISCOVERY,1,Deceased,605,574,6,Male,White,Not Hispanic or Latino,15.3,B,CNS 2,Negative,46,1,0
+TARGET-10-PASHUP,VALIDATION,0,Living,2443,2443,10,Male,White,Not Hispanic or Latino,452.5,T,CNS 2a,Negative,8,1,0.06
+TARGET-10-PASHXL,VALIDATION,0,Living,2491,2491,14,Female,Black or African American,Not Hispanic or Latino,134.9,T,CNS 1,Negative,0,0,0
+TARGET-10-PASIIK,DISCOVERY,1,Deceased,168,47,4,Female,White,Hispanic or Latino,10.67,B,CNS 1,Negative,91,0,2.4
+TARGET-10-PASIIY,VALIDATION,0,Living,1370,1370,6,Male,White,Unknown,54.5,T,CNS 1,Negative,1,2,0
+TARGET-10-PASILW,VALIDATION,1,Deceased,1664,149,13,Female,White,Not Hispanic or Latino,141.51,T,CNS 2a,Negative,0,0,0
+TARGET-10-PASINX,VALIDATION,0,Living,2516,2516,12,Male,White,Not Hispanic or Latino,729,T,CNS 1,Negative,5,0,0
+TARGET-10-PASJJR,VALIDATION,0,Living,2503,2503,15,Male,White,Not Hispanic or Latino,3.5,T,CNS 1,Negative,23,0,0.15
+TARGET-10-PASJLN,VALIDATION,0,Living,2662,2662,11,Male,White,Not Hispanic or Latino,147.76,T,CNS 1,Negative,2,2,0
+TARGET-10-PASJMK,VALIDATION,0,Living,2646,2646,7,Female,Unknown,Hispanic or Latino,16.54,T,CNS 2b,Negative,1,2,0
+TARGET-10-PASJYI,VALIDATION,0,Living,2439,2439,15,Male,White,Not Hispanic or Latino,435.32,T,CNS 1,Negative,31,0,1.2
+TARGET-10-PASKAD,VALIDATION,0,Living,2536,2536,11,Female,White,Not Hispanic or Latino,223.3,T,CNS 3b,Negative,9,0,0
+TARGET-10-PASKAY,DISCOVERY,1,Deceased,487,312,2,Male,Black or African American,Not Hispanic or Latino,20.4,B,CNS 1,Negative,2,2,0
+TARGET-10-PASKCL,VALIDATION,0,Living,2539,2539,13,Male,White,Not Hispanic or Latino,46.9,T,CNS 2a,Negative,1,0,0
+TARGET-10-PASKGG,VALIDATION,0,Living,33,33,16,Male,White,Hispanic or Latino,509.1,T,CNS 1,Negative,8,1,0
+TARGET-10-PASKHT,DISCOVERY,1,Deceased,716,550,13,Male,Black or African American,Unknown,13.66,B,CNS 1,Negative,0,1,0.00699999999999999
+TARGET-10-PASKIC,VALIDATION,0,Living,2710,2710,12,Male,White,Not Hispanic or Latino,44.4,T,CNS 1,Negative,9,0,0
+TARGET-10-PASKRN,VALIDATION,0,Living,2480,2480,6,Male,White,Hispanic or Latino,44.1,T,CNS 1,Negative,1,2,0
+TARGET-10-PASKSY,VALIDATION,0,Living,2367,2367,10,Male,White,Not Hispanic or Latino,34.7,T,CNS 1,Negative,8,1,0.09
+TARGET-10-PASKTG,VALIDATION,0,Living,2128,2128,6,Male,White,Not Hispanic or Latino,66.6,T,CNS 1,Negative,9,0,0
+TARGET-10-PASKXN,VALIDATION,0,Living,579,579,10,Male,White,Not Hispanic or Latino,33.7,T,CNS 1,Negative,0,0,0
+TARGET-10-PASLAB,VALIDATION,0,Living,2517,2517,5,Female,White,Not Hispanic or Latino,335.5,T,CNS 1,Negative,3,1,0
+TARGET-10-PASLBB,VALIDATION,0,Living,2478,2478,8,Male,White,Not Hispanic or Latino,321.6,T,CNS 1,Negative,81,0,1
+TARGET-10-PASLZM,DISCOVERY,1,Deceased,407,258,7,Female,White,Hispanic or Latino,11.2,B,CNS 1,Negative,5,0,0
+TARGET-10-PASMHF,VALIDATION,0,Living,2531,2531,13,Female,White,Hispanic or Latino,411,T,CNS 3a,Negative,17,3,0
+TARGET-10-PASMIC,VALIDATION,0,Living,2500,2500,14,Female,White,Hispanic or Latino,81,T,CNS 2a,Negative,6,1,0
+TARGET-10-PASMNV,VALIDATION,0,Living,2495,2495,13,Male,White,Hispanic or Latino,28.3,T,CNS 1,Negative,1,0,0.03
+TARGET-10-PASMVF,DISCOVERY,0,Living,1892,671,4,Female,White,Not Hispanic or Latino,4,B,CNS 1,Negative,6,0,0.016
+TARGET-10-PASNEH,VALIDATION,0,Living,2579,2579,6,Male,White,Not Hispanic or Latino,46.3,T,CNS 1,Negative,3,1,0
+TARGET-10-PASNTZ,VALIDATION,0,Living,2486,2486,8,Male,Unknown,Unknown,24.8,T,CNS 1,Negative,53,0,0.76
+TARGET-10-PASPBU,VALIDATION,0,Living,2347,2347,16,Male,White,Not Hispanic or Latino,68.6,T,CNS 2a,Negative,2,0,0
+TARGET-10-PASPDS,VALIDATION,0,Living,2626,2626,11,Male,Unknown,Hispanic or Latino,190.1,T,CNS 2a,Negative,0,0,0
+TARGET-10-PASPPN,VALIDATION,1,Deceased,252,188,13,Male,Unknown,Unknown,300.8,T,CNS 2a,Negative,9,0,0.04
+TARGET-10-PASRCV,VALIDATION,0,Living,2451,2451,4,Female,White,Not Hispanic or Latino,321.53,T,CNS 1,Negative,50,4,3.2
+TARGET-10-PASRMM,VALIDATION,0,Living,2485,2485,5,Male,White,Not Hispanic or Latino,143.7,T,CNS 1,Negative,0,0,0
+TARGET-10-PASRXC,DISCOVERY,1,Deceased,1009,650,3,Male,Unknown,Hispanic or Latino,21.9,B,CNS 2,Negative,0,1,0.24
+TARGET-10-PASSEF,VALIDATION,0,Living,2487,2487,5,Female,Unknown,Hispanic or Latino,127.1,T,CNS 2a,Negative,1,0,0
+TARGET-10-PASSHC,VALIDATION,0,Living,2483,2483,16,Male,White,Not Hispanic or Latino,425.9,T,CNS 2b,Negative,28,0,0.24
+TARGET-10-PASSPP,VALIDATION,0,Living,2386,2386,10,Male,Unknown,Not Hispanic or Latino,139.1,T,CNS 2a,Negative,47,0,0
+TARGET-10-PASSRP,VALIDATION,0,Living,1231,1231,5,Male,White,Not Hispanic or Latino,546,T,CNS 1,Negative,30,0,1.7
+TARGET-10-PASSSR,VALIDATION,0,Living,2463,2463,8,Male,Asian,Not Hispanic or Latino,94.6,T,CNS 1,Negative,8,1,0
+TARGET-10-PASSUP,DISCOVERY,1,Deceased,798,669,8,Male,White,Not Hispanic or Latino,115,B,CNS 1,Negative,1,0,0
+TARGET-10-PASSXJ,DISCOVERY,1,Deceased,552,323,4,Male,Unknown,Hispanic or Latino,16.2,B,CNS 1,Negative,14,1,0.0064
+TARGET-10-PASSZA,VALIDATION,0,Living,2496,2496,15,Male,White,Not Hispanic or Latino,119.2,T,CNS 1,Negative,0,0,0
+TARGET-10-PASTDU,VALIDATION,0,Living,2507,2507,9,Male,Unknown,Hispanic or Latino,43.57,T,CNS 1,Negative,87,0,1.2
+TARGET-10-PASTHE,VALIDATION,0,Living,2543,2543,7,Female,Asian,Not Hispanic or Latino,37.8,T,CNS 1,Negative,4,3,0
+TARGET-10-PASTLP,VALIDATION,0,Living,2240,2240,10,Male,White,Hispanic or Latino,181.43,T,CNS 1,Negative,0,0,0
+TARGET-10-PASTPT,VALIDATION,0,Living,2490,2490,5,Female,White,Not Hispanic or Latino,35,T,CNS 1,Negative,1,2,0
+TARGET-10-PASTXU,VALIDATION,0,Living,2002,2002,13,Female,Native Hawaiian or other Pacific Islander,Not Hispanic or Latino,198.5,T,CNS 2b,Negative,0,0,0
+TARGET-10-PASUBW,DISCOVERY,1,Deceased,474,336,14,Male,White,Not Hispanic or Latino,7.4,B,CNS 1,Negative,0,2,0.036
+TARGET-10-PASUGC,VALIDATION,0,Living,2411,2411,10,Male,White,Hispanic or Latino,214.5,T,CNS 2b,Negative,20,0,0
+TARGET-10-PASUIN,VALIDATION,0,Living,2564,2243,14,Male,Native Hawaiian or other Pacific Islander,Not Hispanic or Latino,194.6,T,CNS 2a,Negative,16,0,0
+TARGET-10-PASUSV,VALIDATION,0,Living,2552,2552,9,Male,White,Not Hispanic or Latino,373.4,T,CNS 1,Negative,1,1,0.5
+TARGET-10-PASVIN,VALIDATION,0,Living,2428,2428,8,Male,White,Not Hispanic or Latino,74.08,T,CNS 1,Negative,1,0,0
+TARGET-10-PASVPZ,VALIDATION,0,Living,2432,2432,4,Male,White,Not Hispanic or Latino,213.68,T,CNS 1,Negative,3,2,0
+TARGET-10-PASVUW,DISCOVERY,1,Deceased,420,310,9,Male,White,Hispanic or Latino,13.61,B,CNS 1,Negative,77,0,0.02
+TARGET-10-PASWFN,VALIDATION,0,Living,2395,2395,12,Male,Black or African American,Not Hispanic or Latino,5.8,T,CNS 1,Negative,24,2,2.5
+TARGET-10-PASWNU,VALIDATION,0,Living,2070,2070,16,Female,White,Unknown,52.9,T,CNS 1,Negative,0,0,0
+TARGET-10-PASWSR,VALIDATION,0,Living,2316,2316,4,Female,White,Not Hispanic or Latino,83.4,T,CNS 1,Negative,0,1,0
+TARGET-10-PASWUH,DISCOVERY,0,Living,2072,33,10,Female,Asian,Not Hispanic or Latino,42.5,B,CNS 1,Negative,65,70,77.2
+TARGET-10-PASWXB,VALIDATION,0,Living,2288,2288,10,Male,White,Not Hispanic or Latino,50.08,T,CNS 3c,Negative,4,2,0
+TARGET-10-PASWXZ,VALIDATION,0,Living,2440,2440,8,Female,White,Hispanic or Latino,482.1,T,CNS 1,Negative,NA,0,0
+TARGET-10-PASWZJ,VALIDATION,0,Living,2403,2403,6,Male,Black or African American,Not Hispanic or Latino,167.4,T,CNS 2c,Negative,0,0,0
+TARGET-10-PASXIL,VALIDATION,0,Living,2493,2493,9,Male,White,Not Hispanic or Latino,63.25,T,CNS 3a,Negative,4,1,0.01
+TARGET-10-PASXLT,VALIDATION,0,Living,2419,2419,5,Male,White,Not Hispanic or Latino,93.8,T,CNS 1,Negative,50,0,0.2
+TARGET-10-PASXLZ,VALIDATION,0,Living,2312,2312,6,Male,White,Not Hispanic or Latino,20.9,T,CNS 1,Negative,2,0,0.06
+TARGET-10-PASXMF,VALIDATION,0,Living,2359,2359,11,Male,Native Hawaiian or other Pacific Islander,Not Hispanic or Latino,291,T,CNS 2a,Negative,8,3,0
+TARGET-10-PASXSI,VALIDATION,0,Living,2420,2420,9,Male,Unknown,Hispanic or Latino,403.8,T,CNS 3b,Negative,1,2,0
+TARGET-10-PASXUC,VALIDATION,0,Living,2238,2238,7,Female,Asian,Not Hispanic or Latino,30.07,T,CNS 1,Negative,4,1,0
+TARGET-10-PASXUU,VALIDATION,0,Living,2306,2306,8,Male,White,Not Hispanic or Latino,167.2,T,CNS 1,Negative,16,0,0
+TARGET-10-PASYAJ,VALIDATION,0,Living,2426,2426,4,Male,Black or African American,Not Hispanic or Latino,113.2,T,CNS 1,Negative,6,0,0
+TARGET-10-PASYCN,VALIDATION,0,Living,2313,2313,11,Male,White,Not Hispanic or Latino,45.6,T,CNS 2a,Negative,21,1,0.27
+TARGET-10-PASYGM,DISCOVERY,1,Deceased,429,314,8,Female,White,Hispanic or Latino,14.1,B,CNS 1,Negative,2,0,0
+TARGET-10-PASYHN,VALIDATION,0,Living,1023,1023,18,Male,White,Not Hispanic or Latino,107.7,T,CNS 1,Negative,65,2,1.1
+TARGET-10-PASYIS,VALIDATION,0,Living,2288,2288,9,Female,White,Not Hispanic or Latino,97,T,CNS 2c,Negative,33,0,0.5
+TARGET-10-PASYRH,DISCOVERY,1,Deceased,576,453,16,Male,White,Not Hispanic or Latino,148.52,B,CNS 1,Negative,10,0,0.01
+TARGET-10-PASYSJ,VALIDATION,0,Living,2126,2126,15,Male,White,Not Hispanic or Latino,104.7,T,CNS 3a,Negative,1,1,0
+TARGET-10-PASYWF,VALIDATION,0,Living,2321,2321,6,Female,White,Not Hispanic or Latino,616,T,CNS 3c,Negative,2,1,0
+TARGET-10-PASZEW,VALIDATION,0,Living,2314,2314,8,Female,Unknown,Not Hispanic or Latino,15.6,T,CNS 1,Negative,0,1,0
+TARGET-10-PASZIY,VALIDATION,0,Living,2369,2369,15,Male,White,Hispanic or Latino,12,T,CNS 1,Negative,92,0,3.8
+TARGET-10-PASZJW,VALIDATION,0,Living,2325,2325,30,Male,White,Not Hispanic or Latino,130.1,T,CNS 1,Negative,25,1,0.17
+TARGET-10-PATALJ,VALIDATION,0,Living,1902,1902,13,Male,Black or African American,Not Hispanic or Latino,4.7,T,CNS 1,Negative,0,2,0.69
+TARGET-10-PATAXS,VALIDATION,0,Living,2252,2252,2,Male,Asian,Not Hispanic or Latino,6.1,T,CNS 1,Negative,5,2,0
+TARGET-10-PATAYT,VALIDATION,0,Living,2370,2370,6,Female,White,Hispanic or Latino,26.8,T,CNS 2a,Negative,0,0,0
+TARGET-10-PATBDJ,VALIDATION,0,Living,2344,2344,16,Male,Black or African American,Not Hispanic or Latino,43,T,CNS 1,Negative,10,0,0.06
+TARGET-10-PATBDK,VALIDATION,0,Living,2312,2312,8,Male,White,Not Hispanic or Latino,226.2,T,CNS 2b,Negative,2,2,0
+TARGET-10-PATBGC,VALIDATION,0,Living,1841,1841,11,Female,Black or African American,Not Hispanic or Latino,353.4,T,CNS 1,Negative,64,2,0.8
+TARGET-10-PATBNT,VALIDATION,0,Living,2156,2156,14,Male,White,Not Hispanic or Latino,11.7,T,CNS 2a,Negative,0,0,0
+TARGET-10-PATBRV,VALIDATION,1,Deceased,213,213,9,Female,White,Not Hispanic or Latino,579,T,CNS 1,Negative,26,0,0
+TARGET-10-PATBTX,VALIDATION,0,Living,2185,2185,4,Male,White,Hispanic or Latino,25.4,T,CNS 1,Negative,12,3,0.06
+TARGET-10-PATBYK,VALIDATION,1,Deceased,743,387,17,Female,Black or African American,Not Hispanic or Latino,554,T,CNS 1,Negative,40,1,0
+TARGET-10-PATCDM,VALIDATION,1,Deceased,949,357,4,Male,White,Not Hispanic or Latino,748,T,CNS 3b,Negative,27,0,0
+TARGET-10-PATCDZ,VALIDATION,0,Living,NA,NA,14,Male,White,Hispanic or Latino,15.7,T,CNS 2b,Negative,2,NA,0
+TARGET-10-PATCKV,VALIDATION,0,Living,2406,2406,15,Male,White,Hispanic or Latino,2.33,T,CNS 1,Negative,42,0,0.1
+TARGET-10-PATCNI,VALIDATION,0,Living,2400,2400,5,Female,Black or African American,Not Hispanic or Latino,369,T,CNS 1,Negative,81,2,2.2
+TARGET-10-PATCTI,DISCOVERY,1,Deceased,482,363,7,Male,White,Not Hispanic or Latino,11.1,B,CNS 1,Negative,10,2,0.18
+TARGET-10-PATCUK,VALIDATION,0,Living,2244,2244,13,Male,White,Not Hispanic or Latino,203.5,T,CNS 1,Negative,2,0,0
+TARGET-10-PATCZN,VALIDATION,0,Living,2302,2302,5,Female,White,Hispanic or Latino,292.2,T,CNS 1,Negative,14,0,0
+TARGET-10-PATDBU,VALIDATION,0,Living,2334,2334,10,Male,White,Not Hispanic or Latino,49,T,CNS 2b,Negative,54,0,0
+TARGET-10-PATDDZ,VALIDATION,0,Living,2183,2183,13,Male,White,Not Hispanic or Latino,96.1,T,CNS 1,Negative,14,0,0
+TARGET-10-PATDFE,VALIDATION,0,Living,2365,1166,6,Female,White,Hispanic or Latino,13.2,T,CNS 1,Negative,1,0,0
+TARGET-10-PATDGZ,VALIDATION,0,Living,2324,2324,3,Male,White,Not Hispanic or Latino,28.7,T,CNS 1,Negative,0,0,0
+TARGET-10-PATDKT,VALIDATION,0,Living,2305,2305,23,Male,White,Hispanic or Latino,88.5,T,CNS 2a,Negative,20,2,0
+TARGET-10-PATDLG,VALIDATION,0,Living,2351,2351,12,Male,White,Not Hispanic or Latino,21.2,T,CNS 1,Negative,15,1,0
+TARGET-10-PATDMN,VALIDATION,0,Living,2323,2323,7,Male,White,Hispanic or Latino,167.8,T,CNS 1,Negative,39,1,0.26
+TARGET-10-PATDRC,VALIDATION,0,Living,1262,1262,7,Male,White,Not Hispanic or Latino,71.7,T,CNS 1,Negative,59,1,1.3
+TARGET-10-PATEAK,VALIDATION,0,Living,2340,2340,18,Male,Asian,Not Hispanic or Latino,211.8,T,CNS 1,Negative,0,0,0
+TARGET-10-PATEEN,DISCOVERY,1,Deceased,516,418,24,Male,White,Hispanic or Latino,337,B,CNS 2,Negative,18,1,0.2
+TARGET-10-PATEFF,VALIDATION,0,Living,2114,124,7,Male,White,Not Hispanic or Latino,35.3,T,CNS 3c,Negative,5,0,0
+TARGET-10-PATEHZ,VALIDATION,0,Living,1707,545,9,Male,White,Not Hispanic or Latino,18.85,T,CNS 1,Negative,1,0,0
+TARGET-10-PATEIT,VALIDATION,1,Deceased,605,440,10,Female,White,Not Hispanic or Latino,472,T,CNS 2a,Negative,92,0,3.3
+TARGET-10-PATEMI,VALIDATION,0,Living,2172,2172,18,Female,White,Hispanic or Latino,5.4,T,CNS 1,Negative,15,0,0.1
+TARGET-10-PATENL,VALIDATION,1,Deceased,605,425,4,Male,White,Not Hispanic or Latino,41,T,CNS 1,Negative,20,2,0
+TARGET-10-PATEVL,VALIDATION,0,Living,2339,2339,4,Male,Black or African American,Not Hispanic or Latino,911.8,T,CNS 2b,Negative,95,0,0.15
+TARGET-10-PATEYS,VALIDATION,0,Living,1932,1932,6,Male,Black or African American,Not Hispanic or Latino,536.7,T,CNS 3b,Negative,60,1,0
+TARGET-10-PATFJD,VALIDATION,0,Living,2295,2295,3,Female,White,Not Hispanic or Latino,77.73,T,CNS 1,Negative,10,2,2.5
+TARGET-10-PATFJP,VALIDATION,0,Living,2025,2025,9,Male,White,Not Hispanic or Latino,232.66,T,CNS 1,Negative,2,1,0
+TARGET-10-PATFRM,VALIDATION,0,Living,2203,2203,19,Male,White,Not Hispanic or Latino,7.2,T,CNS 2b,Negative,79,0,0.1
+TARGET-10-PATFVG,VALIDATION,0,Living,2191,2191,6,Male,White,Not Hispanic or Latino,225,T,CNS 1,Negative,0,0,0
+TARGET-10-PATFWF,VALIDATION,0,Living,208,208,18,Male,Unknown,Unknown,20.3,T,CNS 1,Negative,0,1,4.9
+TARGET-10-PATFYZ,VALIDATION,0,Living,2317,2317,16,Male,White,Not Hispanic or Latino,136.9,T,CNS 1,Negative,1,1,0.07
+TARGET-10-PATGBY,VALIDATION,0,Living,2334,2334,22,Male,White,Unknown,3.9,T,CNS 2a,Negative,1,1,0
+TARGET-10-PATGKE,VALIDATION,0,Living,2006,2006,12,Male,White,Not Hispanic or Latino,37.3,T,CNS 1,Negative,4,1,0
+TARGET-10-PATGLV,VALIDATION,0,Living,2289,2289,7,Male,White,Hispanic or Latino,224.7,T,CNS 1,Negative,5,1,0.2
+TARGET-10-PATGMP,VALIDATION,0,Living,2180,1907,11,Male,White,Not Hispanic or Latino,111.9,T,CNS 1,Negative,1,0,0
+TARGET-10-PATGVX,VALIDATION,0,Living,2305,2305,8,Male,White,Not Hispanic or Latino,16.6,T,CNS 1,Negative,3,0,0.016
+TARGET-10-PATGWP,VALIDATION,0,Living,2203,2203,15,Male,Black or African American,Not Hispanic or Latino,175.2,T,CNS 1,Negative,26,0,1.6
+TARGET-10-PATGXS,VALIDATION,0,Living,2136,2136,14,Female,White,Not Hispanic or Latino,25.4,T,CNS 1,Negative,76,0,0.7
+TARGET-10-PATGYH,VALIDATION,0,Living,2154,2154,17,Male,Black or African American,Not Hispanic or Latino,99.3,T,CNS 1,Negative,55,0,2.9
+TARGET-10-PATGZA,VALIDATION,0,Living,2184,2184,15,Female,White,Not Hispanic or Latino,0.7,T,CNS 2a,Negative,19,0,0
+TARGET-10-PATHBG,VALIDATION,0,Living,2176,2176,3,Female,White,Not Hispanic or Latino,53.6,T,CNS 1,Negative,68,0,0.85
+TARGET-10-PATHFE,VALIDATION,0,Living,2178,2178,12,Male,White,Not Hispanic or Latino,20.8,T,CNS 1,Negative,0,0,0
+TARGET-10-PATHGY,VALIDATION,0,Living,2125,2125,4,Male,White,Not Hispanic or Latino,193,T,CNS 2b,Negative,2,1,0
+TARGET-10-PATHJF,VALIDATION,0,Living,2039,2039,11,Female,White,Not Hispanic or Latino,43.6,T,CNS 1,Negative,1,2,0
+TARGET-10-PATHRF,VALIDATION,0,Living,2289,2289,6,Male,White,Not Hispanic or Latino,107.7,T,CNS 1,Negative,0,0,0
+TARGET-10-PATHWV,VALIDATION,0,Living,2253,2253,9,Male,White,Not Hispanic or Latino,224,T,CNS 2c,Negative,19,0,0.09
+TARGET-10-PATIBE,VALIDATION,0,Living,2124,2124,12,Female,Black or African American,Not Hispanic or Latino,315,T,CNS 2a,Negative,40,0,0
+TARGET-10-PATIKN,VALIDATION,0,Living,2139,2139,2,Male,Unknown,Not Hispanic or Latino,148.2,T,CNS 1,Negative,79,0,0
+TARGET-10-PATISC,DISCOVERY,1,Deceased,408,302,9,Male,Black or African American,Not Hispanic or Latino,14.8,B,CNS 1,Negative,5,0,0
+TARGET-10-PATITB,VALIDATION,0,Living,2191,2191,16,Male,Black or African American,Not Hispanic or Latino,343.9,T,CNS 2b,Negative,1,0,0
+TARGET-10-PATITY,VALIDATION,0,Living,2156,2156,9,Male,White,Not Hispanic or Latino,50.9,T,CNS 2a,Negative,19,1,0
+TARGET-10-PATJBC,VALIDATION,0,Living,2203,2203,6,Male,White,Hispanic or Latino,36.2,T,CNS 1,Negative,16,0,1.4
+TARGET-10-PATJLT,VALIDATION,0,Living,2201,2201,13,Male,White,Hispanic or Latino,252,T,CNS 3a,Negative,28,0,0
+TARGET-10-PATJZK,VALIDATION,0,Living,1335,469,19,Male,White,Not Hispanic or Latino,9.7,T,CNS 1,Negative,0,0,0
+TARGET-10-PATKGP,VALIDATION,0,Living,2167,2167,11,Female,White,Hispanic or Latino,6.3,T,CNS 3c,Negative,0,1,0
+TARGET-10-PATKVD,VALIDATION,0,Living,2151,191,3,Male,White,Not Hispanic or Latino,180.57,T,CNS 1,Negative,3,0,0
+TARGET-10-PATKWU,VALIDATION,0,Living,2083,2083,14,Male,White,Not Hispanic or Latino,22.9,T,CNS 2a,Negative,0,0,0
+TARGET-10-PATKYI,VALIDATION,0,Living,2009,2009,21,Male,Black or African American,Not Hispanic or Latino,1.8,T,CNS 1,Negative,20,1,0.7
+TARGET-10-PATLGU,VALIDATION,0,Living,2183,2183,8,Male,Asian,Not Hispanic or Latino,263,T,CNS 2b,Negative,13,0,0
+TARGET-10-PATLHH,VALIDATION,0,Living,2162,2162,8,Male,White,Not Hispanic or Latino,34,T,CNS 1,Negative,49,5,4.9
+TARGET-10-PATLHS,VALIDATION,0,Living,1553,1553,11,Male,White,Not Hispanic or Latino,38.8,T,CNS 1,Negative,25,1,0
+TARGET-10-PATLMA,VALIDATION,0,Living,87,87,9,Female,Unknown,Not Hispanic or Latino,22.8,T,CNS 1,Negative,0,0,0
+TARGET-10-PATLNS,VALIDATION,0,Living,2086,2086,3,Female,Black or African American,Unknown,18.4,T,CNS 1,Negative,18,0,0
+TARGET-10-PATLNZ,VALIDATION,0,Living,1221,1221,10,Male,White,Unknown,3.4,T,CNS 1,Negative,0,1,0
+TARGET-10-PATLPN,VALIDATION,0,Living,2057,2055,3,Male,White,Not Hispanic or Latino,674,T,CNS 1,Negative,12,0,0
+TARGET-10-PATLRZ,VALIDATION,0,Living,2025,2025,14,Male,White,Not Hispanic or Latino,102.4,T,CNS 1,Negative,0,0,0
+TARGET-10-PATMAF,VALIDATION,0,Living,1469,1469,17,Male,White,Not Hispanic or Latino,12.5,T,CNS 1,Negative,64,0,4.2
+TARGET-10-PATMRE,VALIDATION,0,Living,2099,2099,7,Male,Black or African American,Not Hispanic or Latino,312.8,T,CNS 1,Negative,38,0,0
+TARGET-10-PATMTV,VALIDATION,0,Living,2179,2179,12,Male,White,Not Hispanic or Latino,188.3,T,CNS 2a,Negative,30,0,0.03
+TARGET-10-PATMVH,VALIDATION,0,Living,2079,2079,19,Male,White,Not Hispanic or Latino,35.2,T,CNS 2a,Negative,4,0,0
+TARGET-10-PATMXN,VALIDATION,0,Living,1191,1191,15,Male,White,Not Hispanic or Latino,6.6,T,CNS 1,Negative,23,1,4.6
+TARGET-10-PATMYZ,VALIDATION,0,Living,2108,2108,13,Male,White,Not Hispanic or Latino,4.9,T,CNS 1,Negative,28,0,0
+TARGET-10-PATNAM,VALIDATION,0,Living,2156,2156,3,Female,Unknown,Hispanic or Latino,607.4,T,CNS 1,Negative,9,0,2.8
+TARGET-10-PATNIA,VALIDATION,0,Living,2153,2153,7,Female,Asian,Not Hispanic or Latino,143.9,T,CNS 1,Negative,0,1,0
+TARGET-10-PATPDA,VALIDATION,0,Living,1815,1815,3,Male,White,Not Hispanic or Latino,605,T,CNS 2c,Negative,6,0,0
+TARGET-10-PATPGE,VALIDATION,0,Living,2009,2009,20,Male,White,Not Hispanic or Latino,150,T,CNS 1,Negative,75,1,0
+TARGET-10-PATPWF,VALIDATION,0,Living,1925,1925,2,Male,Unknown,Unknown,272,T,CNS 1,Negative,10,0,0
+TARGET-10-PATRAB,VALIDATION,0,Living,2146,2146,5,Female,White,Not Hispanic or Latino,427.9,T,CNS 2a,Negative,2,1,0
+TARGET-10-PATRGV,VALIDATION,1,Deceased,1679,128,2,Female,White,Not Hispanic or Latino,59.2,T,CNS 3a,Negative,0,0,0.61
+TARGET-10-PATRHL,VALIDATION,0,Living,2043,2043,7,Male,White,Not Hispanic or Latino,22.7,T,CNS 1,Negative,2,0,0
+TARGET-10-PATRIC,DISCOVERY,1,Deceased,202,28,22,Male,Unknown,Not Hispanic or Latino,145.1,B,CNS 1,Negative,93,89,80.3
+TARGET-10-PATRNA,VALIDATION,0,Living,2079,2079,3,Male,White,Not Hispanic or Latino,397,T,CNS 2a,Negative,8,0,0
+TARGET-10-PATRUN,VALIDATION,0,Living,101,101,5,Male,White,Not Hispanic or Latino,18.1,T,CNS 1,Negative,1,0,0
+TARGET-10-PATRXL,VALIDATION,0,Living,1795,1795,5,Male,White,Not Hispanic or Latino,133.1,T,CNS 2a,Negative,9,0,0.19
+TARGET-10-PATSAH,DISCOVERY,1,Deceased,711,138,18,Female,White,Not Hispanic or Latino,15.8,B,CNS 1,Negative,NA,1,0
+TARGET-10-PATSDS,VALIDATION,0,Living,2055,2055,15,Male,White,Not Hispanic or Latino,190.8,T,CNS 1,Negative,1,0,0
+TARGET-10-PATSIL,VALIDATION,0,Living,2030,2030,16,Male,White,Not Hispanic or Latino,23.8,T,CNS 1,Negative,9,1,0
+TARGET-10-PATSIY,VALIDATION,0,Living,2090,1721,10,Male,White,Hispanic or Latino,145,T,CNS 1,Negative,77,1,0.026
+TARGET-10-PATSLH,VALIDATION,0,Living,1807,1807,3,Male,White,Not Hispanic or Latino,102.3,T,CNS 1,Negative,15,0,0.02
+TARGET-10-PATTEE,DISCOVERY,1,Deceased,232,98,14,Female,White,Not Hispanic or Latino,107,B,CNS 2,Negative,69,0,0
+TARGET-10-PATTHR,VALIDATION,0,Living,2041,2041,17,Male,Asian,Not Hispanic or Latino,15.2,T,CNS 1,Negative,49,3,3.6
+TARGET-10-PATVDA,VALIDATION,0,Living,42,42,3,Female,Asian,Not Hispanic or Latino,8.6,T,CNS 1,Negative,0,0,0.12
+TARGET-10-PATWHB,VALIDATION,0,Living,1914,1914,11,Female,White,Not Hispanic or Latino,751.8,T,CNS 3c,Negative,4,0,0
+TARGET-10-PATWIJ,VALIDATION,0,Living,1941,1941,15,Male,White,Hispanic or Latino,118.3,T,CNS 1,Negative,2,1,0
+TARGET-10-PATWJU,VALIDATION,0,Living,2013,2013,6,Male,White,Unknown,9.2,T,CNS 1,Negative,4,2,0
+TARGET-10-PATWXC,VALIDATION,0,Living,1839,1839,16,Male,White,Not Hispanic or Latino,88.6,T,CNS 1,Negative,0,0,0
+TARGET-10-PATWYL,VALIDATION,0,Living,1838,1838,16,Male,White,Not Hispanic or Latino,40.4,T,CNS 2a,Negative,60,0,0
+TARGET-10-PATWYZ,VALIDATION,0,Living,1973,1973,4,Male,White,Not Hispanic or Latino,37.04,T,CNS 1,Negative,6,0,0
+TARGET-10-PATXAL,VALIDATION,0,Living,235,235,16,Male,Black or African American,Not Hispanic or Latino,158.8,T,CNS 1,Negative,3,1,0
+TARGET-10-PATXKW,VALIDATION,0,Living,1374,1374,19,Male,White,Not Hispanic or Latino,56.5,T,CNS 2a,Negative,40,0,0
+TARGET-10-PATXNK,VALIDATION,0,Living,1865,1865,10,Male,White,Not Hispanic or Latino,402.59,T,CNS 1,Negative,2,0,0
+TARGET-10-PATXNR,VALIDATION,0,Living,1869,1869,18,Female,White,Not Hispanic or Latino,152,T,CNS 1,Negative,1,0,0
+TARGET-10-PATXSK,VALIDATION,0,Living,1991,1991,7,Male,White,Not Hispanic or Latino,91.6,T,CNS 2c,Negative,6,0,0
+TARGET-10-PATYCH,VALIDATION,0,Living,1854,1854,4,Male,White,Not Hispanic or Latino,15.8,T,CNS 1,Negative,0,0,0
+TARGET-10-PATYJK,VALIDATION,0,Living,1955,1955,13,Male,White,Not Hispanic or Latino,2.4,T,CNS 1,Negative,61,0,1
+TARGET-10-PATYMP,VALIDATION,0,Living,1759,1759,19,Male,Unknown,Unknown,20.04,T,CNS 1,Negative,1,1,0
+TARGET-10-PATYWV,VALIDATION,1,Deceased,1649,741,8,Male,White,Not Hispanic or Latino,135.1,T,CNS 1,Negative,2,0,0
+TARGET-10-PATZFF,VALIDATION,0,Living,1832,1832,11,Female,White,Unknown,97.7,T,CNS 1,Negative,0,0,0
+TARGET-10-PATZSL,VALIDATION,0,Living,1897,1897,11,Female,Asian,Not Hispanic or Latino,35.7,T,CNS 1,Negative,1,0,0
+TARGET-10-PATZVD,VALIDATION,0,Living,1908,1908,5,Male,Unknown,Unknown,2.22,T,CNS 1,Negative,1,1,0
+TARGET-10-PATZWA,VALIDATION,0,Living,1863,1863,11,Female,White,Hispanic or Latino,43.1,T,CNS 1,Negative,0,0,0
+TARGET-10-PATZYC,VALIDATION,0,Living,1882,1882,4,Male,White,Not Hispanic or Latino,745.36,T,CNS 1,Negative,3,0,0
+TARGET-10-PATZYR,VALIDATION,0,Living,1903,1903,9,Male,White,Not Hispanic or Latino,188.4,T,CNS 1,Negative,40,1,0.03
+TARGET-10-PAUACG,VALIDATION,0,Living,1777,1777,5,Male,White,Not Hispanic or Latino,90.91,T,CNS 1,Negative,61,0,1
+TARGET-10-PAUAFN,VALIDATION,0,Living,1854,1854,4,Male,Unknown,Unknown,769.32,T,CNS 2a,Negative,0,1,0
+TARGET-10-PAUAJA,VALIDATION,0,Living,1875,1875,12,Male,Unknown,Not Hispanic or Latino,156.8,T,CNS 1,Negative,48,0,2.1
+TARGET-10-PAUAYB,VALIDATION,0,Living,1834,1834,19,Male,Asian,Not Hispanic or Latino,197.3,T,CNS 2c,Negative,60,3,0.68
+TARGET-10-PAUAZV,VALIDATION,0,Living,1807,1807,9,Male,White,Hispanic or Latino,14.1,T,CNS 1,Negative,0,0,0
+TARGET-10-PAUBCB,VALIDATION,0,Living,1870,1870,16,Male,White,Not Hispanic or Latino,213.9,T,CNS 1,Negative,6,0,0
+TARGET-10-PAUBCT,VALIDATION,0,Living,1845,1845,14,Male,White,Not Hispanic or Latino,75.9,T,CNS 1,Negative,0,0,0
+TARGET-10-PAUBLL,VALIDATION,0,Living,1914,1914,8,Female,Black or African American,Not Hispanic or Latino,7.04,T,CNS 1,Negative,0,0,0
+TARGET-10-PAUBPY,VALIDATION,0,Living,1837,1837,12,Male,Unknown,Hispanic or Latino,50.9,T,CNS 1,Negative,53,10,0.04
+TARGET-10-PAUBTC,VALIDATION,0,Living,1833,119,2,Female,Unknown,Not Hispanic or Latino,888,T,CNS 3a,Negative,NA,0,0.37
+TARGET-10-PAUBXP,VALIDATION,0,Living,1747,1747,9,Male,White,Not Hispanic or Latino,93,T,CNS 1,Negative,12,0,0
+TARGET-10-PAUCDC,VALIDATION,0,Living,1867,1867,17,Male,White,Not Hispanic or Latino,628.8,T,CNS 1,Negative,72,1,0
+TARGET-10-PAUCDY,VALIDATION,0,Living,1793,1793,10,Male,White,Not Hispanic or Latino,2.2,T,CNS 1,Negative,73,4,4.8
